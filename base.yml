@@ -1,0 +1,66 @@
+matches:
+  - trigger: "ti"
+    replace: "there is"
+    word: true
+    propagate_case: true
+
+  - trigger: "tr"
+    replace: "there are"
+    word: true
+    propagate_case: true
+
+  - trigger: "neg"
+    replace: "non-enhancing"
+    word: true
+    propagate_case: true
+
+  - trigger: "heng"
+    replace: "heterogeneously enhancing"
+    word: true
+    propagate_case: true
+
+  - trigger: "hoeng"
+    replace: "homogeneously enhancing"
+    word: true
+    propagate_case: true
+
+  - trigger: "ta"
+    replace: "there are"
+    word: true
+    propagate_case: true
+
+  - trigger: "nt"
+    replace: "noted"
+    word: true
+    propagate_case: true
+
+  - trigger: "les"
+    replace: "lesion"
+    word: true
+    propagate_case: true
+
+  - trigger: "std"
+    replace: "soft tissue density"
+    word: true
+    propagate_case: true
+
+  - trigger: "cals"
+    replace: "calculus"
+    word: true
+    propagate_case: true
+
+  - trigger: "cali"
+    replace: "calculi"
+    word: true
+    propagate_case: true
+
+  - trigger: "hemangiomaex"
+    replace: "There is a lesion measuring 1.5x1.2 cm which shows peripheral nodular enhancement in arterial phase with progressive centripetal filling and enhancement corresponding to adjacent blood pool in subsequent phase."
+    word: true
+    propagate_case: true
+
+  - trigger: "emh"
+    replace: "Soft tissue density is noted in right middle ear cavity involving epitympanum, mesotympanum and hypotympanum which is extending to mastoid cavity through aditus ad antrum. Tegmen tympani, ear ossicles, sinus plate, scutum and facial canal appear normal"
+    word: true
+    propagate_case: true
+
