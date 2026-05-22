@@ -230,7 +230,7 @@ matches:
     propagate_case: true
 
   - trigger: "atha"
-    replace: "Atherosclerotic changes are noted in the aorta and its branches."
+    replace: "Atherosclerotic changes are noted in the aorta and its branches"
     word: true
     propagate_case: true
 
@@ -450,7 +450,7 @@ matches:
     propagate_case: true
 
   - trigger: "ceat"
-    replace: "There is volume loss of bilateral cerebral hemispheres with prominent sulci, extraaxial CSF spaces & proportionate dilatation of ventricles."
+    replace: "There is volume loss of bilateral cerebral hemispheres with prominent sulci, extraaxial CSF spaces & proportionate dilatation of ventricles"
     word: true
     propagate_case: true
 
@@ -715,7 +715,7 @@ matches:
     propagate_case: true
 
   - trigger: "dgcv"
-    replace: "Degenerative changes are seen in visualised spine."
+    replace: "Degenerative changes are seen in visualised spine"
     word: true
     propagate_case: true
 
@@ -820,7 +820,7 @@ matches:
     propagate_case: true
 
   - trigger: "emh"
-    replace: "Soft tissue density is noted in right middle ear cavity involving epitympanum, mesotympanum and hypotympanum which is extending to mastoid cavity through aditus ad antrum. Tegmen tympani, ear ossicles, sinus plate, scutum and facial canal appear normal."
+    replace: "Soft tissue density is noted in right middle ear cavity involving epitympanum, mesotympanum and hypotympanum which is extending to mastoid cavity through aditus ad antrum. Tegmen tympani, ear ossicles, sinus plate, scutum and facial canal appear normal"
     word: true
     propagate_case: true
 
@@ -954,6 +954,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "fp"
+    replace: "fat plane"
+    word: true
+    propagate_case: true
+
   - trigger: "fpt"
     replace: "fronto-parieto-temporal"
     word: true
@@ -1065,12 +1070,17 @@ matches:
     propagate_case: true
 
   - trigger: "hemangiomaex"
-    replace: "There is a lesion measuring 1.5x1.2 cm which shows peripheral nodular enhancement in arterial phase with progressive centripetal filling and enhancement corresponding to adjacent blood pool in subsequent phase."
+    replace: "There is a lesion measuring 1.5x1.2 cm which shows peripheral nodular enhancement in arterial phase with progressive centripetal filling and enhancement corresponding to adjacent blood pool in subsequent phase"
     word: true
     propagate_case: true
 
   - trigger: "heng"
     replace: "heterogeneously enhancing"
+    word: true
+    propagate_case: true
+
+  - trigger: "hepa"
+    replace: "hepatic artery"
     word: true
     propagate_case: true
 
@@ -1490,17 +1500,22 @@ matches:
     propagate_case: true
 
   - trigger: "locl"
-    replace: "Loss of cervical lordosis is seen."
+    replace: "Loss of cervical lordosis is seen"
     word: true
     propagate_case: true
 
   - trigger: "locll"
-    replace: "Loss of cervical and lumbar lordosis is seen."
+    replace: "Loss of cervical and lumbar lordosis is seen"
+    word: true
+    propagate_case: true
+
+  - trigger: "lofp"
+    replace: "loss of fat plane"
     word: true
     propagate_case: true
 
   - trigger: "loll"
-    replace: "Loss of lumbar lordosis is seen."
+    replace: "Loss of lumbar lordosis is seen"
     word: true
     propagate_case: true
 
@@ -1651,6 +1666,11 @@ matches:
 
   - trigger: "mets"
     replace: "metastasis"
+    word: true
+    propagate_case: true
+
+  - trigger: "mfp"
+    replace: "maintained fat plane"
     word: true
     propagate_case: true
 
@@ -1815,7 +1835,7 @@ matches:
     propagate_case: true
 
   - trigger: "nos"
-    replace: "No septations, solid component or calcification noted within."
+    replace: "No septations, solid component or calcification noted within"
     word: true
     propagate_case: true
 
@@ -1830,12 +1850,12 @@ matches:
     propagate_case: true
 
   - trigger: "nsl"
-    replace: "Nasal septum is deviated to left."
+    replace: "Nasal septum is deviated to left"
     word: true
     propagate_case: true
 
   - trigger: "nsr"
-    replace: "Nasal septum is deviated to right."
+    replace: "Nasal septum is deviated to right"
     word: true
     propagate_case: true
 
@@ -2060,7 +2080,7 @@ matches:
     propagate_case: true
 
   - trigger: "pess"
-    replace: "There is fluid signal intensity noted in the pituitary fossa suggestive of partial empty sella."
+    replace: "There is fluid signal intensity noted in the pituitary fossa suggestive of partial empty sella"
     word: true
     propagate_case: true
 
@@ -2130,7 +2150,7 @@ matches:
     propagate_case: true
 
   - trigger: "polip"
-    replace: "Soft tissue density with convex outward margin is noted in right maxillary sinus – polyp/ retention cyst."
+    replace: "Soft tissue density with convex outward margin is noted in right maxillary sinus – polyp/ retention cyst"
     word: true
     propagate_case: true
 
@@ -2280,12 +2300,12 @@ matches:
     propagate_case: true
 
   - trigger: "recc"
-    replace: "renal cortical cyst"
+    replace: "renal cortical cyst (Bosniak cat-I)"
     word: true
     propagate_case: true
 
   - trigger: "redr"
-    replace: "Rest of the intervertebral discs are normal in height and signal intensity."
+    replace: "Rest of the intervertebral discs are normal in height and signal intensity"
     word: true
     propagate_case: true
 
@@ -2300,7 +2320,7 @@ matches:
     propagate_case: true
 
   - trigger: "relr"
-    replace: "Rest of the lung fields shows normal attenuation and normal in aeration."
+    replace: "Rest of the lung fields shows normal attenuation and normal in aeration"
     word: true
     propagate_case: true
 
@@ -2480,7 +2500,7 @@ matches:
     propagate_case: true
 
   - trigger: "sins"
-    replace: "Mucosal thickening noted in bilateral maxillary sinus - suggestive of sinusitis."
+    replace: "Mucosal thickening noted in bilateral maxillary sinus - suggestive of sinusitis"
     word: true
     propagate_case: true
 
@@ -2521,6 +2541,11 @@ matches:
 
   - trigger: "sphs"
     replace: "sphenoid sinus"
+    word: true
+    propagate_case: true
+
+  - trigger: "spla"
+    replace: "splenic artery"
     word: true
     propagate_case: true
 
@@ -2600,12 +2625,12 @@ matches:
     propagate_case: true
 
   - trigger: "svd"
-    replace: "small vessel disease"
+    replace: "small vessel disease (Fazekas grade-I)"
     word: true
     propagate_case: true
 
   - trigger: "svds"
-    replace: "Discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale."
+    replace: "Discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale"
     word: true
     propagate_case: true
 
@@ -2680,7 +2705,7 @@ matches:
     propagate_case: true
 
   - trigger: "tmas"
-    replace: "T2 high signal intensity noted in bilateral maxillary sinus - suggestive of sinusitis."
+    replace: "T2 high signal intensity noted in bilateral maxillary sinus - suggestive of sinusitis"
     word: true
     propagate_case: true
 
@@ -2690,7 +2715,7 @@ matches:
     propagate_case: true
 
   - trigger: "tpor"
-    replace: "T2 high signal intensity with convex free margin is noted in right maxillary sinus - polyp/ retention cyst."
+    replace: "T2 high signal intensity with convex free margin is noted in right maxillary sinus - polyp/ retention cyst"
     word: true
     propagate_case: true
 
@@ -2735,32 +2760,32 @@ matches:
     propagate_case: true
 
   - trigger: "ube"
-    replace: "Urinary bladder is empty."
+    replace: "Urinary bladder is empty"
     word: true
     propagate_case: true
 
   - trigger: "ubef"
-    replace: "Urinary bladder is empty with Foley's in situ."
+    replace: "Urinary bladder is empty with Foley's in situ"
     word: true
     propagate_case: true
 
   - trigger: "ubm"
-    replace: "Urinary bladder is minimally filled."
+    replace: "Urinary bladder is minimally filled"
     word: true
     propagate_case: true
 
   - trigger: "ubmf"
-    replace: "Urinary bladder is minimally filled with Foley's in situ."
+    replace: "Urinary bladder is minimally filled with Foley's in situ"
     word: true
     propagate_case: true
 
   - trigger: "ubp"
-    replace: "Urinary bladder is partially filled."
+    replace: "Urinary bladder is partially filled"
     word: true
     propagate_case: true
 
   - trigger: "ubpf"
-    replace: "Urinary bladder is partially filled with Foley's in situ."
+    replace: "Urinary bladder is partially filled with Foley's in situ"
     word: true
     propagate_case: true
 
@@ -2820,7 +2845,7 @@ matches:
     propagate_case: true
 
   - trigger: "vrs"
-    replace: "Multiple tiny T2 high signal intensity foci noted in  bilateral frontoparietal lobe which are suppressed on FLAIR , likely Virchow Robin spaces."
+    replace: "Multiple tiny T2 high signal intensity foci noted in  bilateral frontoparietal lobe which are suppressed on FLAIR , likely Virchow Robin spaces"
     word: true
     propagate_case: true
 
