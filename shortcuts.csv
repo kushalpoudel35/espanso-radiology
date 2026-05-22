@@ -1,14 +1,572 @@
 ﻿trigger,replacement
-ti,there is
-tr,there are
-neg,non-enhancing
-heng,heterogeneously enhancing
-hoeng,homogeneously enhancing
-ta,there are
-nt,noted
-les,lesion
-std,soft tissue density
-cals,calculus
+aa,abdominal aorta
+aaw,anterior abdominal wall
+abd,abdominal
+abdly,abdominal lymphadenopathy
+abdp,abdomen and pelvis
+abn,abnormal
+abs,anterobasal segment
+abu,abutting
+abut,abutment
+ac,aortocaval
+aca,anterior cerebral artery
+acj,acromio-clavicular joint
+acl,anterior cruciate ligament
+acom,anterior communicating artery
+ada,as described above
+adb,asymmetric disc bulge
+adem,acute disseminated encephalomyelitis
+adenoca,adenocarcinoma
+adj,adjacent
+adpkd,autosomal dominant polycystic kidney disease
+adv,Advice:
+af,arising from
+ag,adrenal gland
+aib,air bronchograms
+ainf,anteroinferior
+alat,anterolateral
+allg,anterior longitudinal ligament
+ambs,antero medial basal segment
+amed,anteromedial
+ant,anterior
+anty,anteriorly
+aoa,arch of aorta
+ap,anteroposterior
+apos,apicoposterior segment
+approx,approximately
+apw,aortopulmonary window
+art,artery
+asc,ascending
+asd,anterior sectoral duct
+asp,aspect
+asup,anterosuperior
+asym,asymmetric
+ata,anterior tibial artery
+atc,(AP x Tra x CC)
+atel,atelectasis
+ath,atherosclerotic
+atha,Atherosclerotic changes are noted in the aorta and its branches.
+athp,atherosclerotic plaque
+atl,atelectasis
+ats,anterior thecal sac
+atsl,at the same level
+att,attenuating
+attn,attenuation
+atv,anterior tibial vein
+bct,brachiocephalic trunk
+ben,benign
+benp,benign pathology
+bg,basal ganglia
+bif,bifurcation
+bl,bilateral
+blf,bilateral lung fields
+blk,bilateral kidneys
+bll,bilateral lower lobes
+bm,bone marrow
+br,branch
+broc,bronchiectatic changes
+bul,bilateral upper lobes
+bw,between
+c12,C1-C2
+c23,C2-C3
+c34,C3-C4
+c45,C4-C5
+c56,C5-C6
+c67,C6-C7
+c71,C7-D1
+ca,carcinoma
+calc,calcification
+cald,calcified
 cali,calculi
+cals,calculus
+cap,calcified atherosclerotic plaques
+carme,cardiomegaly
+carmeg,Cardiac size is enlarged with cardiothoracic ratio of
+cau,causing
+cbd,common bile duct
+cca,common carotid artery
+ccca,craniocaudal axis
+cdl,choledocholithiasis
+cdp,central disc protrusion
+cea,cerebral atrophy
+ceat,"There is volume loss of bilateral cerebral hemispheres with prominent sulci, extraaxial CSF spaces & proportionate dilatation of ventricles."
+ceh,cerebellar hemisphere
+cf,calcific focus
+cfa,common femoral artery
+cfi,calcific foci
+cfv,common femoral vein
+cg,calcified granuloma
+ch,cerebral hemisphere
+cha,changes
+chd,common hepatic duct
+chea,common hepatic artery
+cholangioca,cholangiocarcinoma
+chr,chronic
+cia,common iliac artery
+cir,circumscribed
+circ,circumferential
+civ,common iliac vein
+ckd,chronic kidney disease
+cl,cholelithiasis
+cld,chronic liver disease
+cn,centrilobular nodules
+cnap,calcified and non-calcified atherosclerotic plaques
+cnl,contralateral
+cnt,centrilobular nodules with tree in bud pattern
+cocon,collapse consolidation
+col,collection
+coll,collaterals
+com,complete
+comm,communication
+comp,compression
+conso,consolidation
+cp,cerebello-pontine
+cpa,cerebello-pontine angle
+cs,cervical spine
+csc,central spinal canal
+cso,centrum semi-ovale
+csp,cavum septum pellucidum
+d1011,D10-D11
+d1112,D11-D12
+d121,D12-L1
+d23,D2-D3
+d34,D3-D4
+d45,D4-D5
+d56,D5-D6
+d67,D6-D7
+d78,D7-D8
+d89,D8-D9
+d910,D9-D10
+dd,D/D:
+ddc,disc dessication changes 
+ddmos,disc dessication changes  with marginal osteophytes
+desc,descending
+dgc,degenerative changes
+dgcv,Degenerative changes are seen in visualised spine.
+dia,diameter
+diff,differentiation
+dila,dilatation
+dires,diffusion restriction
+disp,displacement
+dns,deviated nasal septum
+dpa,dorsalis pedis artery
+ds,dorsal spine
+dt,due to
+dta,descending thoracic aorta
+duo,duodenum
+dwm,deep white matter
+dz,disease
+eac,external auditory canal
+ec,external capsule
+edh,extradural hemorrhage
+eff,effacement
+ehpvo,extrahepatic portal vein obstruction
+eia,external iliac artery
+eiv,external iliac vein
+emh,"Soft tissue density is noted in right middle ear cavity involving epitympanum, mesotympanum and hypotympanum which is extending to mastoid cavity through aditus ad antrum. Tegmen tympani, ear ossicles, sinus plate, scutum and facial canal appear normal."
+enc,encasing
+enh,enhancement
+enhg,enhancing
+enl,enlarged
+enr,exiting nerve root
+eo,evidence of 
+et,endometrial thickness
+eth,ethmoidal
+eths,ethmoid sinus
+ext,external
+extd,extending
+extg,extending
+extn,extension
+falo,features are likely of
+fatel,fibroatelectatic
+fbro,fibro bronchiectatic
+fc,fibrotic changes
+fcc,fibrocalcific changes
+fcw,features are consistent with
+fd,filling defect
+ff,free fluid
+fibron,fibronodular
+fja,facet joint arthropathy
+fl,FLAIR
+flo,features likely of
+fo,features of
+fpt,fronto-parieto-temporal
+fpto,fronto-parieto-temporo-occipital
+frol,frontal lobe
+fros,frontal sinus
+fs,fat strandings
+fso,features suggestive of 
+gb,gall bladder
+gbl,gall bladder lumen
+gda,gastroduodenal artery
+gdb,global disc bulge
+gist,gastrointestinal stromal tumor
+gj,gastrojejunostomy
+gm,grey matter
+gp,globus pallidus
+gsv,great saphenous vein
+gwm,grey and white matter
+gwmd,grey-white matter differentiation
+hcc,hepatocellular carcinoma
+hcp,hydrocephalus
+hdn,hydronephrosis
+hdun,hydroureteronephrosis
+hee,heterogeneous enhancement
 hemangiomaex,There is a lesion measuring 1.5x1.2 cm which shows peripheral nodular enhancement in arterial phase with progressive centripetal filling and enhancement corresponding to adjacent blood pool in subsequent phase.
-emh,"Soft tissue density is noted in right middle ear cavity involving epitympanum, mesotympanum and hypotympanum which is extending to mastoid cavity through aditus ad antrum. Tegmen tympani, ear ossicles, sinus plate, scutum and facial canal appear normal "
+heng,heterogeneously enhancing
+het,heterogeneous
+hetly,heterogeneously
+hge,hemorrhage
+hgic,hemorrhagic
+hj,hepaticojejunostomy
+hl,hepaticolithiasis
+hoe,homogeneous enhancement
+hoeng,homogeneously enhancing
+homly,homogeneously
+homo,homogeneous
+hpec,HPE correlation
+hsi,high signal intensity
+htn,hypertension
+hwe,however
+hyperd,hyperdense
+hypod,hypodense
+iac,internal acoustic canal
+ic,internal capsule
+ica,internal carotid artery
+ich,intracerebral hemorrhage
+icj,ileo-cecal junction
+id,ill-defined
+ihbd,intrahepatic bile ducts
+ihbr,intrahepatic biliary radicals
+iia,internal iliac artery
+iiv,internal iliac vein
+ijv,internal jugular vein
+ild,interstitial lung disease
+im,intramuscular
+ima,inferior mesenteric artery
+imv,inferior mesenteric vein
+ind,indeterminate
+inf,inferior
+infil,infiltration
+infl,inflammatory
+infy,inferiorly
+inp,infective pathology
+int,internal
+intm,intermediate
+inv,involving
+ipc,interpolar calyx
+ipco,interpolar cortex
+ips,ipsilateral
+irr,irregular
+isi,iso signal intensity
+iss,inferior sagittal sinus
+itfo,in the form of
+ivc,inferior vena cava
+ivd,intervertebral disc
+ivh,intraventricular hemorrhage
+jxn,junction
+jz,junctional zone
+kco,known case of 
+kje,knee joint effusion
+kjs,knee joint space
+l12,L1-L2
+l23,L2-L3
+l34,L3-L4
+l45,L4-L5
+l51,L5-S1
+larm,largest measuring
+larma,largest measuring approximately
+lat,lateral
+laty,laterally
+lb,left breast
+lbs,lateral basal segment
+lcl,lateral collateral ligament
+les,lesion
+letm,longitudinally extensive transverse myelitis
+lev,level
+lfc,linear fibrotic changes
+lfh,ligamentum flavum hypertrophy
+lga,left gastric artery
+lhd,left hepatic duct
+lhv,left hepatic vein
+lif,left iliac fossa
+lig,ligament
+lir,(Left > Right)
+lk,left kidney
+lll,left lower lobe
+lm,lateral meniscus
+ln,lymph node
+lns,lymph nodes
+locl,Loss of cervical lordosis is seen.
+locll,Loss of cervical and lumbar lordosis is seen.
+loll,Loss of lumbar lordosis is seen.
+lpc,lower pole calyx
+lpco,lower pole cortex
+lpy,lymphadenopathy
+lr,lateral recess
+lrc,likely reactive
+ls,lumbar spine
+lsi,low signal intensity
+lss,lumbosacral spine
+lt,left
+lul,left upper lobe
+lun,luminal narrowing
+luq,left upper quadrant
+lus,luminal stenosis
+malig,malignant
+maligp,malignant pathology
+masi,maxillary sinus
+max,maximum
+maxi,maxillary
+mbs,medial basal segment
+mca,middle cerebral artery
+mcl,medial collateral ligament
+me,mass effect
+mea,measuring
+meaa,measuring approximately
+mec,middle ear cavity
+med,medial
+medly,mediastinal lymphadenopathy
+medy,medially
+mem,medial meniscus
+mets,metastasis
+mhv,middle hepatic vein
+min,minimal
+mn,micronodule
+mns,micronodules
+mod,moderate
+mogad,myelin oligodendrocyte glycoprotein antibody-associated disease
+mos,marginal osteophytes
+mpa,main pulmonary artery
+mpd,main pancreatic duct
+mpt,main pulmonary trunk
+mpv,main portal vein
+ms,multiple sclerosis
+mul,multiple
+mvl,multiple vertebral levels
+mvs,multiple variable sized
+n,and
+na,noted at
+nap,non-calcified atherosclerotic plaques
+nar,narrowing
+nc,nasal cavity
+ncc,neurocysticercosis
+neg,non-enhancing
+nehng,non-enhancing
+nenhg,non-enhancing
+nf,neural foramina
+ni,noted in
+nl,nephrolithiasis
+nmosd,neuromyelitis optica spectrum disorder
+nof,normal findings
+nonopa,non-opacification
+nonvis,non-visualization
+nor,normal
+nos,"No septations, solid component or calcification noted within."
+nr,nerve root
+nsf,non-specific
+nsl,Nasal septum is deviated to left.
+nsr,Nasal septum is deviated to right.
+nt,noted
+nu,nucleus
+nv,not visualized
+nw,noted within
+oa,osteoarthritic
+obl,obliteration
+obs,obstruction
+obv,obvious
+occ,occlusion
+occl,occipital lobe
+om,oto-mastoiditis
+omc,ostiomeatal complex
+opa,opacification
+opd,opacified
+ow,otherwise
+pa,posteroanterior
+paf,posterior annular fissure
+pans,pansinusitis
+paraa,paraaortic
+parat,paratracheal
+parl,parietal lobe
+pars,pars interarticularis
+pat,patchy
+path,pathology
+pbs,posterobasal segment
+pc,portocaval
+pca,posterior cerebral artery
+pce,post-contrast enhancement
+pci,post-contrast images
+pcl,posterior collateral ligament
+pcom,posterior communicating artery
+pcs,pelvicalyceal system
+pdfs,PD FS
+pdp,paramedian disc protrusion
+pe,pulmonary embolism
+peed,perilesional edema
+pera,peroneal artery
+peric,pericardial
+perig,perigastric
+perile,perilesional edema
+perip,periportal
+peripa,peripancreatic
+periv,periventricular
+pes,partially empty sella
+pess,There is fluid signal intensity noted in the pituitary fossa suggestive of partial empty sella.
+pf,patchy fibrosis
+pfc,patchy fibrotic changes
+pinf,posteroinferior
+pit,pituitary
+pj,pancreaticojejunostomy
+plat,posterolateral
+plc,pleural cavity
+ple,pleural effusion
+pll,posterior longitudinal ligament
+pmed,posteromedial
+pns,paranasal sinuses
+poc,post-operative changes
+pod,pouch of Douglas
+polip,Soft tissue density with convex outward margin is noted in right maxillary sinus – polyp/ retention cyst.
+popa,popliteal artery
+popv,popliteal vein
+pos,posterior
+postop,post-operative
+posy,posteriorly
+pp,peripheral
+ppc,post-procedural changes
+pred,predominantly
+prev,prevascular
+pri,primary
+prob,probably
+prom,prominent
+prox,proximal
+psd,posterior sectoral duct
+psup,posterosuperior
+pta,posterior tibial artery
+pto,parieto-temporo-occipital
+ptv,posterior tibial vein
+puj,pelviureteric junction
+pujo,pelviureteric junction obstruction
+pul,pulmonary
+pula,pulmonary artery
+pulv,pulmonary vein
+pv,portal vein
+r,are
+rada,relations and extensions as described above
+rb,right breast
+rcc,renal cell carcinoma
+rebr,Rest of the brain is normal in morphology and signal intensity
+recc,renal cortical cyst
+redr,Rest of the intervertebral discs are normal in height and signal intensity.
+ref,reformation
+reg,region
+relr,Rest of the lung fields shows normal attenuation and normal in aeration.
+rena,renal artery
+renv,renal vein
+res,restriction of diffusion on DWI
+retly,retroperitoneal lymphadenopathy
+rhd,right hepatic duct
+rhv,right hepatic vein
+ri,resulting in
+rif,right iliac fossa
+ril,(Right > Left)
+rk,right kidney
+rll,right lower lobe
+rml,right middle lobe
+rot,rest of the
+rp,retroperitoneum
+rt,right
+rul,right upper lobe
+ruq,right upper quadrant
+s/o,suggestive of
+s/p,status post
+s12,S1-S2
+sc,subcutaneous
+sca,subclavian artery
+scc,semicircular canal
+scd,skin to calculus distance of
+scm,sternocleidomastoid
+sdh,subdural hemorrhage
+sec,secondary
+seg,segment
+segs,segments
+sev,severe
+sfa,superficial femoral artery
+sfv,superficial femoral vein
+si,signal intensity
+sig,significant
+sij,sacro-iliac joint
+sins,Mucosal thickening noted in bilateral maxillary sinus - suggestive of sinusitis.
+slo,spanning a length of
+sma,superior mesenteric artery
+smv,superior mesenteric vein
+snp,sinonasal polyposis
+sol,space occupying lesion
+spc,spinal cord
+sph,sphenoid
+sphs,sphenoid sinus
+ss,sigmoid sinus
+sss,superior sagital sinus
+ssv,short saphenous vein
+st,STIR
+std,soft tissue density
+stn,stenosis
+sts,soft tissue strandings
+subc,subcarinal
+subseg,subsegmental
+sup,superior
+supp,suppressed
+suprac,supraclavicular
+supy,superiorly
+susp,suspicious
+svc,superior vena cava
+svd,small vessel disease
+svds,Discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale.
+sym,symmetrical
+ta,there are
+tb,tuberculosis
+tc,tiny calculi (<3mm)
+tcc,transitional cell carcinoma
+tcs,tiny calculus (<3mm)
+teml,temporal lobe
+thic,thickening
+thr,thrombosis
+thru,through
+thrut,throughout
+thy,thyroid
+ti,there is
+tib,tree in bud pattern
+tmas,T2 high signal intensity noted in bilateral maxillary sinus - suggestive of sinusitis.
+tnr,traversing nerve root
+tpor,T2 high signal intensity with convex free margin is noted in right maxillary sinus - polyp/ retention cyst.
+tpt,tibioperoneal trunk
+tr,there are
+tra,transverse
+trans,translation
+tras,transverse sinus
+trif,trifurcation
+ts,thecal sac
+ub,urinary bladder
+ube,Urinary bladder is empty.
+ubef,Urinary bladder is empty with Foley's in situ.
+ubm,Urinary bladder is minimally filled.
+ubmf,Urinary bladder is minimally filled with Foley's in situ.
+ubp,Urinary bladder is partially filled.
+ubpf,Urinary bladder is partially filled with Foley's in situ.
+ud,upstream dilatation
+upc,upper pole calyx
+upco,upper polar cortex
+usgc,USG correlation
+vb,vertebral body
+ven,ventricle
+ver,vertebra
+vis,visualised
+vl,vertebral level
+vol,volume
+voll,volume loss
+vrs,"Multiple tiny T2 high signal intensity foci noted in  bilateral frontoparietal lobe which are suppressed on FLAIR , likely Virchow Robin spaces."
+vuj,vesicoureteric junction
+w,with
+wd,well-defined
+wi,which is
+wm,white matter
+wo,without

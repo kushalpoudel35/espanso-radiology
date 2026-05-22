@@ -1,51 +1,391 @@
 matches:
-  - trigger: "ti"
-    replace: "there is"
+  - trigger: "aa"
+    replace: "abdominal aorta"
     word: true
     propagate_case: true
 
-  - trigger: "tr"
-    replace: "there are"
+  - trigger: "aaw"
+    replace: "anterior abdominal wall"
     word: true
     propagate_case: true
 
-  - trigger: "neg"
-    replace: "non-enhancing"
+  - trigger: "abd"
+    replace: "abdominal"
     word: true
     propagate_case: true
 
-  - trigger: "heng"
-    replace: "heterogeneously enhancing"
+  - trigger: "abdly"
+    replace: "abdominal lymphadenopathy"
     word: true
     propagate_case: true
 
-  - trigger: "hoeng"
-    replace: "homogeneously enhancing"
+  - trigger: "abdp"
+    replace: "abdomen and pelvis"
     word: true
     propagate_case: true
 
-  - trigger: "ta"
-    replace: "there are"
+  - trigger: "abn"
+    replace: "abnormal"
     word: true
     propagate_case: true
 
-  - trigger: "nt"
-    replace: "noted"
+  - trigger: "abs"
+    replace: "anterobasal segment"
     word: true
     propagate_case: true
 
-  - trigger: "les"
-    replace: "lesion"
+  - trigger: "abu"
+    replace: "abutting"
     word: true
     propagate_case: true
 
-  - trigger: "std"
-    replace: "soft tissue density"
+  - trigger: "abut"
+    replace: "abutment"
     word: true
     propagate_case: true
 
-  - trigger: "cals"
-    replace: "calculus"
+  - trigger: "ac"
+    replace: "aortocaval"
+    word: true
+    propagate_case: true
+
+  - trigger: "aca"
+    replace: "anterior cerebral artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "acj"
+    replace: "acromio-clavicular joint"
+    word: true
+    propagate_case: true
+
+  - trigger: "acl"
+    replace: "anterior cruciate ligament"
+    word: true
+    propagate_case: true
+
+  - trigger: "acom"
+    replace: "anterior communicating artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "ada"
+    replace: "as described above"
+    word: true
+    propagate_case: true
+
+  - trigger: "adb"
+    replace: "asymmetric disc bulge"
+    word: true
+    propagate_case: true
+
+  - trigger: "adem"
+    replace: "acute disseminated encephalomyelitis"
+    word: true
+    propagate_case: true
+
+  - trigger: "adenoca"
+    replace: "adenocarcinoma"
+    word: true
+    propagate_case: true
+
+  - trigger: "adj"
+    replace: "adjacent"
+    word: true
+    propagate_case: true
+
+  - trigger: "adpkd"
+    replace: "autosomal dominant polycystic kidney disease"
+    word: true
+    propagate_case: true
+
+  - trigger: "adv"
+    replace: "Advice:"
+    word: true
+    propagate_case: true
+
+  - trigger: "af"
+    replace: "arising from"
+    word: true
+    propagate_case: true
+
+  - trigger: "ag"
+    replace: "adrenal gland"
+    word: true
+    propagate_case: true
+
+  - trigger: "aib"
+    replace: "air bronchograms"
+    word: true
+    propagate_case: true
+
+  - trigger: "ainf"
+    replace: "anteroinferior"
+    word: true
+    propagate_case: true
+
+  - trigger: "alat"
+    replace: "anterolateral"
+    word: true
+    propagate_case: true
+
+  - trigger: "allg"
+    replace: "anterior longitudinal ligament"
+    word: true
+    propagate_case: true
+
+  - trigger: "ambs"
+    replace: "antero medial basal segment"
+    word: true
+    propagate_case: true
+
+  - trigger: "amed"
+    replace: "anteromedial"
+    word: true
+    propagate_case: true
+
+  - trigger: "ant"
+    replace: "anterior"
+    word: true
+    propagate_case: true
+
+  - trigger: "anty"
+    replace: "anteriorly"
+    word: true
+    propagate_case: true
+
+  - trigger: "aoa"
+    replace: "arch of aorta"
+    word: true
+    propagate_case: true
+
+  - trigger: "ap"
+    replace: "anteroposterior"
+    word: true
+    propagate_case: true
+
+  - trigger: "apos"
+    replace: "apicoposterior segment"
+    word: true
+    propagate_case: true
+
+  - trigger: "approx"
+    replace: "approximately"
+    word: true
+    propagate_case: true
+
+  - trigger: "apw"
+    replace: "aortopulmonary window"
+    word: true
+    propagate_case: true
+
+  - trigger: "art"
+    replace: "artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "asc"
+    replace: "ascending"
+    word: true
+    propagate_case: true
+
+  - trigger: "asd"
+    replace: "anterior sectoral duct"
+    word: true
+    propagate_case: true
+
+  - trigger: "asp"
+    replace: "aspect"
+    word: true
+    propagate_case: true
+
+  - trigger: "asup"
+    replace: "anterosuperior"
+    word: true
+    propagate_case: true
+
+  - trigger: "asym"
+    replace: "asymmetric"
+    word: true
+    propagate_case: true
+
+  - trigger: "ata"
+    replace: "anterior tibial artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "atc"
+    replace: "(AP x Tra x CC)"
+    word: true
+    propagate_case: true
+
+  - trigger: "atel"
+    replace: "atelectasis"
+    word: true
+    propagate_case: true
+
+  - trigger: "ath"
+    replace: "atherosclerotic"
+    word: true
+    propagate_case: true
+
+  - trigger: "atha"
+    replace: "Atherosclerotic changes are noted in the aorta and its branches."
+    word: true
+    propagate_case: true
+
+  - trigger: "athp"
+    replace: "atherosclerotic plaque"
+    word: true
+    propagate_case: true
+
+  - trigger: "atl"
+    replace: "atelectasis"
+    word: true
+    propagate_case: true
+
+  - trigger: "ats"
+    replace: "anterior thecal sac"
+    word: true
+    propagate_case: true
+
+  - trigger: "atsl"
+    replace: "at the same level"
+    word: true
+    propagate_case: true
+
+  - trigger: "att"
+    replace: "attenuating"
+    word: true
+    propagate_case: true
+
+  - trigger: "attn"
+    replace: "attenuation"
+    word: true
+    propagate_case: true
+
+  - trigger: "atv"
+    replace: "anterior tibial vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "bct"
+    replace: "brachiocephalic trunk"
+    word: true
+    propagate_case: true
+
+  - trigger: "ben"
+    replace: "benign"
+    word: true
+    propagate_case: true
+
+  - trigger: "benp"
+    replace: "benign pathology"
+    word: true
+    propagate_case: true
+
+  - trigger: "bg"
+    replace: "basal ganglia"
+    word: true
+    propagate_case: true
+
+  - trigger: "bif"
+    replace: "bifurcation"
+    word: true
+    propagate_case: true
+
+  - trigger: "bl"
+    replace: "bilateral"
+    word: true
+    propagate_case: true
+
+  - trigger: "blf"
+    replace: "bilateral lung fields"
+    word: true
+    propagate_case: true
+
+  - trigger: "blk"
+    replace: "bilateral kidneys"
+    word: true
+    propagate_case: true
+
+  - trigger: "bll"
+    replace: "bilateral lower lobes"
+    word: true
+    propagate_case: true
+
+  - trigger: "bm"
+    replace: "bone marrow"
+    word: true
+    propagate_case: true
+
+  - trigger: "br"
+    replace: "branch"
+    word: true
+    propagate_case: true
+
+  - trigger: "broc"
+    replace: "bronchiectatic changes"
+    word: true
+    propagate_case: true
+
+  - trigger: "bul"
+    replace: "bilateral upper lobes"
+    word: true
+    propagate_case: true
+
+  - trigger: "bw"
+    replace: "between"
+    word: true
+    propagate_case: true
+
+  - trigger: "c12"
+    replace: "C1-C2"
+    word: true
+    propagate_case: true
+
+  - trigger: "c23"
+    replace: "C2-C3"
+    word: true
+    propagate_case: true
+
+  - trigger: "c34"
+    replace: "C3-C4"
+    word: true
+    propagate_case: true
+
+  - trigger: "c45"
+    replace: "C4-C5"
+    word: true
+    propagate_case: true
+
+  - trigger: "c56"
+    replace: "C5-C6"
+    word: true
+    propagate_case: true
+
+  - trigger: "c67"
+    replace: "C6-C7"
+    word: true
+    propagate_case: true
+
+  - trigger: "c71"
+    replace: "C7-D1"
+    word: true
+    propagate_case: true
+
+  - trigger: "ca"
+    replace: "carcinoma"
+    word: true
+    propagate_case: true
+
+  - trigger: "calc"
+    replace: "calcification"
+    word: true
+    propagate_case: true
+
+  - trigger: "cald"
+    replace: "calcified"
     word: true
     propagate_case: true
 
@@ -54,13 +394,2463 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "cals"
+    replace: "calculus"
+    word: true
+    propagate_case: true
+
+  - trigger: "cap"
+    replace: "calcified atherosclerotic plaques"
+    word: true
+    propagate_case: true
+
+  - trigger: "carme"
+    replace: "cardiomegaly"
+    word: true
+    propagate_case: true
+
+  - trigger: "carmeg"
+    replace: "Cardiac size is enlarged with cardiothoracic ratio of"
+    word: true
+    propagate_case: true
+
+  - trigger: "cau"
+    replace: "causing"
+    word: true
+    propagate_case: true
+
+  - trigger: "cbd"
+    replace: "common bile duct"
+    word: true
+    propagate_case: true
+
+  - trigger: "cca"
+    replace: "common carotid artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "ccca"
+    replace: "craniocaudal axis"
+    word: true
+    propagate_case: true
+
+  - trigger: "cdl"
+    replace: "choledocholithiasis"
+    word: true
+    propagate_case: true
+
+  - trigger: "cdp"
+    replace: "central disc protrusion"
+    word: true
+    propagate_case: true
+
+  - trigger: "cea"
+    replace: "cerebral atrophy"
+    word: true
+    propagate_case: true
+
+  - trigger: "ceat"
+    replace: "There is volume loss of bilateral cerebral hemispheres with prominent sulci, extraaxial CSF spaces & proportionate dilatation of ventricles."
+    word: true
+    propagate_case: true
+
+  - trigger: "ceh"
+    replace: "cerebellar hemisphere"
+    word: true
+    propagate_case: true
+
+  - trigger: "cf"
+    replace: "calcific focus"
+    word: true
+    propagate_case: true
+
+  - trigger: "cfa"
+    replace: "common femoral artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "cfi"
+    replace: "calcific foci"
+    word: true
+    propagate_case: true
+
+  - trigger: "cfv"
+    replace: "common femoral vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "cg"
+    replace: "calcified granuloma"
+    word: true
+    propagate_case: true
+
+  - trigger: "ch"
+    replace: "cerebral hemisphere"
+    word: true
+    propagate_case: true
+
+  - trigger: "cha"
+    replace: "changes"
+    word: true
+    propagate_case: true
+
+  - trigger: "chd"
+    replace: "common hepatic duct"
+    word: true
+    propagate_case: true
+
+  - trigger: "chea"
+    replace: "common hepatic artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "cholangioca"
+    replace: "cholangiocarcinoma"
+    word: true
+    propagate_case: true
+
+  - trigger: "chr"
+    replace: "chronic"
+    word: true
+    propagate_case: true
+
+  - trigger: "cia"
+    replace: "common iliac artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "cir"
+    replace: "circumscribed"
+    word: true
+    propagate_case: true
+
+  - trigger: "circ"
+    replace: "circumferential"
+    word: true
+    propagate_case: true
+
+  - trigger: "civ"
+    replace: "common iliac vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "ckd"
+    replace: "chronic kidney disease"
+    word: true
+    propagate_case: true
+
+  - trigger: "cl"
+    replace: "cholelithiasis"
+    word: true
+    propagate_case: true
+
+  - trigger: "cld"
+    replace: "chronic liver disease"
+    word: true
+    propagate_case: true
+
+  - trigger: "cn"
+    replace: "centrilobular nodules"
+    word: true
+    propagate_case: true
+
+  - trigger: "cnap"
+    replace: "calcified and non-calcified atherosclerotic plaques"
+    word: true
+    propagate_case: true
+
+  - trigger: "cnl"
+    replace: "contralateral"
+    word: true
+    propagate_case: true
+
+  - trigger: "cnt"
+    replace: "centrilobular nodules with tree in bud pattern"
+    word: true
+    propagate_case: true
+
+  - trigger: "cocon"
+    replace: "collapse consolidation"
+    word: true
+    propagate_case: true
+
+  - trigger: "col"
+    replace: "collection"
+    word: true
+    propagate_case: true
+
+  - trigger: "coll"
+    replace: "collaterals"
+    word: true
+    propagate_case: true
+
+  - trigger: "com"
+    replace: "complete"
+    word: true
+    propagate_case: true
+
+  - trigger: "comm"
+    replace: "communication"
+    word: true
+    propagate_case: true
+
+  - trigger: "comp"
+    replace: "compression"
+    word: true
+    propagate_case: true
+
+  - trigger: "conso"
+    replace: "consolidation"
+    word: true
+    propagate_case: true
+
+  - trigger: "cp"
+    replace: "cerebello-pontine"
+    word: true
+    propagate_case: true
+
+  - trigger: "cpa"
+    replace: "cerebello-pontine angle"
+    word: true
+    propagate_case: true
+
+  - trigger: "cs"
+    replace: "cervical spine"
+    word: true
+    propagate_case: true
+
+  - trigger: "csc"
+    replace: "central spinal canal"
+    word: true
+    propagate_case: true
+
+  - trigger: "cso"
+    replace: "centrum semi-ovale"
+    word: true
+    propagate_case: true
+
+  - trigger: "csp"
+    replace: "cavum septum pellucidum"
+    word: true
+    propagate_case: true
+
+  - trigger: "d1011"
+    replace: "D10-D11"
+    word: true
+    propagate_case: true
+
+  - trigger: "d1112"
+    replace: "D11-D12"
+    word: true
+    propagate_case: true
+
+  - trigger: "d121"
+    replace: "D12-L1"
+    word: true
+    propagate_case: true
+
+  - trigger: "d23"
+    replace: "D2-D3"
+    word: true
+    propagate_case: true
+
+  - trigger: "d34"
+    replace: "D3-D4"
+    word: true
+    propagate_case: true
+
+  - trigger: "d45"
+    replace: "D4-D5"
+    word: true
+    propagate_case: true
+
+  - trigger: "d56"
+    replace: "D5-D6"
+    word: true
+    propagate_case: true
+
+  - trigger: "d67"
+    replace: "D6-D7"
+    word: true
+    propagate_case: true
+
+  - trigger: "d78"
+    replace: "D7-D8"
+    word: true
+    propagate_case: true
+
+  - trigger: "d89"
+    replace: "D8-D9"
+    word: true
+    propagate_case: true
+
+  - trigger: "d910"
+    replace: "D9-D10"
+    word: true
+    propagate_case: true
+
+  - trigger: "dd"
+    replace: "D/D:"
+    word: true
+    propagate_case: true
+
+  - trigger: "ddc"
+    replace: "disc dessication changes"
+    word: true
+    propagate_case: true
+
+  - trigger: "ddmos"
+    replace: "disc dessication changes  with marginal osteophytes"
+    word: true
+    propagate_case: true
+
+  - trigger: "desc"
+    replace: "descending"
+    word: true
+    propagate_case: true
+
+  - trigger: "dgc"
+    replace: "degenerative changes"
+    word: true
+    propagate_case: true
+
+  - trigger: "dgcv"
+    replace: "Degenerative changes are seen in visualised spine."
+    word: true
+    propagate_case: true
+
+  - trigger: "dia"
+    replace: "diameter"
+    word: true
+    propagate_case: true
+
+  - trigger: "diff"
+    replace: "differentiation"
+    word: true
+    propagate_case: true
+
+  - trigger: "dila"
+    replace: "dilatation"
+    word: true
+    propagate_case: true
+
+  - trigger: "dires"
+    replace: "diffusion restriction"
+    word: true
+    propagate_case: true
+
+  - trigger: "disp"
+    replace: "displacement"
+    word: true
+    propagate_case: true
+
+  - trigger: "dns"
+    replace: "deviated nasal septum"
+    word: true
+    propagate_case: true
+
+  - trigger: "dpa"
+    replace: "dorsalis pedis artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "ds"
+    replace: "dorsal spine"
+    word: true
+    propagate_case: true
+
+  - trigger: "dt"
+    replace: "due to"
+    word: true
+    propagate_case: true
+
+  - trigger: "dta"
+    replace: "descending thoracic aorta"
+    word: true
+    propagate_case: true
+
+  - trigger: "duo"
+    replace: "duodenum"
+    word: true
+    propagate_case: true
+
+  - trigger: "dwm"
+    replace: "deep white matter"
+    word: true
+    propagate_case: true
+
+  - trigger: "dz"
+    replace: "disease"
+    word: true
+    propagate_case: true
+
+  - trigger: "eac"
+    replace: "external auditory canal"
+    word: true
+    propagate_case: true
+
+  - trigger: "ec"
+    replace: "external capsule"
+    word: true
+    propagate_case: true
+
+  - trigger: "edh"
+    replace: "extradural hemorrhage"
+    word: true
+    propagate_case: true
+
+  - trigger: "eff"
+    replace: "effacement"
+    word: true
+    propagate_case: true
+
+  - trigger: "ehpvo"
+    replace: "extrahepatic portal vein obstruction"
+    word: true
+    propagate_case: true
+
+  - trigger: "eia"
+    replace: "external iliac artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "eiv"
+    replace: "external iliac vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "emh"
+    replace: "Soft tissue density is noted in right middle ear cavity involving epitympanum, mesotympanum and hypotympanum which is extending to mastoid cavity through aditus ad antrum. Tegmen tympani, ear ossicles, sinus plate, scutum and facial canal appear normal."
+    word: true
+    propagate_case: true
+
+  - trigger: "enc"
+    replace: "encasing"
+    word: true
+    propagate_case: true
+
+  - trigger: "enh"
+    replace: "enhancement"
+    word: true
+    propagate_case: true
+
+  - trigger: "enhg"
+    replace: "enhancing"
+    word: true
+    propagate_case: true
+
+  - trigger: "enl"
+    replace: "enlarged"
+    word: true
+    propagate_case: true
+
+  - trigger: "enr"
+    replace: "exiting nerve root"
+    word: true
+    propagate_case: true
+
+  - trigger: "eo"
+    replace: "evidence of"
+    word: true
+    propagate_case: true
+
+  - trigger: "et"
+    replace: "endometrial thickness"
+    word: true
+    propagate_case: true
+
+  - trigger: "eth"
+    replace: "ethmoidal"
+    word: true
+    propagate_case: true
+
+  - trigger: "eths"
+    replace: "ethmoid sinus"
+    word: true
+    propagate_case: true
+
+  - trigger: "ext"
+    replace: "external"
+    word: true
+    propagate_case: true
+
+  - trigger: "extd"
+    replace: "extending"
+    word: true
+    propagate_case: true
+
+  - trigger: "extg"
+    replace: "extending"
+    word: true
+    propagate_case: true
+
+  - trigger: "extn"
+    replace: "extension"
+    word: true
+    propagate_case: true
+
+  - trigger: "falo"
+    replace: "features are likely of"
+    word: true
+    propagate_case: true
+
+  - trigger: "fatel"
+    replace: "fibroatelectatic"
+    word: true
+    propagate_case: true
+
+  - trigger: "fbro"
+    replace: "fibro bronchiectatic"
+    word: true
+    propagate_case: true
+
+  - trigger: "fc"
+    replace: "fibrotic changes"
+    word: true
+    propagate_case: true
+
+  - trigger: "fcc"
+    replace: "fibrocalcific changes"
+    word: true
+    propagate_case: true
+
+  - trigger: "fcw"
+    replace: "features are consistent with"
+    word: true
+    propagate_case: true
+
+  - trigger: "fd"
+    replace: "filling defect"
+    word: true
+    propagate_case: true
+
+  - trigger: "ff"
+    replace: "free fluid"
+    word: true
+    propagate_case: true
+
+  - trigger: "fibron"
+    replace: "fibronodular"
+    word: true
+    propagate_case: true
+
+  - trigger: "fja"
+    replace: "facet joint arthropathy"
+    word: true
+    propagate_case: true
+
+  - trigger: "fl"
+    replace: "FLAIR"
+    word: true
+    propagate_case: true
+
+  - trigger: "flo"
+    replace: "features likely of"
+    word: true
+    propagate_case: true
+
+  - trigger: "fo"
+    replace: "features of"
+    word: true
+    propagate_case: true
+
+  - trigger: "fpt"
+    replace: "fronto-parieto-temporal"
+    word: true
+    propagate_case: true
+
+  - trigger: "fpto"
+    replace: "fronto-parieto-temporo-occipital"
+    word: true
+    propagate_case: true
+
+  - trigger: "frol"
+    replace: "frontal lobe"
+    word: true
+    propagate_case: true
+
+  - trigger: "fros"
+    replace: "frontal sinus"
+    word: true
+    propagate_case: true
+
+  - trigger: "fs"
+    replace: "fat strandings"
+    word: true
+    propagate_case: true
+
+  - trigger: "fso"
+    replace: "features suggestive of"
+    word: true
+    propagate_case: true
+
+  - trigger: "gb"
+    replace: "gall bladder"
+    word: true
+    propagate_case: true
+
+  - trigger: "gbl"
+    replace: "gall bladder lumen"
+    word: true
+    propagate_case: true
+
+  - trigger: "gda"
+    replace: "gastroduodenal artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "gdb"
+    replace: "global disc bulge"
+    word: true
+    propagate_case: true
+
+  - trigger: "gist"
+    replace: "gastrointestinal stromal tumor"
+    word: true
+    propagate_case: true
+
+  - trigger: "gj"
+    replace: "gastrojejunostomy"
+    word: true
+    propagate_case: true
+
+  - trigger: "gm"
+    replace: "grey matter"
+    word: true
+    propagate_case: true
+
+  - trigger: "gp"
+    replace: "globus pallidus"
+    word: true
+    propagate_case: true
+
+  - trigger: "gsv"
+    replace: "great saphenous vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "gwm"
+    replace: "grey and white matter"
+    word: true
+    propagate_case: true
+
+  - trigger: "gwmd"
+    replace: "grey-white matter differentiation"
+    word: true
+    propagate_case: true
+
+  - trigger: "hcc"
+    replace: "hepatocellular carcinoma"
+    word: true
+    propagate_case: true
+
+  - trigger: "hcp"
+    replace: "hydrocephalus"
+    word: true
+    propagate_case: true
+
+  - trigger: "hdn"
+    replace: "hydronephrosis"
+    word: true
+    propagate_case: true
+
+  - trigger: "hdun"
+    replace: "hydroureteronephrosis"
+    word: true
+    propagate_case: true
+
+  - trigger: "hee"
+    replace: "heterogeneous enhancement"
+    word: true
+    propagate_case: true
+
   - trigger: "hemangiomaex"
     replace: "There is a lesion measuring 1.5x1.2 cm which shows peripheral nodular enhancement in arterial phase with progressive centripetal filling and enhancement corresponding to adjacent blood pool in subsequent phase."
     word: true
     propagate_case: true
 
-  - trigger: "emh"
-    replace: "Soft tissue density is noted in right middle ear cavity involving epitympanum, mesotympanum and hypotympanum which is extending to mastoid cavity through aditus ad antrum. Tegmen tympani, ear ossicles, sinus plate, scutum and facial canal appear normal"
+  - trigger: "heng"
+    replace: "heterogeneously enhancing"
+    word: true
+    propagate_case: true
+
+  - trigger: "het"
+    replace: "heterogeneous"
+    word: true
+    propagate_case: true
+
+  - trigger: "hetly"
+    replace: "heterogeneously"
+    word: true
+    propagate_case: true
+
+  - trigger: "hge"
+    replace: "hemorrhage"
+    word: true
+    propagate_case: true
+
+  - trigger: "hgic"
+    replace: "hemorrhagic"
+    word: true
+    propagate_case: true
+
+  - trigger: "hj"
+    replace: "hepaticojejunostomy"
+    word: true
+    propagate_case: true
+
+  - trigger: "hl"
+    replace: "hepaticolithiasis"
+    word: true
+    propagate_case: true
+
+  - trigger: "hoe"
+    replace: "homogeneous enhancement"
+    word: true
+    propagate_case: true
+
+  - trigger: "hoeng"
+    replace: "homogeneously enhancing"
+    word: true
+    propagate_case: true
+
+  - trigger: "homly"
+    replace: "homogeneously"
+    word: true
+    propagate_case: true
+
+  - trigger: "homo"
+    replace: "homogeneous"
+    word: true
+    propagate_case: true
+
+  - trigger: "hpec"
+    replace: "HPE correlation"
+    word: true
+    propagate_case: true
+
+  - trigger: "hsi"
+    replace: "high signal intensity"
+    word: true
+    propagate_case: true
+
+  - trigger: "htn"
+    replace: "hypertension"
+    word: true
+    propagate_case: true
+
+  - trigger: "hwe"
+    replace: "however"
+    word: true
+    propagate_case: true
+
+  - trigger: "hyperd"
+    replace: "hyperdense"
+    word: true
+    propagate_case: true
+
+  - trigger: "hypod"
+    replace: "hypodense"
+    word: true
+    propagate_case: true
+
+  - trigger: "iac"
+    replace: "internal acoustic canal"
+    word: true
+    propagate_case: true
+
+  - trigger: "ic"
+    replace: "internal capsule"
+    word: true
+    propagate_case: true
+
+  - trigger: "ica"
+    replace: "internal carotid artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "ich"
+    replace: "intracerebral hemorrhage"
+    word: true
+    propagate_case: true
+
+  - trigger: "icj"
+    replace: "ileo-cecal junction"
+    word: true
+    propagate_case: true
+
+  - trigger: "id"
+    replace: "ill-defined"
+    word: true
+    propagate_case: true
+
+  - trigger: "ihbd"
+    replace: "intrahepatic bile ducts"
+    word: true
+    propagate_case: true
+
+  - trigger: "ihbr"
+    replace: "intrahepatic biliary radicals"
+    word: true
+    propagate_case: true
+
+  - trigger: "iia"
+    replace: "internal iliac artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "iiv"
+    replace: "internal iliac vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "ijv"
+    replace: "internal jugular vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "ild"
+    replace: "interstitial lung disease"
+    word: true
+    propagate_case: true
+
+  - trigger: "im"
+    replace: "intramuscular"
+    word: true
+    propagate_case: true
+
+  - trigger: "ima"
+    replace: "inferior mesenteric artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "imv"
+    replace: "inferior mesenteric vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "ind"
+    replace: "indeterminate"
+    word: true
+    propagate_case: true
+
+  - trigger: "inf"
+    replace: "inferior"
+    word: true
+    propagate_case: true
+
+  - trigger: "infil"
+    replace: "infiltration"
+    word: true
+    propagate_case: true
+
+  - trigger: "infl"
+    replace: "inflammatory"
+    word: true
+    propagate_case: true
+
+  - trigger: "infy"
+    replace: "inferiorly"
+    word: true
+    propagate_case: true
+
+  - trigger: "inp"
+    replace: "infective pathology"
+    word: true
+    propagate_case: true
+
+  - trigger: "int"
+    replace: "internal"
+    word: true
+    propagate_case: true
+
+  - trigger: "intm"
+    replace: "intermediate"
+    word: true
+    propagate_case: true
+
+  - trigger: "inv"
+    replace: "involving"
+    word: true
+    propagate_case: true
+
+  - trigger: "ipc"
+    replace: "interpolar calyx"
+    word: true
+    propagate_case: true
+
+  - trigger: "ipco"
+    replace: "interpolar cortex"
+    word: true
+    propagate_case: true
+
+  - trigger: "ips"
+    replace: "ipsilateral"
+    word: true
+    propagate_case: true
+
+  - trigger: "irr"
+    replace: "irregular"
+    word: true
+    propagate_case: true
+
+  - trigger: "isi"
+    replace: "iso signal intensity"
+    word: true
+    propagate_case: true
+
+  - trigger: "iss"
+    replace: "inferior sagittal sinus"
+    word: true
+    propagate_case: true
+
+  - trigger: "itfo"
+    replace: "in the form of"
+    word: true
+    propagate_case: true
+
+  - trigger: "ivc"
+    replace: "inferior vena cava"
+    word: true
+    propagate_case: true
+
+  - trigger: "ivd"
+    replace: "intervertebral disc"
+    word: true
+    propagate_case: true
+
+  - trigger: "ivh"
+    replace: "intraventricular hemorrhage"
+    word: true
+    propagate_case: true
+
+  - trigger: "jxn"
+    replace: "junction"
+    word: true
+    propagate_case: true
+
+  - trigger: "jz"
+    replace: "junctional zone"
+    word: true
+    propagate_case: true
+
+  - trigger: "kco"
+    replace: "known case of"
+    word: true
+    propagate_case: true
+
+  - trigger: "kje"
+    replace: "knee joint effusion"
+    word: true
+    propagate_case: true
+
+  - trigger: "kjs"
+    replace: "knee joint space"
+    word: true
+    propagate_case: true
+
+  - trigger: "l12"
+    replace: "L1-L2"
+    word: true
+    propagate_case: true
+
+  - trigger: "l23"
+    replace: "L2-L3"
+    word: true
+    propagate_case: true
+
+  - trigger: "l34"
+    replace: "L3-L4"
+    word: true
+    propagate_case: true
+
+  - trigger: "l45"
+    replace: "L4-L5"
+    word: true
+    propagate_case: true
+
+  - trigger: "l51"
+    replace: "L5-S1"
+    word: true
+    propagate_case: true
+
+  - trigger: "larm"
+    replace: "largest measuring"
+    word: true
+    propagate_case: true
+
+  - trigger: "larma"
+    replace: "largest measuring approximately"
+    word: true
+    propagate_case: true
+
+  - trigger: "lat"
+    replace: "lateral"
+    word: true
+    propagate_case: true
+
+  - trigger: "laty"
+    replace: "laterally"
+    word: true
+    propagate_case: true
+
+  - trigger: "lb"
+    replace: "left breast"
+    word: true
+    propagate_case: true
+
+  - trigger: "lbs"
+    replace: "lateral basal segment"
+    word: true
+    propagate_case: true
+
+  - trigger: "lcl"
+    replace: "lateral collateral ligament"
+    word: true
+    propagate_case: true
+
+  - trigger: "les"
+    replace: "lesion"
+    word: true
+    propagate_case: true
+
+  - trigger: "letm"
+    replace: "longitudinally extensive transverse myelitis"
+    word: true
+    propagate_case: true
+
+  - trigger: "lev"
+    replace: "level"
+    word: true
+    propagate_case: true
+
+  - trigger: "lfc"
+    replace: "linear fibrotic changes"
+    word: true
+    propagate_case: true
+
+  - trigger: "lfh"
+    replace: "ligamentum flavum hypertrophy"
+    word: true
+    propagate_case: true
+
+  - trigger: "lga"
+    replace: "left gastric artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "lhd"
+    replace: "left hepatic duct"
+    word: true
+    propagate_case: true
+
+  - trigger: "lhv"
+    replace: "left hepatic vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "lif"
+    replace: "left iliac fossa"
+    word: true
+    propagate_case: true
+
+  - trigger: "lig"
+    replace: "ligament"
+    word: true
+    propagate_case: true
+
+  - trigger: "lir"
+    replace: "(Left > Right)"
+    word: true
+    propagate_case: true
+
+  - trigger: "lk"
+    replace: "left kidney"
+    word: true
+    propagate_case: true
+
+  - trigger: "lll"
+    replace: "left lower lobe"
+    word: true
+    propagate_case: true
+
+  - trigger: "lm"
+    replace: "lateral meniscus"
+    word: true
+    propagate_case: true
+
+  - trigger: "ln"
+    replace: "lymph node"
+    word: true
+    propagate_case: true
+
+  - trigger: "lns"
+    replace: "lymph nodes"
+    word: true
+    propagate_case: true
+
+  - trigger: "locl"
+    replace: "Loss of cervical lordosis is seen."
+    word: true
+    propagate_case: true
+
+  - trigger: "locll"
+    replace: "Loss of cervical and lumbar lordosis is seen."
+    word: true
+    propagate_case: true
+
+  - trigger: "loll"
+    replace: "Loss of lumbar lordosis is seen."
+    word: true
+    propagate_case: true
+
+  - trigger: "lpc"
+    replace: "lower pole calyx"
+    word: true
+    propagate_case: true
+
+  - trigger: "lpco"
+    replace: "lower pole cortex"
+    word: true
+    propagate_case: true
+
+  - trigger: "lpy"
+    replace: "lymphadenopathy"
+    word: true
+    propagate_case: true
+
+  - trigger: "lr"
+    replace: "lateral recess"
+    word: true
+    propagate_case: true
+
+  - trigger: "lrc"
+    replace: "likely reactive"
+    word: true
+    propagate_case: true
+
+  - trigger: "ls"
+    replace: "lumbar spine"
+    word: true
+    propagate_case: true
+
+  - trigger: "lsi"
+    replace: "low signal intensity"
+    word: true
+    propagate_case: true
+
+  - trigger: "lss"
+    replace: "lumbosacral spine"
+    word: true
+    propagate_case: true
+
+  - trigger: "lt"
+    replace: "left"
+    word: true
+    propagate_case: true
+
+  - trigger: "lul"
+    replace: "left upper lobe"
+    word: true
+    propagate_case: true
+
+  - trigger: "lun"
+    replace: "luminal narrowing"
+    word: true
+    propagate_case: true
+
+  - trigger: "luq"
+    replace: "left upper quadrant"
+    word: true
+    propagate_case: true
+
+  - trigger: "lus"
+    replace: "luminal stenosis"
+    word: true
+    propagate_case: true
+
+  - trigger: "malig"
+    replace: "malignant"
+    word: true
+    propagate_case: true
+
+  - trigger: "maligp"
+    replace: "malignant pathology"
+    word: true
+    propagate_case: true
+
+  - trigger: "masi"
+    replace: "maxillary sinus"
+    word: true
+    propagate_case: true
+
+  - trigger: "max"
+    replace: "maximum"
+    word: true
+    propagate_case: true
+
+  - trigger: "maxi"
+    replace: "maxillary"
+    word: true
+    propagate_case: true
+
+  - trigger: "mbs"
+    replace: "medial basal segment"
+    word: true
+    propagate_case: true
+
+  - trigger: "mca"
+    replace: "middle cerebral artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "mcl"
+    replace: "medial collateral ligament"
+    word: true
+    propagate_case: true
+
+  - trigger: "me"
+    replace: "mass effect"
+    word: true
+    propagate_case: true
+
+  - trigger: "mea"
+    replace: "measuring"
+    word: true
+    propagate_case: true
+
+  - trigger: "meaa"
+    replace: "measuring approximately"
+    word: true
+    propagate_case: true
+
+  - trigger: "mec"
+    replace: "middle ear cavity"
+    word: true
+    propagate_case: true
+
+  - trigger: "med"
+    replace: "medial"
+    word: true
+    propagate_case: true
+
+  - trigger: "medly"
+    replace: "mediastinal lymphadenopathy"
+    word: true
+    propagate_case: true
+
+  - trigger: "medy"
+    replace: "medially"
+    word: true
+    propagate_case: true
+
+  - trigger: "mem"
+    replace: "medial meniscus"
+    word: true
+    propagate_case: true
+
+  - trigger: "mets"
+    replace: "metastasis"
+    word: true
+    propagate_case: true
+
+  - trigger: "mhv"
+    replace: "middle hepatic vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "min"
+    replace: "minimal"
+    word: true
+    propagate_case: true
+
+  - trigger: "mn"
+    replace: "micronodule"
+    word: true
+    propagate_case: true
+
+  - trigger: "mns"
+    replace: "micronodules"
+    word: true
+    propagate_case: true
+
+  - trigger: "mod"
+    replace: "moderate"
+    word: true
+    propagate_case: true
+
+  - trigger: "mogad"
+    replace: "myelin oligodendrocyte glycoprotein antibody-associated disease"
+    word: true
+    propagate_case: true
+
+  - trigger: "mos"
+    replace: "marginal osteophytes"
+    word: true
+    propagate_case: true
+
+  - trigger: "mpa"
+    replace: "main pulmonary artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "mpd"
+    replace: "main pancreatic duct"
+    word: true
+    propagate_case: true
+
+  - trigger: "mpt"
+    replace: "main pulmonary trunk"
+    word: true
+    propagate_case: true
+
+  - trigger: "mpv"
+    replace: "main portal vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "ms"
+    replace: "multiple sclerosis"
+    word: true
+    propagate_case: true
+
+  - trigger: "mul"
+    replace: "multiple"
+    word: true
+    propagate_case: true
+
+  - trigger: "mvl"
+    replace: "multiple vertebral levels"
+    word: true
+    propagate_case: true
+
+  - trigger: "mvs"
+    replace: "multiple variable sized"
+    word: true
+    propagate_case: true
+
+  - trigger: "n"
+    replace: "and"
+    word: true
+    propagate_case: true
+
+  - trigger: "na"
+    replace: "noted at"
+    word: true
+    propagate_case: true
+
+  - trigger: "nap"
+    replace: "non-calcified atherosclerotic plaques"
+    word: true
+    propagate_case: true
+
+  - trigger: "nar"
+    replace: "narrowing"
+    word: true
+    propagate_case: true
+
+  - trigger: "nc"
+    replace: "nasal cavity"
+    word: true
+    propagate_case: true
+
+  - trigger: "ncc"
+    replace: "neurocysticercosis"
+    word: true
+    propagate_case: true
+
+  - trigger: "neg"
+    replace: "non-enhancing"
+    word: true
+    propagate_case: true
+
+  - trigger: "nehng"
+    replace: "non-enhancing"
+    word: true
+    propagate_case: true
+
+  - trigger: "nenhg"
+    replace: "non-enhancing"
+    word: true
+    propagate_case: true
+
+  - trigger: "nf"
+    replace: "neural foramina"
+    word: true
+    propagate_case: true
+
+  - trigger: "ni"
+    replace: "noted in"
+    word: true
+    propagate_case: true
+
+  - trigger: "nl"
+    replace: "nephrolithiasis"
+    word: true
+    propagate_case: true
+
+  - trigger: "nmosd"
+    replace: "neuromyelitis optica spectrum disorder"
+    word: true
+    propagate_case: true
+
+  - trigger: "nof"
+    replace: "normal findings"
+    word: true
+    propagate_case: true
+
+  - trigger: "nonopa"
+    replace: "non-opacification"
+    word: true
+    propagate_case: true
+
+  - trigger: "nonvis"
+    replace: "non-visualization"
+    word: true
+    propagate_case: true
+
+  - trigger: "nor"
+    replace: "normal"
+    word: true
+    propagate_case: true
+
+  - trigger: "nos"
+    replace: "No septations, solid component or calcification noted within."
+    word: true
+    propagate_case: true
+
+  - trigger: "nr"
+    replace: "nerve root"
+    word: true
+    propagate_case: true
+
+  - trigger: "nsf"
+    replace: "non-specific"
+    word: true
+    propagate_case: true
+
+  - trigger: "nsl"
+    replace: "Nasal septum is deviated to left."
+    word: true
+    propagate_case: true
+
+  - trigger: "nsr"
+    replace: "Nasal septum is deviated to right."
+    word: true
+    propagate_case: true
+
+  - trigger: "nt"
+    replace: "noted"
+    word: true
+    propagate_case: true
+
+  - trigger: "nu"
+    replace: "nucleus"
+    word: true
+    propagate_case: true
+
+  - trigger: "nv"
+    replace: "not visualized"
+    word: true
+    propagate_case: true
+
+  - trigger: "nw"
+    replace: "noted within"
+    word: true
+    propagate_case: true
+
+  - trigger: "oa"
+    replace: "osteoarthritic"
+    word: true
+    propagate_case: true
+
+  - trigger: "obl"
+    replace: "obliteration"
+    word: true
+    propagate_case: true
+
+  - trigger: "obs"
+    replace: "obstruction"
+    word: true
+    propagate_case: true
+
+  - trigger: "obv"
+    replace: "obvious"
+    word: true
+    propagate_case: true
+
+  - trigger: "occ"
+    replace: "occlusion"
+    word: true
+    propagate_case: true
+
+  - trigger: "occl"
+    replace: "occipital lobe"
+    word: true
+    propagate_case: true
+
+  - trigger: "om"
+    replace: "oto-mastoiditis"
+    word: true
+    propagate_case: true
+
+  - trigger: "omc"
+    replace: "ostiomeatal complex"
+    word: true
+    propagate_case: true
+
+  - trigger: "opa"
+    replace: "opacification"
+    word: true
+    propagate_case: true
+
+  - trigger: "opd"
+    replace: "opacified"
+    word: true
+    propagate_case: true
+
+  - trigger: "ow"
+    replace: "otherwise"
+    word: true
+    propagate_case: true
+
+  - trigger: "pa"
+    replace: "posteroanterior"
+    word: true
+    propagate_case: true
+
+  - trigger: "paf"
+    replace: "posterior annular fissure"
+    word: true
+    propagate_case: true
+
+  - trigger: "pans"
+    replace: "pansinusitis"
+    word: true
+    propagate_case: true
+
+  - trigger: "paraa"
+    replace: "paraaortic"
+    word: true
+    propagate_case: true
+
+  - trigger: "parat"
+    replace: "paratracheal"
+    word: true
+    propagate_case: true
+
+  - trigger: "parl"
+    replace: "parietal lobe"
+    word: true
+    propagate_case: true
+
+  - trigger: "pars"
+    replace: "pars interarticularis"
+    word: true
+    propagate_case: true
+
+  - trigger: "pat"
+    replace: "patchy"
+    word: true
+    propagate_case: true
+
+  - trigger: "path"
+    replace: "pathology"
+    word: true
+    propagate_case: true
+
+  - trigger: "pbs"
+    replace: "posterobasal segment"
+    word: true
+    propagate_case: true
+
+  - trigger: "pc"
+    replace: "portocaval"
+    word: true
+    propagate_case: true
+
+  - trigger: "pca"
+    replace: "posterior cerebral artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "pce"
+    replace: "post-contrast enhancement"
+    word: true
+    propagate_case: true
+
+  - trigger: "pci"
+    replace: "post-contrast images"
+    word: true
+    propagate_case: true
+
+  - trigger: "pcl"
+    replace: "posterior collateral ligament"
+    word: true
+    propagate_case: true
+
+  - trigger: "pcom"
+    replace: "posterior communicating artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "pcs"
+    replace: "pelvicalyceal system"
+    word: true
+    propagate_case: true
+
+  - trigger: "pdfs"
+    replace: "PD FS"
+    word: true
+    propagate_case: true
+
+  - trigger: "pdp"
+    replace: "paramedian disc protrusion"
+    word: true
+    propagate_case: true
+
+  - trigger: "pe"
+    replace: "pulmonary embolism"
+    word: true
+    propagate_case: true
+
+  - trigger: "peed"
+    replace: "perilesional edema"
+    word: true
+    propagate_case: true
+
+  - trigger: "pera"
+    replace: "peroneal artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "peric"
+    replace: "pericardial"
+    word: true
+    propagate_case: true
+
+  - trigger: "perig"
+    replace: "perigastric"
+    word: true
+    propagate_case: true
+
+  - trigger: "perile"
+    replace: "perilesional edema"
+    word: true
+    propagate_case: true
+
+  - trigger: "perip"
+    replace: "periportal"
+    word: true
+    propagate_case: true
+
+  - trigger: "peripa"
+    replace: "peripancreatic"
+    word: true
+    propagate_case: true
+
+  - trigger: "periv"
+    replace: "periventricular"
+    word: true
+    propagate_case: true
+
+  - trigger: "pes"
+    replace: "partially empty sella"
+    word: true
+    propagate_case: true
+
+  - trigger: "pess"
+    replace: "There is fluid signal intensity noted in the pituitary fossa suggestive of partial empty sella."
+    word: true
+    propagate_case: true
+
+  - trigger: "pf"
+    replace: "patchy fibrosis"
+    word: true
+    propagate_case: true
+
+  - trigger: "pfc"
+    replace: "patchy fibrotic changes"
+    word: true
+    propagate_case: true
+
+  - trigger: "pinf"
+    replace: "posteroinferior"
+    word: true
+    propagate_case: true
+
+  - trigger: "pit"
+    replace: "pituitary"
+    word: true
+    propagate_case: true
+
+  - trigger: "pj"
+    replace: "pancreaticojejunostomy"
+    word: true
+    propagate_case: true
+
+  - trigger: "plat"
+    replace: "posterolateral"
+    word: true
+    propagate_case: true
+
+  - trigger: "plc"
+    replace: "pleural cavity"
+    word: true
+    propagate_case: true
+
+  - trigger: "ple"
+    replace: "pleural effusion"
+    word: true
+    propagate_case: true
+
+  - trigger: "pll"
+    replace: "posterior longitudinal ligament"
+    word: true
+    propagate_case: true
+
+  - trigger: "pmed"
+    replace: "posteromedial"
+    word: true
+    propagate_case: true
+
+  - trigger: "pns"
+    replace: "paranasal sinuses"
+    word: true
+    propagate_case: true
+
+  - trigger: "poc"
+    replace: "post-operative changes"
+    word: true
+    propagate_case: true
+
+  - trigger: "pod"
+    replace: "pouch of Douglas"
+    word: true
+    propagate_case: true
+
+  - trigger: "polip"
+    replace: "Soft tissue density with convex outward margin is noted in right maxillary sinus – polyp/ retention cyst."
+    word: true
+    propagate_case: true
+
+  - trigger: "popa"
+    replace: "popliteal artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "popv"
+    replace: "popliteal vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "pos"
+    replace: "posterior"
+    word: true
+    propagate_case: true
+
+  - trigger: "postop"
+    replace: "post-operative"
+    word: true
+    propagate_case: true
+
+  - trigger: "posy"
+    replace: "posteriorly"
+    word: true
+    propagate_case: true
+
+  - trigger: "pp"
+    replace: "peripheral"
+    word: true
+    propagate_case: true
+
+  - trigger: "ppc"
+    replace: "post-procedural changes"
+    word: true
+    propagate_case: true
+
+  - trigger: "pred"
+    replace: "predominantly"
+    word: true
+    propagate_case: true
+
+  - trigger: "prev"
+    replace: "prevascular"
+    word: true
+    propagate_case: true
+
+  - trigger: "pri"
+    replace: "primary"
+    word: true
+    propagate_case: true
+
+  - trigger: "prob"
+    replace: "probably"
+    word: true
+    propagate_case: true
+
+  - trigger: "prom"
+    replace: "prominent"
+    word: true
+    propagate_case: true
+
+  - trigger: "prox"
+    replace: "proximal"
+    word: true
+    propagate_case: true
+
+  - trigger: "psd"
+    replace: "posterior sectoral duct"
+    word: true
+    propagate_case: true
+
+  - trigger: "psup"
+    replace: "posterosuperior"
+    word: true
+    propagate_case: true
+
+  - trigger: "pta"
+    replace: "posterior tibial artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "pto"
+    replace: "parieto-temporo-occipital"
+    word: true
+    propagate_case: true
+
+  - trigger: "ptv"
+    replace: "posterior tibial vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "puj"
+    replace: "pelviureteric junction"
+    word: true
+    propagate_case: true
+
+  - trigger: "pujo"
+    replace: "pelviureteric junction obstruction"
+    word: true
+    propagate_case: true
+
+  - trigger: "pul"
+    replace: "pulmonary"
+    word: true
+    propagate_case: true
+
+  - trigger: "pula"
+    replace: "pulmonary artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "pulv"
+    replace: "pulmonary vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "pv"
+    replace: "portal vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "r"
+    replace: "are"
+    word: true
+    propagate_case: true
+
+  - trigger: "rada"
+    replace: "relations and extensions as described above"
+    word: true
+    propagate_case: true
+
+  - trigger: "rb"
+    replace: "right breast"
+    word: true
+    propagate_case: true
+
+  - trigger: "rcc"
+    replace: "renal cell carcinoma"
+    word: true
+    propagate_case: true
+
+  - trigger: "rebr"
+    replace: "Rest of the brain is normal in morphology and signal intensity"
+    word: true
+    propagate_case: true
+
+  - trigger: "recc"
+    replace: "renal cortical cyst"
+    word: true
+    propagate_case: true
+
+  - trigger: "redr"
+    replace: "Rest of the intervertebral discs are normal in height and signal intensity."
+    word: true
+    propagate_case: true
+
+  - trigger: "ref"
+    replace: "reformation"
+    word: true
+    propagate_case: true
+
+  - trigger: "reg"
+    replace: "region"
+    word: true
+    propagate_case: true
+
+  - trigger: "relr"
+    replace: "Rest of the lung fields shows normal attenuation and normal in aeration."
+    word: true
+    propagate_case: true
+
+  - trigger: "rena"
+    replace: "renal artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "renv"
+    replace: "renal vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "res"
+    replace: "restriction of diffusion on DWI"
+    word: true
+    propagate_case: true
+
+  - trigger: "retly"
+    replace: "retroperitoneal lymphadenopathy"
+    word: true
+    propagate_case: true
+
+  - trigger: "rhd"
+    replace: "right hepatic duct"
+    word: true
+    propagate_case: true
+
+  - trigger: "rhv"
+    replace: "right hepatic vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "ri"
+    replace: "resulting in"
+    word: true
+    propagate_case: true
+
+  - trigger: "rif"
+    replace: "right iliac fossa"
+    word: true
+    propagate_case: true
+
+  - trigger: "ril"
+    replace: "(Right > Left)"
+    word: true
+    propagate_case: true
+
+  - trigger: "rk"
+    replace: "right kidney"
+    word: true
+    propagate_case: true
+
+  - trigger: "rll"
+    replace: "right lower lobe"
+    word: true
+    propagate_case: true
+
+  - trigger: "rml"
+    replace: "right middle lobe"
+    word: true
+    propagate_case: true
+
+  - trigger: "rot"
+    replace: "rest of the"
+    word: true
+    propagate_case: true
+
+  - trigger: "rp"
+    replace: "retroperitoneum"
+    word: true
+    propagate_case: true
+
+  - trigger: "rt"
+    replace: "right"
+    word: true
+    propagate_case: true
+
+  - trigger: "rul"
+    replace: "right upper lobe"
+    word: true
+    propagate_case: true
+
+  - trigger: "ruq"
+    replace: "right upper quadrant"
+    word: true
+    propagate_case: true
+
+  - trigger: "s/o"
+    replace: "suggestive of"
+    word: true
+    propagate_case: true
+
+  - trigger: "s/p"
+    replace: "status post"
+    word: true
+    propagate_case: true
+
+  - trigger: "s12"
+    replace: "S1-S2"
+    word: true
+    propagate_case: true
+
+  - trigger: "sc"
+    replace: "subcutaneous"
+    word: true
+    propagate_case: true
+
+  - trigger: "sca"
+    replace: "subclavian artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "scc"
+    replace: "semicircular canal"
+    word: true
+    propagate_case: true
+
+  - trigger: "scd"
+    replace: "skin to calculus distance of"
+    word: true
+    propagate_case: true
+
+  - trigger: "scm"
+    replace: "sternocleidomastoid"
+    word: true
+    propagate_case: true
+
+  - trigger: "sdh"
+    replace: "subdural hemorrhage"
+    word: true
+    propagate_case: true
+
+  - trigger: "sec"
+    replace: "secondary"
+    word: true
+    propagate_case: true
+
+  - trigger: "seg"
+    replace: "segment"
+    word: true
+    propagate_case: true
+
+  - trigger: "segs"
+    replace: "segments"
+    word: true
+    propagate_case: true
+
+  - trigger: "sev"
+    replace: "severe"
+    word: true
+    propagate_case: true
+
+  - trigger: "sfa"
+    replace: "superficial femoral artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "sfv"
+    replace: "superficial femoral vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "si"
+    replace: "signal intensity"
+    word: true
+    propagate_case: true
+
+  - trigger: "sig"
+    replace: "significant"
+    word: true
+    propagate_case: true
+
+  - trigger: "sij"
+    replace: "sacro-iliac joint"
+    word: true
+    propagate_case: true
+
+  - trigger: "sins"
+    replace: "Mucosal thickening noted in bilateral maxillary sinus - suggestive of sinusitis."
+    word: true
+    propagate_case: true
+
+  - trigger: "slo"
+    replace: "spanning a length of"
+    word: true
+    propagate_case: true
+
+  - trigger: "sma"
+    replace: "superior mesenteric artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "smv"
+    replace: "superior mesenteric vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "snp"
+    replace: "sinonasal polyposis"
+    word: true
+    propagate_case: true
+
+  - trigger: "sol"
+    replace: "space occupying lesion"
+    word: true
+    propagate_case: true
+
+  - trigger: "spc"
+    replace: "spinal cord"
+    word: true
+    propagate_case: true
+
+  - trigger: "sph"
+    replace: "sphenoid"
+    word: true
+    propagate_case: true
+
+  - trigger: "sphs"
+    replace: "sphenoid sinus"
+    word: true
+    propagate_case: true
+
+  - trigger: "ss"
+    replace: "sigmoid sinus"
+    word: true
+    propagate_case: true
+
+  - trigger: "sss"
+    replace: "superior sagital sinus"
+    word: true
+    propagate_case: true
+
+  - trigger: "ssv"
+    replace: "short saphenous vein"
+    word: true
+    propagate_case: true
+
+  - trigger: "st"
+    replace: "STIR"
+    word: true
+    propagate_case: true
+
+  - trigger: "std"
+    replace: "soft tissue density"
+    word: true
+    propagate_case: true
+
+  - trigger: "stn"
+    replace: "stenosis"
+    word: true
+    propagate_case: true
+
+  - trigger: "sts"
+    replace: "soft tissue strandings"
+    word: true
+    propagate_case: true
+
+  - trigger: "subc"
+    replace: "subcarinal"
+    word: true
+    propagate_case: true
+
+  - trigger: "subseg"
+    replace: "subsegmental"
+    word: true
+    propagate_case: true
+
+  - trigger: "sup"
+    replace: "superior"
+    word: true
+    propagate_case: true
+
+  - trigger: "supp"
+    replace: "suppressed"
+    word: true
+    propagate_case: true
+
+  - trigger: "suprac"
+    replace: "supraclavicular"
+    word: true
+    propagate_case: true
+
+  - trigger: "supy"
+    replace: "superiorly"
+    word: true
+    propagate_case: true
+
+  - trigger: "susp"
+    replace: "suspicious"
+    word: true
+    propagate_case: true
+
+  - trigger: "svc"
+    replace: "superior vena cava"
+    word: true
+    propagate_case: true
+
+  - trigger: "svd"
+    replace: "small vessel disease"
+    word: true
+    propagate_case: true
+
+  - trigger: "svds"
+    replace: "Discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale."
+    word: true
+    propagate_case: true
+
+  - trigger: "sym"
+    replace: "symmetrical"
+    word: true
+    propagate_case: true
+
+  - trigger: "ta"
+    replace: "there are"
+    word: true
+    propagate_case: true
+
+  - trigger: "tb"
+    replace: "tuberculosis"
+    word: true
+    propagate_case: true
+
+  - trigger: "tc"
+    replace: "tiny calculi (<3mm)"
+    word: true
+    propagate_case: true
+
+  - trigger: "tcc"
+    replace: "transitional cell carcinoma"
+    word: true
+    propagate_case: true
+
+  - trigger: "tcs"
+    replace: "tiny calculus (<3mm)"
+    word: true
+    propagate_case: true
+
+  - trigger: "teml"
+    replace: "temporal lobe"
+    word: true
+    propagate_case: true
+
+  - trigger: "thic"
+    replace: "thickening"
+    word: true
+    propagate_case: true
+
+  - trigger: "thr"
+    replace: "thrombosis"
+    word: true
+    propagate_case: true
+
+  - trigger: "thru"
+    replace: "through"
+    word: true
+    propagate_case: true
+
+  - trigger: "thrut"
+    replace: "throughout"
+    word: true
+    propagate_case: true
+
+  - trigger: "thy"
+    replace: "thyroid"
+    word: true
+    propagate_case: true
+
+  - trigger: "ti"
+    replace: "there is"
+    word: true
+    propagate_case: true
+
+  - trigger: "tib"
+    replace: "tree in bud pattern"
+    word: true
+    propagate_case: true
+
+  - trigger: "tmas"
+    replace: "T2 high signal intensity noted in bilateral maxillary sinus - suggestive of sinusitis."
+    word: true
+    propagate_case: true
+
+  - trigger: "tnr"
+    replace: "traversing nerve root"
+    word: true
+    propagate_case: true
+
+  - trigger: "tpor"
+    replace: "T2 high signal intensity with convex free margin is noted in right maxillary sinus - polyp/ retention cyst."
+    word: true
+    propagate_case: true
+
+  - trigger: "tpt"
+    replace: "tibioperoneal trunk"
+    word: true
+    propagate_case: true
+
+  - trigger: "tr"
+    replace: "there are"
+    word: true
+    propagate_case: true
+
+  - trigger: "tra"
+    replace: "transverse"
+    word: true
+    propagate_case: true
+
+  - trigger: "trans"
+    replace: "translation"
+    word: true
+    propagate_case: true
+
+  - trigger: "tras"
+    replace: "transverse sinus"
+    word: true
+    propagate_case: true
+
+  - trigger: "trif"
+    replace: "trifurcation"
+    word: true
+    propagate_case: true
+
+  - trigger: "ts"
+    replace: "thecal sac"
+    word: true
+    propagate_case: true
+
+  - trigger: "ub"
+    replace: "urinary bladder"
+    word: true
+    propagate_case: true
+
+  - trigger: "ube"
+    replace: "Urinary bladder is empty."
+    word: true
+    propagate_case: true
+
+  - trigger: "ubef"
+    replace: "Urinary bladder is empty with Foley's in situ."
+    word: true
+    propagate_case: true
+
+  - trigger: "ubm"
+    replace: "Urinary bladder is minimally filled."
+    word: true
+    propagate_case: true
+
+  - trigger: "ubmf"
+    replace: "Urinary bladder is minimally filled with Foley's in situ."
+    word: true
+    propagate_case: true
+
+  - trigger: "ubp"
+    replace: "Urinary bladder is partially filled."
+    word: true
+    propagate_case: true
+
+  - trigger: "ubpf"
+    replace: "Urinary bladder is partially filled with Foley's in situ."
+    word: true
+    propagate_case: true
+
+  - trigger: "ud"
+    replace: "upstream dilatation"
+    word: true
+    propagate_case: true
+
+  - trigger: "upc"
+    replace: "upper pole calyx"
+    word: true
+    propagate_case: true
+
+  - trigger: "upco"
+    replace: "upper polar cortex"
+    word: true
+    propagate_case: true
+
+  - trigger: "usgc"
+    replace: "USG correlation"
+    word: true
+    propagate_case: true
+
+  - trigger: "vb"
+    replace: "vertebral body"
+    word: true
+    propagate_case: true
+
+  - trigger: "ven"
+    replace: "ventricle"
+    word: true
+    propagate_case: true
+
+  - trigger: "ver"
+    replace: "vertebra"
+    word: true
+    propagate_case: true
+
+  - trigger: "vis"
+    replace: "visualised"
+    word: true
+    propagate_case: true
+
+  - trigger: "vl"
+    replace: "vertebral level"
+    word: true
+    propagate_case: true
+
+  - trigger: "vol"
+    replace: "volume"
+    word: true
+    propagate_case: true
+
+  - trigger: "voll"
+    replace: "volume loss"
+    word: true
+    propagate_case: true
+
+  - trigger: "vrs"
+    replace: "Multiple tiny T2 high signal intensity foci noted in  bilateral frontoparietal lobe which are suppressed on FLAIR , likely Virchow Robin spaces."
+    word: true
+    propagate_case: true
+
+  - trigger: "vuj"
+    replace: "vesicoureteric junction"
+    word: true
+    propagate_case: true
+
+  - trigger: "w"
+    replace: "with"
+    word: true
+    propagate_case: true
+
+  - trigger: "wd"
+    replace: "well-defined"
+    word: true
+    propagate_case: true
+
+  - trigger: "wi"
+    replace: "which is"
+    word: true
+    propagate_case: true
+
+  - trigger: "wm"
+    replace: "white matter"
+    word: true
+    propagate_case: true
+
+  - trigger: "wo"
+    replace: "without"
     word: true
     propagate_case: true
 
