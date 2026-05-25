@@ -269,6 +269,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "awa"
+    replace: "as well as"
+    word: true
+    propagate_case: true
+
   - trigger: "bct"
     replace: "brachiocephalic trunk"
     word: true
@@ -431,6 +436,11 @@ matches:
 
   - trigger: "ccca"
     replace: "craniocaudal axis"
+    word: true
+    propagate_case: true
+
+  - trigger: "cde"
+    replace: "central disc extrusion"
     word: true
     propagate_case: true
 
@@ -604,6 +614,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "cor"
+    replace: "coronal"
+    word: true
+    propagate_case: true
+
   - trigger: "cp"
     replace: "cerebello-pontine"
     word: true
@@ -749,6 +764,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "doc"
+    replace: "disc-osteophyte complex"
+    word: true
+    propagate_case: true
+
   - trigger: "dpa"
     replace: "dorsalis pedis artery"
     word: true
@@ -824,6 +844,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "emos"
+    replace: "early marginal osteophytes"
+    word: true
+    propagate_case: true
+
   - trigger: "enc"
     replace: "encasing"
     word: true
@@ -851,6 +876,16 @@ matches:
 
   - trigger: "eo"
     replace: "evidence of"
+    word: true
+    propagate_case: true
+
+  - trigger: "ep"
+    replace: "endplate"
+    word: true
+    propagate_case: true
+
+  - trigger: "eps"
+    replace: "endplates"
     word: true
     propagate_case: true
 
@@ -1326,6 +1361,11 @@ matches:
 
   - trigger: "ivd"
     replace: "intervertebral disc"
+    word: true
+    propagate_case: true
+
+  - trigger: "ivds"
+    replace: "intervertebral discs"
     word: true
     propagate_case: true
 
@@ -2025,7 +2065,7 @@ matches:
     propagate_case: true
 
   - trigger: "pdp"
-    replace: "paramedian disc protrusion"
+    replace: "paracentral disc protrusion"
     word: true
     propagate_case: true
 
@@ -2421,6 +2461,16 @@ matches:
 
   - trigger: "s12"
     replace: "S1-S2"
+    word: true
+    propagate_case: true
+
+  - trigger: "sag"
+    replace: "sagittal"
+    word: true
+    propagate_case: true
+
+  - trigger: "sah"
+    replace: "subarachnoid hemorrhage"
     word: true
     propagate_case: true
 
@@ -2876,6 +2926,11 @@ matches:
 
   - trigger: "wo"
     replace: "without"
+    word: true
+    propagate_case: true
+
+  - trigger: "wss"
+    replace: "whole spine screening"
     word: true
     propagate_case: true
 

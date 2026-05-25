@@ -53,6 +53,7 @@ atsl,at the same level
 att,attenuating
 attn,attenuation
 atv,anterior tibial vein
+awa,as well as
 bct,brachiocephalic trunk
 ben,benign
 benp,benign pathology
@@ -86,6 +87,7 @@ cau,causing
 cbd,common bile duct
 cca,common carotid artery
 ccca,craniocaudal axis
+cde,central disc extrusion
 cdl,choledocholithiasis
 cdp,central disc protrusion
 cea,cerebral atrophy
@@ -120,6 +122,7 @@ com,complete
 comm,communication
 comp,compression
 conso,consolidation
+cor,coronal
 cp,cerebello-pontine
 cpa,cerebello-pontine angle
 cs,cervical spine
@@ -149,6 +152,7 @@ dila,dilatation
 dires,diffusion restriction
 disp,displacement
 dns,deviated nasal septum
+doc,disc-osteophyte complex
 dpa,dorsalis pedis artery
 ds,dorsal spine
 dt,due to
@@ -164,12 +168,15 @@ ehpvo,extrahepatic portal vein obstruction
 eia,external iliac artery
 eiv,external iliac vein
 emh,"Soft tissue density is noted in right middle ear cavity involving epitympanum, mesotympanum and hypotympanum which is extending to mastoid cavity through aditus ad antrum. Tegmen tympani, ear ossicles, sinus plate, scutum and facial canal appear normal"
+emos,early marginal osteophytes
 enc,encasing
 enh,enhancement
 enhg,enhancing
 enl,enlarged
 enr,exiting nerve root
 eo,evidence of 
+ep,endplate
+eps,endplates
 et,endometrial thickness
 eth,ethmoidal
 eths,ethmoid sinus
@@ -265,6 +272,7 @@ iss,inferior sagittal sinus
 itfo,in the form of
 ivc,inferior vena cava
 ivd,intervertebral disc
+ivds,intervertebral discs
 ivh,intraventricular hemorrhage
 jxn,junction
 jz,junctional zone
@@ -404,7 +412,7 @@ pcl,posterior collateral ligament
 pcom,posterior communicating artery
 pcs,pelvicalyceal system
 pdfs,PD FS
-pdp,paramedian disc protrusion
+pdp,paracentral disc protrusion
 pe,pulmonary embolism
 peed,perilesional edema
 pera,peroneal artery
@@ -484,6 +492,8 @@ ruq,right upper quadrant
 s/o,suggestive of
 s/p,status post
 s12,S1-S2
+sag,sagittal
+sah,subarachnoid hemorrhage
 sc,subcutaneous
 sca,subclavian artery
 scc,semicircular canal
@@ -575,3 +585,4 @@ wd,well-defined
 wi,which is
 wm,white matter
 wo,without
+wss,whole spine screening
