@@ -1,0 +1,592 @@
+# Gboard Dictionary version:1
+aa	abdominal aorta	en-US
+aaw	anterior abdominal wall	en-US
+abd	abdominal	en-US
+abdly	abdominal lymphadenopathy	en-US
+abdp	abdomen and pelvis	en-US
+abn	abnormal	en-US
+abs	anterobasal segment	en-US
+abu	abutting	en-US
+abut	abutment	en-US
+ac	aortocaval	en-US
+aca	anterior cerebral artery	en-US
+acj	acromio-clavicular joint	en-US
+acl	anterior cruciate ligament	en-US
+acom	anterior communicating artery	en-US
+ada	as described above	en-US
+adb	asymmetric disc bulge	en-US
+adem	acute disseminated encephalomyelitis	en-US
+adenoca	adenocarcinoma	en-US
+adj	adjacent	en-US
+adpkd	autosomal dominant polycystic kidney disease	en-US
+adv	Advice:	en-US
+af	arising from	en-US
+ag	adrenal gland	en-US
+aib	air bronchograms	en-US
+ainf	anteroinferior	en-US
+alat	anterolateral	en-US
+allg	anterior longitudinal ligament	en-US
+ambs	antero medial basal segment	en-US
+amed	anteromedial	en-US
+ant	anterior	en-US
+anty	anteriorly	en-US
+aoa	arch of aorta	en-US
+ap	anteroposterior	en-US
+apos	apicoposterior segment	en-US
+approx	approximately	en-US
+apw	aortopulmonary window	en-US
+art	artery	en-US
+asc	ascending	en-US
+asd	anterior sectoral duct	en-US
+asp	aspect	en-US
+asup	anterosuperior	en-US
+asym	asymmetric	en-US
+ata	anterior tibial artery	en-US
+atc	(AP x Tra x CC)	en-US
+atel	atelectasis	en-US
+ath	atherosclerotic	en-US
+atha	Atherosclerotic changes are noted in the aorta and its branches	en-US
+athp	atherosclerotic plaque	en-US
+atl	atelectasis	en-US
+ats	anterior thecal sac	en-US
+atsl	at the same level	en-US
+att	attenuating	en-US
+attn	attenuation	en-US
+atv	anterior tibial vein	en-US
+awa	as well as	en-US
+bct	brachiocephalic trunk	en-US
+ben	benign	en-US
+benp	benign pathology	en-US
+bg	basal ganglia	en-US
+bif	bifurcation	en-US
+bl	bilateral	en-US
+blf	bilateral lung fields	en-US
+blk	bilateral kidneys	en-US
+bll	bilateral lower lobes	en-US
+bm	bone marrow	en-US
+br	branch	en-US
+broc	bronchiectatic changes	en-US
+bul	bilateral upper lobes	en-US
+bw	between	en-US
+c12	C1-C2	en-US
+c23	C2-C3	en-US
+c34	C3-C4	en-US
+c45	C4-C5	en-US
+c56	C5-C6	en-US
+c67	C6-C7	en-US
+c71	C7-D1	en-US
+ca	carcinoma	en-US
+calc	calcification	en-US
+cald	calcified	en-US
+cali	calculi	en-US
+cals	calculus	en-US
+cap	calcified atherosclerotic plaques	en-US
+carme	cardiomegaly	en-US
+carmeg	Cardiac size is enlarged with cardiothoracic ratio of	en-US
+cau	causing	en-US
+cbd	common bile duct	en-US
+cca	common carotid artery	en-US
+ccca	craniocaudal axis	en-US
+cde	central disc extrusion	en-US
+cdl	choledocholithiasis	en-US
+cdp	central disc protrusion	en-US
+cea	cerebral atrophy	en-US
+ceat	There is volume loss of bilateral cerebral hemispheres with prominent sulci, extraaxial CSF spaces & proportionate dilatation of ventricles	en-US
+ceh	cerebellar hemisphere	en-US
+cf	calcific focus	en-US
+cfa	common femoral artery	en-US
+cfi	calcific foci	en-US
+cfv	common femoral vein	en-US
+cg	calcified granuloma	en-US
+ch	cerebral hemisphere	en-US
+cha	changes	en-US
+chd	common hepatic duct	en-US
+chea	common hepatic artery	en-US
+chemo	chemotherapy	en-US
+cholangioca	cholangiocarcinoma	en-US
+chr	chronic	en-US
+cia	common iliac artery	en-US
+cir	circumscribed	en-US
+circ	circumferential	en-US
+civ	common iliac vein	en-US
+ckd	chronic kidney disease	en-US
+cl	cholelithiasis	en-US
+cld	chronic liver disease	en-US
+cn	centrilobular nodules	en-US
+cnap	calcified and non-calcified atherosclerotic plaques	en-US
+cnl	contralateral	en-US
+cnt	centrilobular nodules with tree in bud pattern	en-US
+cocon	collapse consolidation	en-US
+col	collection	en-US
+coll	collaterals	en-US
+com	complete	en-US
+comm	communication	en-US
+comp	compression	en-US
+conso	consolidation	en-US
+cor	coronal	en-US
+cp	cerebello-pontine	en-US
+cpa	cerebello-pontine angle	en-US
+cs	cervical spine	en-US
+csc	central spinal canal	en-US
+cso	centrum semi-ovale	en-US
+csp	cavum septum pellucidum	en-US
+d1011	D10-D11	en-US
+d1112	D11-D12	en-US
+d121	D12-L1	en-US
+d23	D2-D3	en-US
+d34	D3-D4	en-US
+d45	D4-D5	en-US
+d56	D5-D6	en-US
+d67	D6-D7	en-US
+d78	D7-D8	en-US
+d89	D8-D9	en-US
+d910	D9-D10	en-US
+dd	D/D:	en-US
+ddc	disc dessication changes	en-US
+ddmos	disc dessication changes  with marginal osteophytes	en-US
+desc	descending	en-US
+dgc	degenerative changes	en-US
+dgcv	Degenerative changes are seen in visualised spine	en-US
+dia	diameter	en-US
+diff	differentiation	en-US
+dila	dilatation	en-US
+dires	diffusion restriction	en-US
+disp	displacement	en-US
+dns	deviated nasal septum	en-US
+doc	disc-osteophyte complex	en-US
+dpa	dorsalis pedis artery	en-US
+ds	dorsal spine	en-US
+dt	due to	en-US
+dta	descending thoracic aorta	en-US
+duo	duodenum	en-US
+dwm	deep white matter	en-US
+dz	disease	en-US
+eac	external auditory canal	en-US
+ec	external capsule	en-US
+edh	extradural hemorrhage	en-US
+eff	effacement	en-US
+ehpvo	extrahepatic portal vein obstruction	en-US
+eia	external iliac artery	en-US
+eiv	external iliac vein	en-US
+emh	Soft tissue density is noted in right middle ear cavity involving epitympanum, mesotympanum and hypotympanum which is extending to mastoid cavity through aditus ad antrum. Tegmen tympani, ear ossicles, sinus plate, scutum and facial canal appear normal	en-US
+emos	early marginal osteophytes	en-US
+enc	encasing	en-US
+enh	enhancement	en-US
+enhg	enhancing	en-US
+enl	enlarged	en-US
+enr	exiting nerve root	en-US
+eo	evidence of	en-US
+ep	endplate	en-US
+eps	endplates	en-US
+et	endometrial thickness	en-US
+eth	ethmoidal	en-US
+eths	ethmoid sinus	en-US
+ext	external	en-US
+extd	extending	en-US
+extg	extending	en-US
+extn	extension	en-US
+falo	features are likely of	en-US
+fatel	fibroatelectatic	en-US
+fbro	fibro bronchiectatic	en-US
+fc	fibrotic changes	en-US
+fcc	fibrocalcific changes	en-US
+fcw	features are consistent with	en-US
+fd	filling defect	en-US
+ff	free fluid	en-US
+fibron	fibronodular	en-US
+fja	facet joint arthropathy	en-US
+fl	FLAIR	en-US
+flo	features likely of	en-US
+fo	features of	en-US
+fp	fat plane	en-US
+fpt	fronto-parieto-temporal	en-US
+fpto	fronto-parieto-temporo-occipital	en-US
+frol	frontal lobe	en-US
+fros	frontal sinus	en-US
+fs	fat strandings	en-US
+fso	features suggestive of	en-US
+gb	gall bladder	en-US
+gbl	gall bladder lumen	en-US
+gda	gastroduodenal artery	en-US
+gdb	global disc bulge	en-US
+gist	gastrointestinal stromal tumor	en-US
+gj	gastrojejunostomy	en-US
+gm	grey matter	en-US
+gp	globus pallidus	en-US
+gsv	great saphenous vein	en-US
+gwm	grey and white matter	en-US
+gwmd	grey-white matter differentiation	en-US
+hcc	hepatocellular carcinoma	en-US
+hcp	hydrocephalus	en-US
+hdn	hydronephrosis	en-US
+hdun	hydroureteronephrosis	en-US
+hee	heterogeneous enhancement	en-US
+hemangiomaex	There is a lesion measuring 1.5x1.2 cm which shows peripheral nodular enhancement in arterial phase with progressive centripetal filling and enhancement corresponding to adjacent blood pool in subsequent phase	en-US
+heng	heterogeneously enhancing	en-US
+hepa	hepatic artery	en-US
+het	heterogeneous	en-US
+hetly	heterogeneously	en-US
+hge	hemorrhage	en-US
+hgic	hemorrhagic	en-US
+hj	hepaticojejunostomy	en-US
+hl	hepaticolithiasis	en-US
+hoe	homogeneous enhancement	en-US
+hoeng	homogeneously enhancing	en-US
+homly	homogeneously	en-US
+homo	homogeneous	en-US
+hpec	HPE correlation	en-US
+hsi	high signal intensity	en-US
+htn	hypertension	en-US
+hwe	however	en-US
+hx	history	en-US
+hyperd	hyperdense	en-US
+hypod	hypodense	en-US
+iac	internal acoustic canal	en-US
+ic	internal capsule	en-US
+ica	internal carotid artery	en-US
+ich	intracerebral hemorrhage	en-US
+icj	ileo-cecal junction	en-US
+id	ill-defined	en-US
+ihbd	intrahepatic bile ducts	en-US
+ihbr	intrahepatic biliary radicals	en-US
+iia	internal iliac artery	en-US
+iiv	internal iliac vein	en-US
+ijv	internal jugular vein	en-US
+ild	interstitial lung disease	en-US
+im	intramuscular	en-US
+ima	inferior mesenteric artery	en-US
+imv	inferior mesenteric vein	en-US
+ind	indeterminate	en-US
+inf	inferior	en-US
+infil	infiltration	en-US
+infl	inflammatory	en-US
+infy	inferiorly	en-US
+inp	infective pathology	en-US
+int	internal	en-US
+intm	intermediate	en-US
+inv	involving	en-US
+ipc	interpolar calyx	en-US
+ipco	interpolar cortex	en-US
+ips	ipsilateral	en-US
+irr	irregular	en-US
+isi	iso signal intensity	en-US
+iss	inferior sagittal sinus	en-US
+itfo	in the form of	en-US
+ivc	inferior vena cava	en-US
+ivd	intervertebral disc	en-US
+ivds	intervertebral discs	en-US
+ivh	intraventricular hemorrhage	en-US
+jxn	junction	en-US
+jz	junctional zone	en-US
+kco	known case of	en-US
+kje	knee joint effusion	en-US
+kjs	knee joint space	en-US
+l12	L1-L2	en-US
+l23	L2-L3	en-US
+l34	L3-L4	en-US
+l45	L4-L5	en-US
+l51	L5-S1	en-US
+larm	largest measuring	en-US
+larma	largest measuring approximately	en-US
+lat	lateral	en-US
+laty	laterally	en-US
+lb	left breast	en-US
+lbs	lateral basal segment	en-US
+lcl	lateral collateral ligament	en-US
+les	lesion	en-US
+letm	longitudinally extensive transverse myelitis	en-US
+lev	level	en-US
+lfc	linear fibrotic changes	en-US
+lfh	ligamentum flavum hypertrophy	en-US
+lga	left gastric artery	en-US
+lhd	left hepatic duct	en-US
+lhv	left hepatic vein	en-US
+lif	left iliac fossa	en-US
+lig	ligament	en-US
+lir	(Left > Right)	en-US
+lk	left kidney	en-US
+lll	left lower lobe	en-US
+lm	lateral meniscus	en-US
+ln	lymph node	en-US
+lns	lymph nodes	en-US
+locl	Loss of cervical lordosis is seen	en-US
+locll	Loss of cervical and lumbar lordosis is seen	en-US
+lofp	loss of fat plane	en-US
+loll	Loss of lumbar lordosis is seen	en-US
+lpc	lower pole calyx	en-US
+lpco	lower pole cortex	en-US
+lpy	lymphadenopathy	en-US
+lr	lateral recess	en-US
+lrc	likely reactive	en-US
+ls	lumbar spine	en-US
+lsi	low signal intensity	en-US
+lss	lumbosacral spine	en-US
+lt	left	en-US
+lul	left upper lobe	en-US
+lun	luminal narrowing	en-US
+luq	left upper quadrant	en-US
+lus	luminal stenosis	en-US
+malig	malignant	en-US
+maligp	malignant pathology	en-US
+masi	maxillary sinus	en-US
+max	maximum	en-US
+maxi	maxillary	en-US
+mbs	medial basal segment	en-US
+mca	middle cerebral artery	en-US
+mcl	medial collateral ligament	en-US
+me	mass effect	en-US
+mea	measuring	en-US
+meaa	measuring approximately	en-US
+mec	middle ear cavity	en-US
+med	medial	en-US
+medly	mediastinal lymphadenopathy	en-US
+medy	medially	en-US
+mem	medial meniscus	en-US
+mets	metastasis	en-US
+mfp	maintained fat plane	en-US
+mhv	middle hepatic vein	en-US
+min	minimal	en-US
+mn	micronodule	en-US
+mns	micronodules	en-US
+mod	moderate	en-US
+mogad	myelin oligodendrocyte glycoprotein antibody-associated disease	en-US
+mos	marginal osteophytes	en-US
+mpa	main pulmonary artery	en-US
+mpd	main pancreatic duct	en-US
+mpt	main pulmonary trunk	en-US
+mpv	main portal vein	en-US
+ms	multiple sclerosis	en-US
+mul	multiple	en-US
+mvl	multiple vertebral levels	en-US
+mvs	multiple variable sized	en-US
+n	and	en-US
+na	noted at	en-US
+nap	non-calcified atherosclerotic plaques	en-US
+nar	narrowing	en-US
+nc	nasal cavity	en-US
+ncc	neurocysticercosis	en-US
+neg	non-enhancing	en-US
+nehng	non-enhancing	en-US
+nenhg	non-enhancing	en-US
+nf	neural foramina	en-US
+ni	noted in	en-US
+nl	nephrolithiasis	en-US
+nmosd	neuromyelitis optica spectrum disorder	en-US
+nof	normal findings	en-US
+nonopa	non-opacification	en-US
+nonvis	non-visualization	en-US
+nor	normal	en-US
+nos	No septations, solid component or calcification noted within	en-US
+nr	nerve root	en-US
+nsf	non-specific	en-US
+nsl	Nasal septum is deviated to left	en-US
+nsr	Nasal septum is deviated to right	en-US
+nt	noted	en-US
+nu	nucleus	en-US
+nv	not visualized	en-US
+nw	noted within	en-US
+oa	osteoarthritic	en-US
+obl	obliteration	en-US
+obs	obstruction	en-US
+obv	obvious	en-US
+occ	occlusion	en-US
+occl	occipital lobe	en-US
+om	oto-mastoiditis	en-US
+omc	ostiomeatal complex	en-US
+opa	opacification	en-US
+opd	opacified	en-US
+ow	otherwise	en-US
+pa	posteroanterior	en-US
+paf	posterior annular fissure	en-US
+pans	pansinusitis	en-US
+paraa	paraaortic	en-US
+parat	paratracheal	en-US
+parl	parietal lobe	en-US
+pars	pars interarticularis	en-US
+pat	patchy	en-US
+path	pathology	en-US
+pbs	posterobasal segment	en-US
+pc	portocaval	en-US
+pca	posterior cerebral artery	en-US
+pce	post-contrast enhancement	en-US
+pci	post-contrast images	en-US
+pcl	posterior collateral ligament	en-US
+pcom	posterior communicating artery	en-US
+pcs	pelvicalyceal system	en-US
+pdfs	PD FS	en-US
+pdp	paracentral disc protrusion	en-US
+pe	pulmonary embolism	en-US
+peed	perilesional edema	en-US
+pera	peroneal artery	en-US
+peric	pericardial	en-US
+perig	perigastric	en-US
+perile	perilesional edema	en-US
+perip	periportal	en-US
+peripa	peripancreatic	en-US
+periv	periventricular	en-US
+pes	partially empty sella	en-US
+pess	There is fluid signal intensity noted in the pituitary fossa suggestive of partial empty sella	en-US
+pf	patchy fibrosis	en-US
+pfc	patchy fibrotic changes	en-US
+pinf	posteroinferior	en-US
+pit	pituitary	en-US
+pj	pancreaticojejunostomy	en-US
+plat	posterolateral	en-US
+plc	pleural cavity	en-US
+ple	pleural effusion	en-US
+pll	posterior longitudinal ligament	en-US
+pmed	posteromedial	en-US
+pns	paranasal sinuses	en-US
+poc	post-operative changes	en-US
+pod	pouch of Douglas	en-US
+polip	Soft tissue density with convex outward margin is noted in right maxillary sinus – polyp/ retention cyst	en-US
+popa	popliteal artery	en-US
+popv	popliteal vein	en-US
+pos	posterior	en-US
+postop	post-operative	en-US
+posy	posteriorly	en-US
+pp	peripheral	en-US
+ppc	post-procedural changes	en-US
+pred	predominantly	en-US
+prev	prevascular	en-US
+pri	primary	en-US
+prob	probably	en-US
+prom	prominent	en-US
+prox	proximal	en-US
+psd	posterior sectoral duct	en-US
+psup	posterosuperior	en-US
+pta	posterior tibial artery	en-US
+pto	parieto-temporo-occipital	en-US
+ptv	posterior tibial vein	en-US
+puj	pelviureteric junction	en-US
+pujo	pelviureteric junction obstruction	en-US
+pul	pulmonary	en-US
+pula	pulmonary artery	en-US
+pulv	pulmonary vein	en-US
+pv	portal vein	en-US
+r	are	en-US
+rada	relations and extensions as described above	en-US
+rb	right breast	en-US
+rcc	renal cell carcinoma	en-US
+rebr	Rest of the brain is normal in morphology and signal intensity	en-US
+recc	renal cortical cyst (Bosniak cat-I)	en-US
+redr	Rest of the intervertebral discs are normal in height and signal intensity	en-US
+ref	reformation	en-US
+reg	region	en-US
+relr	Rest of the lung fields shows normal attenuation and normal in aeration	en-US
+rena	renal artery	en-US
+renv	renal vein	en-US
+res	restriction of diffusion on DWI	en-US
+retly	retroperitoneal lymphadenopathy	en-US
+rhd	right hepatic duct	en-US
+rhv	right hepatic vein	en-US
+ri	resulting in	en-US
+rif	right iliac fossa	en-US
+ril	(Right > Left)	en-US
+rk	right kidney	en-US
+rll	right lower lobe	en-US
+rml	right middle lobe	en-US
+rot	rest of the	en-US
+rp	retroperitoneum	en-US
+rt	right	en-US
+rul	right upper lobe	en-US
+ruq	right upper quadrant	en-US
+s/o	suggestive of	en-US
+s/p	status post	en-US
+s12	S1-S2	en-US
+sag	sagittal	en-US
+sah	subarachnoid hemorrhage	en-US
+sc	subcutaneous	en-US
+sca	subclavian artery	en-US
+scc	semicircular canal	en-US
+scd	skin to calculus distance of	en-US
+scm	sternocleidomastoid	en-US
+sdh	subdural hemorrhage	en-US
+sec	secondary	en-US
+seg	segment	en-US
+segs	segments	en-US
+sev	severe	en-US
+sfa	superficial femoral artery	en-US
+sfv	superficial femoral vein	en-US
+si	signal intensity	en-US
+sig	significant	en-US
+sij	sacro-iliac joint	en-US
+sins	Mucosal thickening noted in bilateral maxillary sinus - suggestive of sinusitis	en-US
+slo	spanning a length of	en-US
+sma	superior mesenteric artery	en-US
+smv	superior mesenteric vein	en-US
+snp	sinonasal polyposis	en-US
+sol	space occupying lesion	en-US
+spc	spinal cord	en-US
+sph	sphenoid	en-US
+sphs	sphenoid sinus	en-US
+spla	splenic artery	en-US
+ss	sigmoid sinus	en-US
+sss	superior sagital sinus	en-US
+ssv	short saphenous vein	en-US
+st	STIR	en-US
+std	soft tissue density	en-US
+stn	stenosis	en-US
+sts	soft tissue strandings	en-US
+subc	subcarinal	en-US
+subseg	subsegmental	en-US
+sup	superior	en-US
+supp	suppressed	en-US
+suprac	supraclavicular	en-US
+supy	superiorly	en-US
+susp	suspicious	en-US
+svc	superior vena cava	en-US
+svd	small vessel disease (Fazekas grade-I)	en-US
+svds	Discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale	en-US
+sx	surgery	en-US
+sym	symmetrical	en-US
+ta	there are	en-US
+tb	tuberculosis	en-US
+tc	tiny calculi (<3mm)	en-US
+tcc	transitional cell carcinoma	en-US
+tcs	tiny calculus (<3mm)	en-US
+teml	temporal lobe	en-US
+thic	thickening	en-US
+thr	thrombosis	en-US
+thru	through	en-US
+thrut	throughout	en-US
+thy	thyroid	en-US
+ti	there is	en-US
+tib	tree in bud pattern	en-US
+tmas	T2 high signal intensity noted in bilateral maxillary sinus - suggestive of sinusitis	en-US
+tnr	traversing nerve root	en-US
+tpor	T2 high signal intensity with convex free margin is noted in right maxillary sinus - polyp/ retention cyst	en-US
+tpt	tibioperoneal trunk	en-US
+tr	there are	en-US
+tra	transverse	en-US
+trans	translation	en-US
+tras	transverse sinus	en-US
+trif	trifurcation	en-US
+ts	thecal sac	en-US
+tx	treatment	en-US
+ub	urinary bladder	en-US
+ube	Urinary bladder is empty	en-US
+ubef	Urinary bladder is empty with Foley's in situ	en-US
+ubm	Urinary bladder is minimally filled	en-US
+ubmf	Urinary bladder is minimally filled with Foley's in situ	en-US
+ubp	Urinary bladder is partially filled	en-US
+ubpf	Urinary bladder is partially filled with Foley's in situ	en-US
+ud	upstream dilatation	en-US
+upc	upper pole calyx	en-US
+upco	upper polar cortex	en-US
+usgc	USG correlation	en-US
+vb	vertebral body	en-US
+ven	ventricle	en-US
+ver	vertebra	en-US
+vis	visualised	en-US
+vl	vertebral level	en-US
+vol	volume	en-US
+voll	volume loss	en-US
+vrs	Multiple tiny T2 high signal intensity foci noted in  bilateral frontoparietal lobe which are suppressed on FLAIR , likely Virchow Robin spaces	en-US
+vuj	vesicoureteric junction	en-US
+w	with	en-US
+wd	well-defined	en-US
+wi	which is	en-US
+wm	white matter	en-US
+wo	without	en-US
+wss	whole spine screening	en-US

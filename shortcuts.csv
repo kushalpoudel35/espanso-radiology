@@ -102,6 +102,7 @@ ch,cerebral hemisphere
 cha,changes
 chd,common hepatic duct
 chea,common hepatic artery
+chemo,chemotherapy
 cholangioca,cholangiocarcinoma
 chr,chronic
 cia,common iliac artery
@@ -237,6 +238,7 @@ hpec,HPE correlation
 hsi,high signal intensity
 htn,hypertension
 hwe,however
+hx,history
 hyperd,hyperdense
 hypod,hypodense
 iac,internal acoustic canal
@@ -536,6 +538,7 @@ susp,suspicious
 svc,superior vena cava
 svd,small vessel disease (Fazekas grade-I)
 svds,Discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale
+sx,surgery
 sym,symmetrical
 ta,there are
 tb,tuberculosis
@@ -560,6 +563,7 @@ trans,translation
 tras,transverse sinus
 trif,trifurcation
 ts,thecal sac
+tx,treatment
 ub,urinary bladder
 ube,Urinary bladder is empty
 ubef,Urinary bladder is empty with Foley's in situ
