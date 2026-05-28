@@ -514,6 +514,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "chemo"
+    replace: "chemotherapy"
+    word: true
+    propagate_case: true
+
   - trigger: "cholangioca"
     replace: "cholangiocarcinoma"
     word: true
@@ -1186,6 +1191,11 @@ matches:
 
   - trigger: "hwe"
     replace: "however"
+    word: true
+    propagate_case: true
+
+  - trigger: "hx"
+    replace: "history"
     word: true
     propagate_case: true
 
@@ -2639,6 +2649,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "subcm"
+    replace: "subcentimetric"
+    word: true
+    propagate_case: true
+
   - trigger: "subseg"
     replace: "subsegmental"
     word: true
@@ -2681,6 +2696,11 @@ matches:
 
   - trigger: "svds"
     replace: "Discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale"
+    word: true
+    propagate_case: true
+
+  - trigger: "sx"
+    replace: "surgery"
     word: true
     propagate_case: true
 
@@ -2801,6 +2821,11 @@ matches:
 
   - trigger: "ts"
     replace: "thecal sac"
+    word: true
+    propagate_case: true
+
+  - trigger: "tx"
+    replace: "treatment"
     word: true
     propagate_case: true
 
