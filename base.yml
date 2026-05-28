@@ -144,6 +144,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "amt"
+    replace: "amount"
+    word: true
+    propagate_case: true
+
   - trigger: "ant"
     replace: "anterior"
     word: true
@@ -2456,6 +2461,11 @@ matches:
 
   - trigger: "ruq"
     replace: "right upper quadrant"
+    word: true
+    propagate_case: true
+
+  - trigger: "rxn"
+    replace: "reaction"
     word: true
     propagate_case: true
 
