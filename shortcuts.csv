@@ -287,13 +287,16 @@ l23,L2-L3
 l34,L3-L4
 l45,L4-L5
 l51,L5-S1
+lad,left anterior descending artery
 larm,largest measuring
 larma,largest measuring approximately
 lat,lateral
 laty,laterally
 lb,left breast
 lbs,lateral basal segment
+lca,left coronary artery
 lcl,lateral collateral ligament
+lcx,left circumflex artery
 les,lesion
 letm,longitudinally extensive transverse myelitis
 lev,level
@@ -414,6 +417,7 @@ pci,post-contrast images
 pcl,posterior collateral ligament
 pcom,posterior communicating artery
 pcs,pelvicalyceal system
+pda,posterior descending artery
 pdfs,PD FS
 pdp,paracentral disc protrusion
 pe,pulmonary embolism
@@ -468,6 +472,7 @@ pv,portal vein
 r,are
 rada,relations and extensions as described above
 rb,right breast
+rca,right coronary artery
 rcc,renal cell carcinoma
 rebr,Rest of the brain is normal in morphology and signal intensity
 recc,renal cortical cyst (Bosniak cat-I)

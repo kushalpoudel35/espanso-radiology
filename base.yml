@@ -1439,6 +1439,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "lad"
+    replace: "left anterior descending artery"
+    word: true
+    propagate_case: true
+
   - trigger: "larm"
     replace: "largest measuring"
     word: true
@@ -1469,8 +1474,18 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "lca"
+    replace: "left coronary artery"
+    word: true
+    propagate_case: true
+
   - trigger: "lcl"
     replace: "lateral collateral ligament"
+    word: true
+    propagate_case: true
+
+  - trigger: "lcx"
+    replace: "left circumflex artery"
     word: true
     propagate_case: true
 
@@ -2074,6 +2089,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "pda"
+    replace: "posterior descending artery"
+    word: true
+    propagate_case: true
+
   - trigger: "pdfs"
     replace: "PD FS"
     word: true
@@ -2341,6 +2361,11 @@ matches:
 
   - trigger: "rb"
     replace: "right breast"
+    word: true
+    propagate_case: true
+
+  - trigger: "rca"
+    replace: "right coronary artery"
     word: true
     propagate_case: true
 
