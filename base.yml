@@ -4,6 +4,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "aaa"
+    replace: "abdominal aortic aneurysm"
+    word: true
+    propagate_case: true
+
   - trigger: "aaw"
     replace: "anterior abdominal wall"
     word: true
