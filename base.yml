@@ -199,6 +199,16 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "asca"
+    replace: "ascending aorta"
+    word: true
+    propagate_case: true
+
+  - trigger: "ascc"
+    replace: "ascending colon"
+    word: true
+    propagate_case: true
+
   - trigger: "asd"
     replace: "anterior sectoral duct"
     word: true
@@ -734,8 +744,13 @@ matches:
     word: true
     propagate_case: true
 
-  - trigger: "desc"
+  - trigger: "des"
     replace: "descending"
+    word: true
+    propagate_case: true
+
+  - trigger: "desc"
+    replace: "descending colon"
     word: true
     propagate_case: true
 
@@ -1016,6 +1031,16 @@ matches:
 
   - trigger: "fpto"
     replace: "fronto-parieto-temporo-occipital"
+    word: true
+    propagate_case: true
+
+  - trigger: "fr"
+    replace: "fracture"
+    word: true
+    propagate_case: true
+
+  - trigger: "frob"
+    replace: "frontal bone"
     word: true
     propagate_case: true
 
@@ -1669,6 +1694,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "mas"
+    replace: "maxillary sinus"
+    word: true
+    propagate_case: true
+
   - trigger: "masi"
     replace: "maxillary sinus"
     word: true
@@ -1979,6 +2009,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "occb"
+    replace: "occipital bone"
+    word: true
+    propagate_case: true
+
   - trigger: "occl"
     replace: "occipital lobe"
     word: true
@@ -2031,6 +2066,11 @@ matches:
 
   - trigger: "parat"
     replace: "paratracheal"
+    word: true
+    propagate_case: true
+
+  - trigger: "parb"
+    replace: "parietal bone"
     word: true
     propagate_case: true
 
@@ -2776,6 +2816,11 @@ matches:
 
   - trigger: "tcs"
     replace: "tiny calculus (<3mm)"
+    word: true
+    propagate_case: true
+
+  - trigger: "temb"
+    replace: "temporal bone"
     word: true
     propagate_case: true
 

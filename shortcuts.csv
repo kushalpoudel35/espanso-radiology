@@ -39,6 +39,8 @@ approx,approximately
 apw,aortopulmonary window
 art,artery
 asc,ascending
+asca,ascending aorta
+ascc,ascending colon
 asd,anterior sectoral duct
 asp,aspect
 asup,anterosuperior
@@ -146,7 +148,8 @@ d910,D9-D10
 dd,D/D:
 ddc,disc dessication changes 
 ddmos,disc dessication changes  with marginal osteophytes
-desc,descending
+des,descending
+desc,descending colon
 dgc,degenerative changes
 dgcv,Degenerative changes are seen in visualised spine
 dia,diameter
@@ -203,6 +206,8 @@ fo,features of
 fp,fat plane
 fpt,fronto-parieto-temporal
 fpto,fronto-parieto-temporo-occipital
+fr,fracture
+frob,frontal bone
 frol,frontal lobe
 fros,frontal sinus
 fs,fat strandings
@@ -333,6 +338,7 @@ luq,left upper quadrant
 lus,luminal stenosis
 malig,malignant
 maligp,malignant pathology
+mas,maxillary sinus
 masi,maxillary sinus
 max,maximum
 maxi,maxillary
@@ -395,6 +401,7 @@ obl,obliteration
 obs,obstruction
 obv,obvious
 occ,occlusion
+occb,occipital bone
 occl,occipital lobe
 om,oto-mastoiditis
 omc,ostiomeatal complex
@@ -406,6 +413,7 @@ paf,posterior annular fissure
 pans,pansinusitis
 paraa,paraaortic
 parat,paratracheal
+parb,parietal bone
 parl,parietal lobe
 pars,pars interarticularis
 pat,patchy
@@ -555,6 +563,7 @@ tb,tuberculosis
 tc,tiny calculi (<3mm)
 tcc,transitional cell carcinoma
 tcs,tiny calculus (<3mm)
+temb,temporal bone
 teml,temporal lobe
 thic,thickening
 thr,thrombosis
