@@ -2519,6 +2519,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "rpl"
+    replace: "retroperitoneal"
+    word: true
+    propagate_case: true
+
   - trigger: "rt"
     replace: "right"
     word: true
