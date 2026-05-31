@@ -2999,6 +2999,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "usg"
+    replace: "ultrasound"
+    word: true
+    propagate_case: true
+
   - trigger: "usgc"
     replace: "USG correlation"
     word: true
