@@ -1084,6 +1084,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "ggo"
+    replace: "ground glass opacities"
+    word: true
+    propagate_case: true
+
   - trigger: "gist"
     replace: "gastrointestinal stromal tumor"
     word: true
@@ -1814,6 +1819,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "movt"
+    replace: "movement"
+    word: true
+    propagate_case: true
+
   - trigger: "mpa"
     replace: "main pulmonary artery"
     word: true
@@ -2046,6 +2056,11 @@ matches:
 
   - trigger: "pa"
     replace: "posteroanterior"
+    word: true
+    propagate_case: true
+
+  - trigger: "paco"
+    replace: "patchy consolidation"
     word: true
     propagate_case: true
 
@@ -2579,6 +2594,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "scat"
+    replace: "scattered"
+    word: true
+    propagate_case: true
+
   - trigger: "scc"
     replace: "semicircular canal"
     word: true
@@ -2766,6 +2786,11 @@ matches:
 
   - trigger: "supy"
     replace: "superiorly"
+    word: true
+    propagate_case: true
+
+  - trigger: "sur"
+    replace: "surrounding"
     word: true
     propagate_case: true
 

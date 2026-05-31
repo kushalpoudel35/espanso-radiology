@@ -216,6 +216,7 @@ gb,gall bladder
 gbl,gall bladder lumen
 gda,gastroduodenal artery
 gdb,global disc bulge
+ggo,ground glass opacities
 gist,gastrointestinal stromal tumor
 gj,gastrojejunostomy
 gm,grey matter
@@ -362,6 +363,7 @@ mns,micronodules
 mod,moderate
 mogad,myelin oligodendrocyte glycoprotein antibody-associated disease
 mos,marginal osteophytes
+movt,movement
 mpa,main pulmonary artery
 mpd,main pancreatic duct
 mpt,main pulmonary trunk
@@ -409,6 +411,7 @@ opa,opacification
 opd,opacified
 ow,otherwise
 pa,posteroanterior
+paco,patchy consolidation
 paf,posterior annular fissure
 pans,pansinusitis
 paraa,paraaortic
@@ -515,6 +518,7 @@ sag,sagittal
 sah,subarachnoid hemorrhage
 sc,subcutaneous
 sca,subclavian artery
+scat,scattered
 scc,semicircular canal
 scd,skin to calculus distance of
 scm,sternocleidomastoid
@@ -553,6 +557,7 @@ sup,superior
 supp,suppressed
 suprac,supraclavicular
 supy,superiorly
+sur,surrounding
 susp,suspicious
 svc,superior vena cava
 svd,small vessel disease (Fazekas grade-I)
