@@ -369,8 +369,18 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "c1"
+    replace: "C1"
+    word: true
+    propagate_case: true
+
   - trigger: "c12"
     replace: "C1-C2"
+    word: true
+    propagate_case: true
+
+  - trigger: "c2"
+    replace: "C2"
     word: true
     propagate_case: true
 
@@ -379,8 +389,18 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "c3"
+    replace: "C3"
+    word: true
+    propagate_case: true
+
   - trigger: "c34"
     replace: "C3-C4"
+    word: true
+    propagate_case: true
+
+  - trigger: "c4"
+    replace: "C4"
     word: true
     propagate_case: true
 
@@ -389,8 +409,18 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "c5"
+    replace: "C5"
+    word: true
+    propagate_case: true
+
   - trigger: "c56"
     replace: "C5-C6"
+    word: true
+    propagate_case: true
+
+  - trigger: "c6"
+    replace: "C6"
     word: true
     propagate_case: true
 
@@ -399,8 +429,18 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "c7"
+    replace: "C7"
+    word: true
+    propagate_case: true
+
   - trigger: "c71"
     replace: "C7-D1"
+    word: true
+    propagate_case: true
+
+  - trigger: "c8"
+    replace: "C8"
     word: true
     propagate_case: true
 
@@ -679,8 +719,23 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "d1"
+    replace: "D1"
+    word: true
+    propagate_case: true
+
+  - trigger: "d10"
+    replace: "D10"
+    word: true
+    propagate_case: true
+
   - trigger: "d1011"
     replace: "D10-D11"
+    word: true
+    propagate_case: true
+
+  - trigger: "d11"
+    replace: "D11"
     word: true
     propagate_case: true
 
@@ -689,8 +744,18 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "d12"
+    replace: "D12"
+    word: true
+    propagate_case: true
+
   - trigger: "d121"
     replace: "D12-L1"
+    word: true
+    propagate_case: true
+
+  - trigger: "d2"
+    replace: "D2"
     word: true
     propagate_case: true
 
@@ -699,8 +764,18 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "d3"
+    replace: "D3"
+    word: true
+    propagate_case: true
+
   - trigger: "d34"
     replace: "D3-D4"
+    word: true
+    propagate_case: true
+
+  - trigger: "d4"
+    replace: "D4"
     word: true
     propagate_case: true
 
@@ -709,8 +784,18 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "d5"
+    replace: "D5"
+    word: true
+    propagate_case: true
+
   - trigger: "d56"
     replace: "D5-D6"
+    word: true
+    propagate_case: true
+
+  - trigger: "d6"
+    replace: "D6"
     word: true
     propagate_case: true
 
@@ -719,13 +804,28 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "d7"
+    replace: "D7"
+    word: true
+    propagate_case: true
+
   - trigger: "d78"
     replace: "D7-D8"
     word: true
     propagate_case: true
 
+  - trigger: "d8"
+    replace: "D8"
+    word: true
+    propagate_case: true
+
   - trigger: "d89"
     replace: "D8-D9"
+    word: true
+    propagate_case: true
+
+  - trigger: "d9"
+    replace: "D9"
     word: true
     propagate_case: true
 
@@ -1459,8 +1559,18 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "l1"
+    replace: "L1"
+    word: true
+    propagate_case: true
+
   - trigger: "l12"
     replace: "L1-L2"
+    word: true
+    propagate_case: true
+
+  - trigger: "l2"
+    replace: "L2"
     word: true
     propagate_case: true
 
@@ -1469,13 +1579,28 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "l3"
+    replace: "L3"
+    word: true
+    propagate_case: true
+
   - trigger: "l34"
     replace: "L3-L4"
     word: true
     propagate_case: true
 
+  - trigger: "l4"
+    replace: "L4"
+    word: true
+    propagate_case: true
+
   - trigger: "l45"
     replace: "L4-L5"
+    word: true
+    propagate_case: true
+
+  - trigger: "l5"
+    replace: "L5"
     word: true
     propagate_case: true
 
@@ -2589,8 +2714,33 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "s1"
+    replace: "S1"
+    word: true
+    propagate_case: true
+
   - trigger: "s12"
     replace: "S1-S2"
+    word: true
+    propagate_case: true
+
+  - trigger: "s2"
+    replace: "S2"
+    word: true
+    propagate_case: true
+
+  - trigger: "s3"
+    replace: "S3"
+    word: true
+    propagate_case: true
+
+  - trigger: "s4"
+    replace: "S4"
+    word: true
+    propagate_case: true
+
+  - trigger: "s5"
+    replace: "S5"
     word: true
     propagate_case: true
 
