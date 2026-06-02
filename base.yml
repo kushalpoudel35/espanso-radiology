@@ -354,6 +354,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "bs"
+    replace: "basal segments"
+    word: true
+    propagate_case: true
+
   - trigger: "bul"
     replace: "bilateral upper lobes"
     word: true
