@@ -939,6 +939,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "eval"
+    replace: "evaluation"
+    word: true
+    propagate_case: true
+
   - trigger: "ext"
     replace: "external"
     word: true
