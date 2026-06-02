@@ -2369,6 +2369,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "pt"
+    replace: "patient"
+    word: true
+    propagate_case: true
+
   - trigger: "pta"
     replace: "posterior tibial artery"
     word: true
