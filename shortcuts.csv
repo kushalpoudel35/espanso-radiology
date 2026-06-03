@@ -201,12 +201,14 @@ enh,enhancement
 enhg,enhancing
 enl,enlarged
 enr,exiting nerve root
+envt,environment
 eo,evidence of 
 ep,endplate
 eps,endplates
 et,endometrial thickness
 eth,ethmoidal
 eths,ethmoid sinus
+ett,endotracheal tube
 eval,evaluation
 ext,external
 extd,extending
@@ -344,6 +346,7 @@ lig,ligament
 lir,(Left > Right)
 lk,left kidney
 lll,left lower lobe
+llq,left lower quadrant
 lm,lateral meniscus
 ln,lymph node
 lns,lymph nodes
@@ -409,6 +412,7 @@ neg,non-enhancing
 nehng,non-enhancing
 nenhg,non-enhancing
 nf,neural foramina
+ngt,nasogastric tube
 ni,noted in
 nl,nephrolithiasis
 nmosd,neuromyelitis optica spectrum disorder
@@ -441,10 +445,12 @@ ow,otherwise
 pa,posteroanterior
 paco,patchy consolidation
 paf,posterior annular fissure
+panc,pancreas
 pans,pansinusitis
 paraa,paraaortic
 parat,paratracheal
 parb,parietal bone
+paren,parenchyma
 parl,parietal lobe
 pars,pars interarticularis
 pat,patchy
@@ -466,6 +472,7 @@ pera,peroneal artery
 peric,pericardial
 perig,perigastric
 perile,perilesional edema
+perin,perinephric
 perip,periportal
 peripa,peripancreatic
 periv,periventricular
@@ -510,6 +517,7 @@ pul,pulmonary
 pula,pulmonary artery
 pulv,pulmonary vein
 pv,portal vein
+quad,quadrant
 r,are
 rada,relations and extensions as described above
 rb,right breast
@@ -532,6 +540,7 @@ rif,right iliac fossa
 ril,(Right > Left)
 rk,right kidney
 rll,right lower lobe
+rlq,right lower quadrant
 rml,right middle lobe
 rot,rest of the
 rp,retroperitoneum

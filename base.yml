@@ -1009,6 +1009,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "envt"
+    replace: "environment"
+    word: true
+    propagate_case: true
+
   - trigger: "eo"
     replace: "evidence of"
     word: true
@@ -1036,6 +1041,11 @@ matches:
 
   - trigger: "eths"
     replace: "ethmoid sinus"
+    word: true
+    propagate_case: true
+
+  - trigger: "ett"
+    replace: "endotracheal tube"
     word: true
     propagate_case: true
 
@@ -1724,6 +1734,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "llq"
+    replace: "left lower quadrant"
+    word: true
+    propagate_case: true
+
   - trigger: "lm"
     replace: "lateral meniscus"
     word: true
@@ -2049,6 +2064,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "ngt"
+    replace: "nasogastric tube"
+    word: true
+    propagate_case: true
+
   - trigger: "ni"
     replace: "noted in"
     word: true
@@ -2209,6 +2229,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "panc"
+    replace: "pancreas"
+    word: true
+    propagate_case: true
+
   - trigger: "pans"
     replace: "pansinusitis"
     word: true
@@ -2226,6 +2251,11 @@ matches:
 
   - trigger: "parb"
     replace: "parietal bone"
+    word: true
+    propagate_case: true
+
+  - trigger: "paren"
+    replace: "parenchyma"
     word: true
     propagate_case: true
 
@@ -2331,6 +2361,11 @@ matches:
 
   - trigger: "perile"
     replace: "perilesional edema"
+    word: true
+    propagate_case: true
+
+  - trigger: "perin"
+    replace: "perinephric"
     word: true
     propagate_case: true
 
@@ -2554,6 +2589,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "quad"
+    replace: "quadrant"
+    word: true
+    propagate_case: true
+
   - trigger: "r"
     replace: "are"
     word: true
@@ -2661,6 +2701,11 @@ matches:
 
   - trigger: "rll"
     replace: "right lower lobe"
+    word: true
+    propagate_case: true
+
+  - trigger: "rlq"
+    replace: "right lower quadrant"
     word: true
     propagate_case: true
 
