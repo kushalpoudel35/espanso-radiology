@@ -611,8 +611,10 @@ supy,superiorly
 sur,surrounding
 susp,suspicious
 svc,superior vena cava
-svd,small vessel disease (Fazekas grade-I)
+svd,Small vessel disease
+svdf,Small vessel disease (Fazekas grade-I)
 svds,Discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale
+svdsc,Multiple hypodensities are noted in bilateral periventricular white matter and centrum semi-ovale
 sx,surgery
 sym,symmetrical
 t1,T1

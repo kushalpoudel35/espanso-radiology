@@ -3060,12 +3060,22 @@ matches:
     propagate_case: true
 
   - trigger: "svd"
-    replace: "small vessel disease (Fazekas grade-I)"
+    replace: "Small vessel disease"
+    word: true
+    propagate_case: true
+
+  - trigger: "svdf"
+    replace: "Small vessel disease (Fazekas grade-I)"
     word: true
     propagate_case: true
 
   - trigger: "svds"
     replace: "Discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale"
+    word: true
+    propagate_case: true
+
+  - trigger: "svdsc"
+    replace: "Multiple hypodensities are noted in bilateral periventricular white matter and centrum semi-ovale"
     word: true
     propagate_case: true
 
