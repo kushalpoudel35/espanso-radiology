@@ -41,7 +41,6 @@ art,artery
 asc,ascending
 asca,ascending aorta
 ascc,ascending colon
-asd,anterior sectoral duct
 asp,aspect
 asup,anterosuperior
 asym,asymmetric
@@ -68,6 +67,7 @@ blf,bilateral lung fields
 blk,bilateral kidneys
 bll,bilateral lower lobes
 bm,bone marrow
+boo,bladder outlet obstruction
 br,branch
 broc,bronchiectatic changes
 bs,basal segments
@@ -119,6 +119,7 @@ chemo,chemotherapy
 cholangioca,cholangiocarcinoma
 chr,chronic
 cia,common iliac artery
+cic,cicatrization collapse
 cir,circumscribed
 circ,circumferential
 civ,common iliac vein
@@ -131,14 +132,15 @@ cnl,contralateral
 cnt,centrilobular nodules with tree in bud pattern
 cocon,collapse consolidation
 col,collection
-coll,collaterals
-com,complete
+coll,collateral
+colla,collaterals
 comm,communication
 comp,compression
 conso,consolidation
 cor,coronal
 cp,cerebello-pontine
 cpa,cerebello-pontine angle
+cpe,Centriacinar and paraseptal emphysematous changes
 cs,cervical spine
 csc,central spinal canal
 cso,centrum semi-ovale
@@ -169,6 +171,7 @@ d910,D9-D10
 dd,D/D:
 ddc,disc dessication changes 
 ddmos,disc dessication changes  with marginal osteophytes
+deg,degenerative
 des,descending
 desc,descending colon
 dgc,degenerative changes
@@ -196,6 +199,7 @@ eia,external iliac artery
 eiv,external iliac vein
 emh,"Soft tissue density is noted in right middle ear cavity involving epitympanum, mesotympanum and hypotympanum which is extending to mastoid cavity through aditus ad antrum. Tegmen tympani, ear ossicles, sinus plate, scutum and facial canal appear normal"
 emos,early marginal osteophytes
+empc,emphysematous changes
 enc,encasing
 enh,enhancement
 enhg,enhancing
@@ -244,6 +248,7 @@ ggo,ground glass opacities
 gist,gastrointestinal stromal tumor
 gj,gastrojejunostomy
 gm,grey matter
+goo,gastric outlet obstruction
 gp,globus pallidus
 gsv,great saphenous vein
 gwm,grey and white matter
@@ -302,6 +307,7 @@ ipco,interpolar cortex
 ips,ipsilateral
 irr,irregular
 isi,iso signal intensity
+isod,isodense
 iss,inferior sagittal sinus
 itfo,in the form of
 ivc,inferior vena cava
@@ -505,7 +511,6 @@ pri,primary
 prob,probably
 prom,prominent
 prox,proximal
-psd,posterior sectoral duct
 psup,posterosuperior
 pt,patient
 pta,posterior tibial artery
@@ -520,6 +525,7 @@ pv,portal vein
 quad,quadrant
 r,are
 rada,relations and extensions as described above
+rasd,right anterior sectoral duct
 rb,right breast
 rca,right coronary artery
 rcc,renal cell carcinoma
@@ -545,6 +551,7 @@ rml,right middle lobe
 rot,rest of the
 rp,retroperitoneum
 rpl,retroperitoneal
+rpsd,right posterior sectoral duct
 rt,right
 rul,right upper lobe
 ruq,right upper quadrant
@@ -617,6 +624,7 @@ tcc,transitional cell carcinoma
 tcs,tiny calculus (<3mm)
 temb,temporal bone
 teml,temporal lobe
+thad,"Geographic arterial phase hyperenhancement is seen in segment ... of the liver without associated mass effect or contour abnormality, becoming isodense on portal venous phase - suggestive of transient hepatic attenuation difference (THAD)"
 thic,thickening
 thr,thrombosis
 thru,through

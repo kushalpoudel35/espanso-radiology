@@ -209,11 +209,6 @@ matches:
     word: true
     propagate_case: true
 
-  - trigger: "asd"
-    replace: "anterior sectoral duct"
-    word: true
-    propagate_case: true
-
   - trigger: "asp"
     replace: "aspect"
     word: true
@@ -341,6 +336,11 @@ matches:
 
   - trigger: "bm"
     replace: "bone marrow"
+    word: true
+    propagate_case: true
+
+  - trigger: "boo"
+    replace: "bladder outlet obstruction"
     word: true
     propagate_case: true
 
@@ -599,6 +599,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "cic"
+    replace: "cicatrization collapse"
+    word: true
+    propagate_case: true
+
   - trigger: "cir"
     replace: "circumscribed"
     word: true
@@ -660,12 +665,12 @@ matches:
     propagate_case: true
 
   - trigger: "coll"
-    replace: "collaterals"
+    replace: "collateral"
     word: true
     propagate_case: true
 
-  - trigger: "com"
-    replace: "complete"
+  - trigger: "colla"
+    replace: "collaterals"
     word: true
     propagate_case: true
 
@@ -696,6 +701,11 @@ matches:
 
   - trigger: "cpa"
     replace: "cerebello-pontine angle"
+    word: true
+    propagate_case: true
+
+  - trigger: "cpe"
+    replace: "Centriacinar and paraseptal emphysematous changes"
     word: true
     propagate_case: true
 
@@ -849,6 +859,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "deg"
+    replace: "degenerative"
+    word: true
+    propagate_case: true
+
   - trigger: "des"
     replace: "descending"
     word: true
@@ -981,6 +996,11 @@ matches:
 
   - trigger: "emos"
     replace: "early marginal osteophytes"
+    word: true
+    propagate_case: true
+
+  - trigger: "empc"
+    replace: "emphysematous changes"
     word: true
     propagate_case: true
 
@@ -1221,6 +1241,11 @@ matches:
 
   - trigger: "gm"
     replace: "grey matter"
+    word: true
+    propagate_case: true
+
+  - trigger: "goo"
+    replace: "gastric outlet obstruction"
     word: true
     propagate_case: true
 
@@ -1511,6 +1536,11 @@ matches:
 
   - trigger: "isi"
     replace: "iso signal intensity"
+    word: true
+    propagate_case: true
+
+  - trigger: "isod"
+    replace: "isodense"
     word: true
     propagate_case: true
 
@@ -2529,11 +2559,6 @@ matches:
     word: true
     propagate_case: true
 
-  - trigger: "psd"
-    replace: "posterior sectoral duct"
-    word: true
-    propagate_case: true
-
   - trigger: "psup"
     replace: "posterosuperior"
     word: true
@@ -2601,6 +2626,11 @@ matches:
 
   - trigger: "rada"
     replace: "relations and extensions as described above"
+    word: true
+    propagate_case: true
+
+  - trigger: "rasd"
+    replace: "right anterior sectoral duct"
     word: true
     propagate_case: true
 
@@ -2726,6 +2756,11 @@ matches:
 
   - trigger: "rpl"
     replace: "retroperitoneal"
+    word: true
+    propagate_case: true
+
+  - trigger: "rpsd"
+    replace: "right posterior sectoral duct"
     word: true
     propagate_case: true
 
@@ -3086,6 +3121,11 @@ matches:
 
   - trigger: "teml"
     replace: "temporal lobe"
+    word: true
+    propagate_case: true
+
+  - trigger: "thad"
+    replace: "Geographic arterial phase hyperenhancement is seen in segment ... of the liver without associated mass effect or contour abnormality, becoming isodense on portal venous phase - suggestive of transient hepatic attenuation difference (THAD)"
     word: true
     propagate_case: true
 
