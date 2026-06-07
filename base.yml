@@ -919,6 +919,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "dom"
+    replace: "dominant"
+    word: true
+    propagate_case: true
+
   - trigger: "dpa"
     replace: "dorsalis pedis artery"
     word: true
@@ -2924,6 +2929,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "sigc"
+    replace: "sigmoid colon"
+    word: true
+    propagate_case: true
+
   - trigger: "sij"
     replace: "sacro-iliac joint"
     word: true
@@ -3184,6 +3194,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "tm"
+    replace: "tympanic membrane"
+    word: true
+    propagate_case: true
+
   - trigger: "tmas"
     replace: "T2 high signal intensity noted in bilateral maxillary sinus - suggestive of sinusitis"
     word: true
@@ -3211,6 +3226,11 @@ matches:
 
   - trigger: "tra"
     replace: "transverse"
+    word: true
+    propagate_case: true
+
+  - trigger: "trac"
+    replace: "transverse colon"
     word: true
     propagate_case: true
 

@@ -183,6 +183,7 @@ dires,diffusion restriction
 disp,displacement
 dns,deviated nasal septum
 doc,disc-osteophyte complex
+dom,dominant
 dpa,dorsalis pedis artery
 ds,dorsal spine
 dt,due to
@@ -584,6 +585,7 @@ sfa,superficial femoral artery
 sfv,superficial femoral vein
 si,signal intensity
 sig,significant
+sigc,sigmoid colon
 sij,sacro-iliac joint
 sins,Mucosal thickening noted in bilateral maxillary sinus - suggestive of sinusitis
 slo,spanning a length of
@@ -636,12 +638,14 @@ thrut,throughout
 thy,thyroid
 ti,there is
 tib,tree in bud pattern
+tm,tympanic membrane
 tmas,T2 high signal intensity noted in bilateral maxillary sinus - suggestive of sinusitis
 tnr,traversing nerve root
 tpor,T2 high signal intensity with convex free margin is noted in right maxillary sinus - polyp/ retention cyst
 tpt,tibioperoneal trunk
 tr,there are
 tra,transverse
+trac,transverse colon
 trans,translation
 tras,transverse sinus
 trif,trifurcation
