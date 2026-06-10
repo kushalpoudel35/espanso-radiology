@@ -146,6 +146,7 @@ cs,cervical spine
 csc,central spinal canal
 cso,centrum semi-ovale
 csp,cavum septum pellucidum
+cxr,chest x-ray
 d1,D1
 d10,D10
 d1011,D10-D11
@@ -173,6 +174,7 @@ dd,D/D:
 ddc,disc dessication changes 
 ddmos,disc dessication changes  with marginal osteophytes
 deg,degenerative
+dep,dependent
 des,descending
 desc,descending colon
 dgc,degenerative changes
@@ -237,6 +239,7 @@ fp,fat plane
 fpt,fronto-parieto-temporal
 fpto,fronto-parieto-temporo-occipital
 fr,fracture
+freq,frequency
 frob,frontal bone
 frol,frontal lobe
 fros,frontal sinus
@@ -281,7 +284,13 @@ htn,hypertension
 hwe,however
 hx,history
 hyperd,hyperdense
+hyperdy,hyperdensity
+hyperen,hyperenhancement
+hyperenhg,hyperenhancing
 hypod,hypodense
+hypody,hypodensity
+hypoen,hypoenhancement
+hypoenhg,hypoenhancing
 iac,internal acoustic canal
 ic,internal capsule
 ica,internal carotid artery
@@ -296,6 +305,7 @@ ijv,internal jugular vein
 ild,interstitial lung disease
 im,intramuscular
 ima,inferior mesenteric artery
+imln,intramammary lymph node
 imv,inferior mesenteric vein
 ind,indeterminate
 inf,inferior
@@ -314,6 +324,7 @@ isi,iso signal intensity
 isod,isodense
 iss,inferior sagittal sinus
 itfo,in the form of
+ith,inferior turbinate hypertrophy
 ivc,inferior vena cava
 ivd,intervertebral disc
 ivds,intervertebral discs
@@ -473,6 +484,7 @@ pce,post-contrast enhancement
 pci,post-contrast images
 pcl,posterior collateral ligament
 pcom,posterior communicating artery
+pcpo,partially circumscribed partially obscured
 pcs,pelvicalyceal system
 pda,posterior descending artery
 pdfs,PD FS

@@ -734,6 +734,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "cxr"
+    replace: "chest x-ray"
+    word: true
+    propagate_case: true
+
   - trigger: "d1"
     replace: "D1"
     word: true
@@ -866,6 +871,11 @@ matches:
 
   - trigger: "deg"
     replace: "degenerative"
+    word: true
+    propagate_case: true
+
+  - trigger: "dep"
+    replace: "dependent"
     word: true
     propagate_case: true
 
@@ -1189,6 +1199,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "freq"
+    replace: "frequency"
+    word: true
+    propagate_case: true
+
   - trigger: "frob"
     replace: "frontal bone"
     word: true
@@ -1409,8 +1424,38 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "hyperdy"
+    replace: "hyperdensity"
+    word: true
+    propagate_case: true
+
+  - trigger: "hyperen"
+    replace: "hyperenhancement"
+    word: true
+    propagate_case: true
+
+  - trigger: "hyperenhg"
+    replace: "hyperenhancing"
+    word: true
+    propagate_case: true
+
   - trigger: "hypod"
     replace: "hypodense"
+    word: true
+    propagate_case: true
+
+  - trigger: "hypody"
+    replace: "hypodensity"
+    word: true
+    propagate_case: true
+
+  - trigger: "hypoen"
+    replace: "hypoenhancement"
+    word: true
+    propagate_case: true
+
+  - trigger: "hypoenhg"
+    replace: "hypoenhancing"
     word: true
     propagate_case: true
 
@@ -1481,6 +1526,11 @@ matches:
 
   - trigger: "ima"
     replace: "inferior mesenteric artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "imln"
+    replace: "intramammary lymph node"
     word: true
     propagate_case: true
 
@@ -1571,6 +1621,11 @@ matches:
 
   - trigger: "itfo"
     replace: "in the form of"
+    word: true
+    propagate_case: true
+
+  - trigger: "ith"
+    replace: "inferior turbinate hypertrophy"
     word: true
     propagate_case: true
 
@@ -2366,6 +2421,11 @@ matches:
 
   - trigger: "pcom"
     replace: "posterior communicating artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "pcpo"
+    replace: "partially circumscribed partially obscured"
     word: true
     propagate_case: true
 
