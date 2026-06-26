@@ -1409,6 +1409,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "ht"
+    replace: "height"
+    word: true
+    propagate_case: true
+
   - trigger: "htn"
     replace: "hypertension"
     word: true
@@ -1994,11 +1999,6 @@ matches:
     word: true
     propagate_case: true
 
-  - trigger: "mef"
-    replace: "mass effect"
-    word: true
-    propagate_case: true
-
   - trigger: "mea"
     replace: "measuring"
     word: true
@@ -2026,6 +2026,11 @@ matches:
 
   - trigger: "medy"
     replace: "medially"
+    word: true
+    propagate_case: true
+
+  - trigger: "mef"
+    replace: "mass effect"
     word: true
     propagate_case: true
 
@@ -3466,6 +3471,11 @@ matches:
 
   - trigger: "wss"
     replace: "whole spine screening"
+    word: true
+    propagate_case: true
+
+  - trigger: "wt"
+    replace: "weight"
     word: true
     propagate_case: true
 

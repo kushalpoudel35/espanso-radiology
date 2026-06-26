@@ -281,6 +281,7 @@ homly,homogeneously
 homo,homogeneous
 hpec,HPE correlation
 hsi,high signal intensity
+ht,height
 htn,hypertension
 hwe,however
 hx,history
@@ -398,13 +399,13 @@ maxi,maxillary
 mbs,medial basal segment
 mca,middle cerebral artery
 mcl,medial collateral ligament
-mef,mass effect
 mea,measuring
 meaa,measuring approximately
 mec,middle ear cavity
 med,medial
 medly,mediastinal lymphadenopathy
 medy,medially
+mef,mass effect
 mem,medial meniscus
 mets,metastasis
 mfp,maintained fat plane
@@ -693,3 +694,4 @@ wi,which is
 wm,white matter
 wo,without
 wss,whole spine screening
+wt,weight
