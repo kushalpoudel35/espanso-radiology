@@ -1,5 +1,6 @@
 # Gboard Dictionary version:1
 aa	abdominal aorta	en-US
+aaa	abdominal aortic aneurysm	en-US
 aaw	anterior abdominal wall	en-US
 abd	abdominal	en-US
 abdly	abdominal lymphadenopathy	en-US
@@ -28,6 +29,7 @@ alat	anterolateral	en-US
 allg	anterior longitudinal ligament	en-US
 ambs	antero medial basal segment	en-US
 amed	anteromedial	en-US
+amt	amount	en-US
 ant	anterior	en-US
 anty	anteriorly	en-US
 aoa	arch of aorta	en-US
@@ -37,8 +39,10 @@ approx	approximately	en-US
 apw	aortopulmonary window	en-US
 art	artery	en-US
 asc	ascending	en-US
-asd	anterior sectoral duct	en-US
+asca	ascending aorta	en-US
+ascc	ascending colon	en-US
 asp	aspect	en-US
+ass	associated	en-US
 asup	anterosuperior	en-US
 asym	asymmetric	en-US
 ata	anterior tibial artery	en-US
@@ -64,17 +68,27 @@ blf	bilateral lung fields	en-US
 blk	bilateral kidneys	en-US
 bll	bilateral lower lobes	en-US
 bm	bone marrow	en-US
+boo	bladder outlet obstruction	en-US
 br	branch	en-US
 broc	bronchiectatic changes	en-US
+bs	basal segments	en-US
 bul	bilateral upper lobes	en-US
 bw	between	en-US
+c1	C1	en-US
 c12	C1-C2	en-US
+c2	C2	en-US
 c23	C2-C3	en-US
+c3	C3	en-US
 c34	C3-C4	en-US
+c4	C4	en-US
 c45	C4-C5	en-US
+c5	C5	en-US
 c56	C5-C6	en-US
+c6	C6	en-US
 c67	C6-C7	en-US
+c7	C7	en-US
 c71	C7-D1	en-US
+c8	C8	en-US
 ca	carcinoma	en-US
 calc	calcification	en-US
 cald	calcified	en-US
@@ -106,6 +120,7 @@ chemo	chemotherapy	en-US
 cholangioca	cholangiocarcinoma	en-US
 chr	chronic	en-US
 cia	common iliac artery	en-US
+cic	cicatrization collapse	en-US
 cir	circumscribed	en-US
 circ	circumferential	en-US
 civ	common iliac vein	en-US
@@ -118,33 +133,51 @@ cnl	contralateral	en-US
 cnt	centrilobular nodules with tree in bud pattern	en-US
 cocon	collapse consolidation	en-US
 col	collection	en-US
-coll	collaterals	en-US
-com	complete	en-US
+coll	collateral	en-US
+colla	collaterals	en-US
 comm	communication	en-US
 comp	compression	en-US
 conso	consolidation	en-US
 cor	coronal	en-US
+corr	correlation	en-US
 cp	cerebello-pontine	en-US
 cpa	cerebello-pontine angle	en-US
+cpe	Centriacinar and paraseptal emphysematous changes	en-US
 cs	cervical spine	en-US
 csc	central spinal canal	en-US
 cso	centrum semi-ovale	en-US
 csp	cavum septum pellucidum	en-US
+cxr	chest x-ray	en-US
+d1	D1	en-US
+d10	D10	en-US
 d1011	D10-D11	en-US
+d11	D11	en-US
 d1112	D11-D12	en-US
+d12	D12	en-US
 d121	D12-L1	en-US
+d2	D2	en-US
 d23	D2-D3	en-US
+d3	D3	en-US
 d34	D3-D4	en-US
+d4	D4	en-US
 d45	D4-D5	en-US
+d5	D5	en-US
 d56	D5-D6	en-US
+d6	D6	en-US
 d67	D6-D7	en-US
+d7	D7	en-US
 d78	D7-D8	en-US
+d8	D8	en-US
 d89	D8-D9	en-US
+d9	D9	en-US
 d910	D9-D10	en-US
 dd	D/D:	en-US
 ddc	disc dessication changes	en-US
 ddmos	disc dessication changes  with marginal osteophytes	en-US
-desc	descending	en-US
+deg	degenerative	en-US
+dep	dependent	en-US
+des	descending	en-US
+desc	descending colon	en-US
 dgc	degenerative changes	en-US
 dgcv	Degenerative changes are seen in visualised spine	en-US
 dia	diameter	en-US
@@ -154,6 +187,7 @@ dires	diffusion restriction	en-US
 disp	displacement	en-US
 dns	deviated nasal septum	en-US
 doc	disc-osteophyte complex	en-US
+dom	dominant	en-US
 dpa	dorsalis pedis artery	en-US
 ds	dorsal spine	en-US
 dt	due to	en-US
@@ -170,17 +204,21 @@ eia	external iliac artery	en-US
 eiv	external iliac vein	en-US
 emh	Soft tissue density is noted in right middle ear cavity involving epitympanum, mesotympanum and hypotympanum which is extending to mastoid cavity through aditus ad antrum. Tegmen tympani, ear ossicles, sinus plate, scutum and facial canal appear normal	en-US
 emos	early marginal osteophytes	en-US
+empc	emphysematous changes	en-US
 enc	encasing	en-US
 enh	enhancement	en-US
 enhg	enhancing	en-US
 enl	enlarged	en-US
 enr	exiting nerve root	en-US
+envt	environment	en-US
 eo	evidence of	en-US
 ep	endplate	en-US
 eps	endplates	en-US
 et	endometrial thickness	en-US
 eth	ethmoidal	en-US
 eths	ethmoid sinus	en-US
+ett	endotracheal tube	en-US
+eval	evaluation	en-US
 ext	external	en-US
 extd	extending	en-US
 extg	extending	en-US
@@ -201,17 +239,24 @@ fo	features of	en-US
 fp	fat plane	en-US
 fpt	fronto-parieto-temporal	en-US
 fpto	fronto-parieto-temporo-occipital	en-US
+fr	fracture	en-US
+freq	frequency	en-US
+frob	frontal bone	en-US
 frol	frontal lobe	en-US
 fros	frontal sinus	en-US
 fs	fat strandings	en-US
 fso	features suggestive of	en-US
+fva	Findings in visualised abdomen	en-US
+fvc	Findings in visualised chest	en-US
 gb	gall bladder	en-US
 gbl	gall bladder lumen	en-US
 gda	gastroduodenal artery	en-US
 gdb	global disc bulge	en-US
+ggo	ground glass opacities	en-US
 gist	gastrointestinal stromal tumor	en-US
 gj	gastrojejunostomy	en-US
 gm	grey matter	en-US
+goo	gastric outlet obstruction	en-US
 gp	globus pallidus	en-US
 gsv	great saphenous vein	en-US
 gwm	grey and white matter	en-US
@@ -236,11 +281,19 @@ homly	homogeneously	en-US
 homo	homogeneous	en-US
 hpec	HPE correlation	en-US
 hsi	high signal intensity	en-US
+ht	height	en-US
 htn	hypertension	en-US
 hwe	however	en-US
 hx	history	en-US
 hyperd	hyperdense	en-US
+hyperdy	hyperdensity	en-US
+hyperen	hyperenhancement	en-US
+hyperenhg	hyperenhancing	en-US
 hypod	hypodense	en-US
+hypody	hypodensity	en-US
+hypoen	hypoenhancement	en-US
+hypoeng	hypoenhancing	en-US
+hypoenhg	hypoenhancing	en-US
 iac	internal acoustic canal	en-US
 ic	internal capsule	en-US
 ica	internal carotid artery	en-US
@@ -255,6 +308,7 @@ ijv	internal jugular vein	en-US
 ild	interstitial lung disease	en-US
 im	intramuscular	en-US
 ima	inferior mesenteric artery	en-US
+imln	intramammary lymph node	en-US
 imv	inferior mesenteric vein	en-US
 ind	indeterminate	en-US
 inf	inferior	en-US
@@ -270,8 +324,10 @@ ipco	interpolar cortex	en-US
 ips	ipsilateral	en-US
 irr	irregular	en-US
 isi	iso signal intensity	en-US
+isod	isodense	en-US
 iss	inferior sagittal sinus	en-US
 itfo	in the form of	en-US
+ith	inferior turbinate hypertrophy	en-US
 ivc	inferior vena cava	en-US
 ivd	intervertebral disc	en-US
 ivds	intervertebral discs	en-US
@@ -281,18 +337,26 @@ jz	junctional zone	en-US
 kco	known case of	en-US
 kje	knee joint effusion	en-US
 kjs	knee joint space	en-US
+l1	L1	en-US
 l12	L1-L2	en-US
+l2	L2	en-US
 l23	L2-L3	en-US
+l3	L3	en-US
 l34	L3-L4	en-US
+l4	L4	en-US
 l45	L4-L5	en-US
+l5	L5	en-US
 l51	L5-S1	en-US
+lad	left anterior descending artery	en-US
 larm	largest measuring	en-US
 larma	largest measuring approximately	en-US
 lat	lateral	en-US
 laty	laterally	en-US
 lb	left breast	en-US
 lbs	lateral basal segment	en-US
+lca	left coronary artery	en-US
 lcl	lateral collateral ligament	en-US
+lcx	left circumflex artery	en-US
 les	lesion	en-US
 letm	longitudinally extensive transverse myelitis	en-US
 lev	level	en-US
@@ -306,6 +370,7 @@ lig	ligament	en-US
 lir	(Left > Right)	en-US
 lk	left kidney	en-US
 lll	left lower lobe	en-US
+llq	left lower quadrant	en-US
 lm	lateral meniscus	en-US
 ln	lymph node	en-US
 lns	lymph nodes	en-US
@@ -328,19 +393,20 @@ luq	left upper quadrant	en-US
 lus	luminal stenosis	en-US
 malig	malignant	en-US
 maligp	malignant pathology	en-US
+mas	maxillary sinus	en-US
 masi	maxillary sinus	en-US
 max	maximum	en-US
 maxi	maxillary	en-US
 mbs	medial basal segment	en-US
 mca	middle cerebral artery	en-US
 mcl	medial collateral ligament	en-US
-me	mass effect	en-US
 mea	measuring	en-US
 meaa	measuring approximately	en-US
 mec	middle ear cavity	en-US
 med	medial	en-US
 medly	mediastinal lymphadenopathy	en-US
 medy	medially	en-US
+mef	mass effect	en-US
 mem	medial meniscus	en-US
 mets	metastasis	en-US
 mfp	maintained fat plane	en-US
@@ -351,6 +417,7 @@ mns	micronodules	en-US
 mod	moderate	en-US
 mogad	myelin oligodendrocyte glycoprotein antibody-associated disease	en-US
 mos	marginal osteophytes	en-US
+movt	movement	en-US
 mpa	main pulmonary artery	en-US
 mpd	main pancreatic duct	en-US
 mpt	main pulmonary trunk	en-US
@@ -363,12 +430,14 @@ n	and	en-US
 na	noted at	en-US
 nap	non-calcified atherosclerotic plaques	en-US
 nar	narrowing	en-US
+nb	nasal bone	en-US
 nc	nasal cavity	en-US
 ncc	neurocysticercosis	en-US
 neg	non-enhancing	en-US
 nehng	non-enhancing	en-US
 nenhg	non-enhancing	en-US
 nf	neural foramina	en-US
+ngt	nasogastric tube	en-US
 ni	noted in	en-US
 nl	nephrolithiasis	en-US
 nmosd	neuromyelitis optica spectrum disorder	en-US
@@ -383,6 +452,7 @@ nsl	Nasal septum is deviated to left	en-US
 nsr	Nasal septum is deviated to right	en-US
 nt	noted	en-US
 nu	nucleus	en-US
+num	number	en-US
 nv	not visualized	en-US
 nw	noted within	en-US
 oa	osteoarthritic	en-US
@@ -390,6 +460,7 @@ obl	obliteration	en-US
 obs	obstruction	en-US
 obv	obvious	en-US
 occ	occlusion	en-US
+occb	occipital bone	en-US
 occl	occipital lobe	en-US
 om	oto-mastoiditis	en-US
 omc	ostiomeatal complex	en-US
@@ -397,10 +468,14 @@ opa	opacification	en-US
 opd	opacified	en-US
 ow	otherwise	en-US
 pa	posteroanterior	en-US
+paco	patchy consolidation	en-US
 paf	posterior annular fissure	en-US
+panc	pancreas	en-US
 pans	pansinusitis	en-US
 paraa	paraaortic	en-US
 parat	paratracheal	en-US
+parb	parietal bone	en-US
+paren	parenchyma	en-US
 parl	parietal lobe	en-US
 pars	pars interarticularis	en-US
 pat	patchy	en-US
@@ -412,7 +487,9 @@ pce	post-contrast enhancement	en-US
 pci	post-contrast images	en-US
 pcl	posterior collateral ligament	en-US
 pcom	posterior communicating artery	en-US
+pcpo	partially circumscribed partially obscured	en-US
 pcs	pelvicalyceal system	en-US
+pda	posterior descending artery	en-US
 pdfs	PD FS	en-US
 pdp	paracentral disc protrusion	en-US
 pe	pulmonary embolism	en-US
@@ -421,6 +498,7 @@ pera	peroneal artery	en-US
 peric	pericardial	en-US
 perig	perigastric	en-US
 perile	perilesional edema	en-US
+perin	perinephric	en-US
 perip	periportal	en-US
 peripa	peripancreatic	en-US
 periv	periventricular	en-US
@@ -453,8 +531,8 @@ pri	primary	en-US
 prob	probably	en-US
 prom	prominent	en-US
 prox	proximal	en-US
-psd	posterior sectoral duct	en-US
 psup	posterosuperior	en-US
+pt	patient	en-US
 pta	posterior tibial artery	en-US
 pto	parieto-temporo-occipital	en-US
 ptv	posterior tibial vein	en-US
@@ -464,9 +542,12 @@ pul	pulmonary	en-US
 pula	pulmonary artery	en-US
 pulv	pulmonary vein	en-US
 pv	portal vein	en-US
+quad	quadrant	en-US
 r	are	en-US
 rada	relations and extensions as described above	en-US
+rasd	right anterior sectoral duct	en-US
 rb	right breast	en-US
+rca	right coronary artery	en-US
 rcc	renal cell carcinoma	en-US
 rebr	Rest of the brain is normal in morphology and signal intensity	en-US
 recc	renal cortical cyst (Bosniak cat-I)	en-US
@@ -485,31 +566,44 @@ rif	right iliac fossa	en-US
 ril	(Right > Left)	en-US
 rk	right kidney	en-US
 rll	right lower lobe	en-US
+rlq	right lower quadrant	en-US
 rml	right middle lobe	en-US
 rot	rest of the	en-US
 rp	retroperitoneum	en-US
+rpl	retroperitoneal	en-US
+rpsd	right posterior sectoral duct	en-US
 rt	right	en-US
 rul	right upper lobe	en-US
 ruq	right upper quadrant	en-US
+rxn	reaction	en-US
 s/o	suggestive of	en-US
 s/p	status post	en-US
+s1	S1	en-US
 s12	S1-S2	en-US
+s2	S2	en-US
+s3	S3	en-US
+s4	S4	en-US
+s5	S5	en-US
 sag	sagittal	en-US
 sah	subarachnoid hemorrhage	en-US
 sc	subcutaneous	en-US
 sca	subclavian artery	en-US
+scat	scattered	en-US
 scc	semicircular canal	en-US
 scd	skin to calculus distance of	en-US
 scm	sternocleidomastoid	en-US
+scp	subcutaneous plane	en-US
 sdh	subdural hemorrhage	en-US
 sec	secondary	en-US
 seg	segment	en-US
 segs	segments	en-US
+seq	sequelae	en-US
 sev	severe	en-US
 sfa	superficial femoral artery	en-US
 sfv	superficial femoral vein	en-US
 si	signal intensity	en-US
 sig	significant	en-US
+sigc	sigmoid colon	en-US
 sij	sacro-iliac joint	en-US
 sins	Mucosal thickening noted in bilateral maxillary sinus - suggestive of sinusitis	en-US
 slo	spanning a length of	en-US
@@ -517,6 +611,7 @@ sma	superior mesenteric artery	en-US
 smv	superior mesenteric vein	en-US
 snp	sinonasal polyposis	en-US
 sol	space occupying lesion	en-US
+sot	some of the	en-US
 spc	spinal cord	en-US
 sph	sphenoid	en-US
 sphs	sphenoid sinus	en-US
@@ -529,23 +624,31 @@ std	soft tissue density	en-US
 stn	stenosis	en-US
 sts	soft tissue strandings	en-US
 subc	subcarinal	en-US
+subcm	subcentimetric	en-US
 subseg	subsegmental	en-US
 sup	superior	en-US
 supp	suppressed	en-US
 suprac	supraclavicular	en-US
 supy	superiorly	en-US
+sur	surrounding	en-US
 susp	suspicious	en-US
 svc	superior vena cava	en-US
-svd	small vessel disease (Fazekas grade-I)	en-US
+svd	Small vessel disease	en-US
+svdf	Small vessel disease (Fazekas grade-I)	en-US
 svds	Discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale	en-US
+svdsc	Multiple hypodensities are noted in bilateral periventricular white matter and centrum semi-ovale	en-US
 sx	surgery	en-US
 sym	symmetrical	en-US
+t1	T1	en-US
+t2	T2	en-US
 ta	there are	en-US
 tb	tuberculosis	en-US
 tc	tiny calculi (<3mm)	en-US
 tcc	transitional cell carcinoma	en-US
 tcs	tiny calculus (<3mm)	en-US
+temb	temporal bone	en-US
 teml	temporal lobe	en-US
+thad	Geographic arterial phase hyperenhancement is seen in segment ... of the liver without associated mass effect or contour abnormality, becoming isodense on portal venous phase - suggestive of transient hepatic attenuation difference (THAD)	en-US
 thic	thickening	en-US
 thr	thrombosis	en-US
 thru	through	en-US
@@ -553,12 +656,15 @@ thrut	throughout	en-US
 thy	thyroid	en-US
 ti	there is	en-US
 tib	tree in bud pattern	en-US
+tm	tympanic membrane	en-US
 tmas	T2 high signal intensity noted in bilateral maxillary sinus - suggestive of sinusitis	en-US
 tnr	traversing nerve root	en-US
 tpor	T2 high signal intensity with convex free margin is noted in right maxillary sinus - polyp/ retention cyst	en-US
 tpt	tibioperoneal trunk	en-US
 tr	there are	en-US
 tra	transverse	en-US
+trab	traction bronchiectasis	en-US
+trac	transverse colon	en-US
 trans	translation	en-US
 tras	transverse sinus	en-US
 trif	trifurcation	en-US
@@ -574,6 +680,7 @@ ubpf	Urinary bladder is partially filled with Foley's in situ	en-US
 ud	upstream dilatation	en-US
 upc	upper pole calyx	en-US
 upco	upper polar cortex	en-US
+usg	ultrasound	en-US
 usgc	USG correlation	en-US
 vb	vertebral body	en-US
 ven	ventricle	en-US
@@ -590,3 +697,4 @@ wi	which is	en-US
 wm	white matter	en-US
 wo	without	en-US
 wss	whole spine screening	en-US
+wt	weight	en-US

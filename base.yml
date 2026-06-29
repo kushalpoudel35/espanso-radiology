@@ -1464,6 +1464,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "hypoeng"
+    replace: "hypoenhancing"
+    word: true
+    propagate_case: true
+
   - trigger: "hypoenhg"
     replace: "hypoenhancing"
     word: true
@@ -2984,6 +2989,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "seq"
+    replace: "sequelae"
+    word: true
+    propagate_case: true
+
   - trigger: "sev"
     replace: "severe"
     word: true
@@ -3306,6 +3316,11 @@ matches:
 
   - trigger: "tra"
     replace: "transverse"
+    word: true
+    propagate_case: true
+
+  - trigger: "trab"
+    replace: "traction bronchiectasis"
     word: true
     propagate_case: true
 
