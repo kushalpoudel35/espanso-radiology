@@ -1074,6 +1074,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "esp"
+    replace: "especially"
+    word: true
+    propagate_case: true
+
   - trigger: "et"
     replace: "endometrial thickness"
     word: true
@@ -1354,6 +1359,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "heterod"
+    replace: "heterodense"
+    word: true
+    propagate_case: true
+
   - trigger: "hetly"
     replace: "heterogeneously"
     word: true
@@ -1496,6 +1506,11 @@ matches:
 
   - trigger: "icj"
     replace: "ileo-cecal junction"
+    word: true
+    propagate_case: true
+
+  - trigger: "ics"
+    replace: "intercostal space"
     word: true
     propagate_case: true
 
@@ -2791,6 +2806,11 @@ matches:
 
   - trigger: "res"
     replace: "restriction of diffusion on DWI"
+    word: true
+    propagate_case: true
+
+  - trigger: "resp"
+    replace: "respectively"
     word: true
     propagate_case: true
 

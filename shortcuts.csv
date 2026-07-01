@@ -214,6 +214,7 @@ envt,environment
 eo,evidence of 
 ep,endplate
 eps,endplates
+esp,especially
 et,endometrial thickness
 eth,ethmoidal
 eths,ethmoid sinus
@@ -270,6 +271,7 @@ hemangiomaex,There is a lesion measuring 1.5x1.2 cm which shows peripheral nodul
 heng,heterogeneously enhancing
 hepa,hepatic artery
 het,heterogeneous
+heterod,heterodense
 hetly,heterogeneously
 hge,hemorrhage
 hgic,hemorrhagic
@@ -299,6 +301,7 @@ ic,internal capsule
 ica,internal carotid artery
 ich,intracerebral hemorrhage
 icj,ileo-cecal junction
+ics,intercostal space
 id,ill-defined
 ihbd,intrahepatic bile ducts
 ihbr,intrahepatic biliary radicals
@@ -558,6 +561,7 @@ relr,Rest of the lung fields shows normal attenuation and normal in aeration
 rena,renal artery
 renv,renal vein
 res,restriction of diffusion on DWI
+resp,respectively
 retly,retroperitoneal lymphadenopathy
 rhd,right hepatic duct
 rhv,right hepatic vein
