@@ -354,6 +354,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "bra"
+    replace: "branches"
+    word: true
+    propagate_case: true
+
   - trigger: "broc"
     replace: "bronchiectatic changes"
     word: true
@@ -636,6 +641,11 @@ matches:
 
   - trigger: "cld"
     replace: "chronic liver disease"
+    word: true
+    propagate_case: true
+
+  - trigger: "cmn"
+    replace: "centrilobular micronodules"
     word: true
     propagate_case: true
 
@@ -2026,6 +2036,11 @@ matches:
 
   - trigger: "meaa"
     replace: "measuring approximately"
+    word: true
+    propagate_case: true
+
+  - trigger: "meas"
+    replace: "measures"
     word: true
     propagate_case: true
 

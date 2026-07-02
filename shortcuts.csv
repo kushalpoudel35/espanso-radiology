@@ -70,6 +70,7 @@ bll,bilateral lower lobes
 bm,bone marrow
 boo,bladder outlet obstruction
 br,branch
+bra,branches
 broc,bronchiectatic changes
 bs,basal segments
 bul,bilateral upper lobes
@@ -127,6 +128,7 @@ civ,common iliac vein
 ckd,chronic kidney disease
 cl,cholelithiasis
 cld,chronic liver disease
+cmn,centrilobular micronodules
 cn,centrilobular nodules
 cnap,calcified and non-calcified atherosclerotic plaques
 cnl,contralateral
@@ -405,6 +407,7 @@ mca,middle cerebral artery
 mcl,medial collateral ligament
 mea,measuring
 meaa,measuring approximately
+meas,measures
 mec,middle ear cavity
 med,medial
 medly,mediastinal lymphadenopathy
