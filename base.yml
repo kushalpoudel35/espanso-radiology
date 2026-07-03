@@ -1610,7 +1610,7 @@ matches:
     propagate_case: true
 
   - trigger: "int"
-    replace: "internal"
+    replace: "intermediate"
     word: true
     propagate_case: true
 
