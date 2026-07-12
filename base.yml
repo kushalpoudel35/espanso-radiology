@@ -2744,6 +2744,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "pvwm"
+    replace: "periventricular white matter"
+    word: true
+    propagate_case: true
+
   - trigger: "quad"
     replace: "quadrant"
     word: true
@@ -3180,6 +3185,11 @@ matches:
     propagate_case: true
 
   - trigger: "suprac"
+    replace: "supraclavicular"
+    word: true
+    propagate_case: true
+
+  - trigger: "supraclav"
     replace: "supraclavicular"
     word: true
     propagate_case: true
