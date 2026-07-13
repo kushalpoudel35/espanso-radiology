@@ -910,7 +910,7 @@ matches:
     propagate_case: true
 
   - trigger: "dgcv"
-    replace: "Degenerative changes are seen in visualised spine"
+    replace: "Degenerative changes are seen in visualized spine"
     word: true
     propagate_case: true
 
@@ -1250,12 +1250,12 @@ matches:
     propagate_case: true
 
   - trigger: "fva"
-    replace: "Findings in visualised abdomen"
+    replace: "Findings in visualized abdomen"
     word: true
     propagate_case: true
 
   - trigger: "fvc"
-    replace: "Findings in visualised chest"
+    replace: "Findings in visualized chest"
     word: true
     propagate_case: true
 
@@ -1461,6 +1461,11 @@ matches:
 
   - trigger: "hyperen"
     replace: "hyperenhancement"
+    word: true
+    propagate_case: true
+
+  - trigger: "hypereng"
+    replace: "hyperenhancing"
     word: true
     propagate_case: true
 
@@ -2151,6 +2156,11 @@ matches:
 
   - trigger: "mul"
     replace: "multiple"
+    word: true
+    propagate_case: true
+
+  - trigger: "mus"
+    replace: "muscle"
     word: true
     propagate_case: true
 
@@ -3475,7 +3485,7 @@ matches:
     propagate_case: true
 
   - trigger: "vis"
-    replace: "visualised"
+    replace: "visualized"
     word: true
     propagate_case: true
 

@@ -181,7 +181,7 @@ dep,dependent
 des,descending
 desc,descending colon
 dgc,degenerative changes
-dgcv,Degenerative changes are seen in visualised spine
+dgcv,Degenerative changes are seen in visualized spine
 dia,diameter
 diff,differentiation
 dila,dilatation
@@ -249,8 +249,8 @@ frol,frontal lobe
 fros,frontal sinus
 fs,fat strandings
 fso,features suggestive of 
-fva,Findings in visualised abdomen
-fvc,Findings in visualised chest
+fva,Findings in visualized abdomen
+fvc,Findings in visualized chest
 gb,gall bladder
 gbl,gall bladder lumen
 gda,gastroduodenal artery
@@ -292,6 +292,7 @@ hx,history
 hyperd,hyperdense
 hyperdy,hyperdensity
 hyperen,hyperenhancement
+hypereng,hyperenhancing
 hyperenhg,hyperenhancing
 hypod,hypodense
 hypody,hypodensity
@@ -430,6 +431,7 @@ mpt,main pulmonary trunk
 mpv,main portal vein
 ms,multiple sclerosis
 mul,multiple
+mus,muscle
 mvl,multiple vertebral levels
 mvs,multiple variable sized
 n,and
@@ -694,7 +696,7 @@ usgc,USG correlation
 vb,vertebral body
 ven,ventricle
 ver,vertebra
-vis,visualised
+vis,visualized
 vl,vertebral level
 vol,volume
 voll,volume loss
