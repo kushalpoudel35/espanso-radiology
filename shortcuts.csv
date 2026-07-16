@@ -255,6 +255,7 @@ gb,gall bladder
 gbl,gall bladder lumen
 gda,gastroduodenal artery
 gdb,global disc bulge
+gej,gastro-esophageal junction
 ggo,ground glass opacities
 gist,gastrointestinal stromal tumor
 gj,gastrojejunostomy
@@ -270,6 +271,7 @@ hdn,hydronephrosis
 hdun,hydroureteronephrosis
 hee,heterogeneous enhancement
 hemangiomaex,There is a lesion measuring 1.5x1.2 cm which shows peripheral nodular enhancement in arterial phase with progressive centripetal filling and enhancement corresponding to adjacent blood pool in subsequent phase
+hemangiomav,A lytic lesion with vertical trabeculations giving 'polka-dot appearance' on axial section is noted in D12 vertebral body - likely hemangioma
 heng,heterogeneously enhancing
 hepa,hepatic artery
 het,heterogeneous
@@ -478,6 +480,7 @@ ow,otherwise
 pa,posteroanterior
 paco,patchy consolidation
 paf,posterior annular fissure
+pah,pulmonary arterial hypertension
 panc,pancreas
 pans,pansinusitis
 paraa,paraaortic
@@ -632,6 +635,7 @@ ssv,short saphenous vein
 st,STIR
 std,soft tissue density
 stn,stenosis
+str,structure
 sts,soft tissue strandings
 subc,subcarinal
 subcm,subcentimetric

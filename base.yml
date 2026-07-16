@@ -1279,6 +1279,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "gej"
+    replace: "gastro-esophageal junction"
+    word: true
+    propagate_case: true
+
   - trigger: "ggo"
     replace: "ground glass opacities"
     word: true
@@ -1351,6 +1356,11 @@ matches:
 
   - trigger: "hemangiomaex"
     replace: "There is a lesion measuring 1.5x1.2 cm which shows peripheral nodular enhancement in arterial phase with progressive centripetal filling and enhancement corresponding to adjacent blood pool in subsequent phase"
+    word: true
+    propagate_case: true
+
+  - trigger: "hemangiomav"
+    replace: "A lytic lesion with vertical trabeculations giving 'polka-dot appearance' on axial section is noted in D12 vertebral body - likely hemangioma"
     word: true
     propagate_case: true
 
@@ -2394,6 +2404,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "pah"
+    replace: "pulmonary arterial hypertension"
+    word: true
+    propagate_case: true
+
   - trigger: "panc"
     replace: "pancreas"
     word: true
@@ -3161,6 +3176,11 @@ matches:
 
   - trigger: "stn"
     replace: "stenosis"
+    word: true
+    propagate_case: true
+
+  - trigger: "str"
+    replace: "structure"
     word: true
     propagate_case: true
 
