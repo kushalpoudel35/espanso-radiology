@@ -70,6 +70,7 @@ bll	bilateral lower lobes	en-US
 bm	bone marrow	en-US
 boo	bladder outlet obstruction	en-US
 br	branch	en-US
+bra	branches	en-US
 broc	bronchiectatic changes	en-US
 bs	basal segments	en-US
 bul	bilateral upper lobes	en-US
@@ -127,6 +128,7 @@ civ	common iliac vein	en-US
 ckd	chronic kidney disease	en-US
 cl	cholelithiasis	en-US
 cld	chronic liver disease	en-US
+cmn	centrilobular micronodules	en-US
 cn	centrilobular nodules	en-US
 cnap	calcified and non-calcified atherosclerotic plaques	en-US
 cnl	contralateral	en-US
@@ -179,7 +181,7 @@ dep	dependent	en-US
 des	descending	en-US
 desc	descending colon	en-US
 dgc	degenerative changes	en-US
-dgcv	Degenerative changes are seen in visualised spine	en-US
+dgcv	Degenerative changes are seen in visualized spine	en-US
 dia	diameter	en-US
 diff	differentiation	en-US
 dila	dilatation	en-US
@@ -214,6 +216,7 @@ envt	environment	en-US
 eo	evidence of	en-US
 ep	endplate	en-US
 eps	endplates	en-US
+esp	especially	en-US
 et	endometrial thickness	en-US
 eth	ethmoidal	en-US
 eths	ethmoid sinus	en-US
@@ -246,12 +249,13 @@ frol	frontal lobe	en-US
 fros	frontal sinus	en-US
 fs	fat strandings	en-US
 fso	features suggestive of	en-US
-fva	Findings in visualised abdomen	en-US
-fvc	Findings in visualised chest	en-US
+fva	Findings in visualized abdomen	en-US
+fvc	Findings in visualized chest	en-US
 gb	gall bladder	en-US
 gbl	gall bladder lumen	en-US
 gda	gastroduodenal artery	en-US
 gdb	global disc bulge	en-US
+gej	gastro-esophageal junction	en-US
 ggo	ground glass opacities	en-US
 gist	gastrointestinal stromal tumor	en-US
 gj	gastrojejunostomy	en-US
@@ -267,9 +271,11 @@ hdn	hydronephrosis	en-US
 hdun	hydroureteronephrosis	en-US
 hee	heterogeneous enhancement	en-US
 hemangiomaex	There is a lesion measuring 1.5x1.2 cm which shows peripheral nodular enhancement in arterial phase with progressive centripetal filling and enhancement corresponding to adjacent blood pool in subsequent phase	en-US
+hemangiomav	A lytic lesion with vertical trabeculations giving 'polka-dot appearance' on axial section is noted in D12 vertebral body - likely hemangioma	en-US
 heng	heterogeneously enhancing	en-US
 hepa	hepatic artery	en-US
 het	heterogeneous	en-US
+heterod	heterodense	en-US
 hetly	heterogeneously	en-US
 hge	hemorrhage	en-US
 hgic	hemorrhagic	en-US
@@ -288,6 +294,7 @@ hx	history	en-US
 hyperd	hyperdense	en-US
 hyperdy	hyperdensity	en-US
 hyperen	hyperenhancement	en-US
+hypereng	hyperenhancing	en-US
 hyperenhg	hyperenhancing	en-US
 hypod	hypodense	en-US
 hypody	hypodensity	en-US
@@ -299,6 +306,7 @@ ic	internal capsule	en-US
 ica	internal carotid artery	en-US
 ich	intracerebral hemorrhage	en-US
 icj	ileo-cecal junction	en-US
+ics	intercostal space	en-US
 id	ill-defined	en-US
 ihbd	intrahepatic bile ducts	en-US
 ihbr	intrahepatic biliary radicals	en-US
@@ -316,7 +324,7 @@ infil	infiltration	en-US
 infl	inflammatory	en-US
 infy	inferiorly	en-US
 inp	infective pathology	en-US
-int	internal	en-US
+int	intermediate	en-US
 intm	intermediate	en-US
 inv	involving	en-US
 ipc	interpolar calyx	en-US
@@ -402,6 +410,7 @@ mca	middle cerebral artery	en-US
 mcl	medial collateral ligament	en-US
 mea	measuring	en-US
 meaa	measuring approximately	en-US
+meas	measures	en-US
 mec	middle ear cavity	en-US
 med	medial	en-US
 medly	mediastinal lymphadenopathy	en-US
@@ -422,8 +431,11 @@ mpa	main pulmonary artery	en-US
 mpd	main pancreatic duct	en-US
 mpt	main pulmonary trunk	en-US
 mpv	main portal vein	en-US
+mra	main renal artery	en-US
+mrv	main renal vein	en-US
 ms	multiple sclerosis	en-US
 mul	multiple	en-US
+mus	muscle	en-US
 mvl	multiple vertebral levels	en-US
 mvs	multiple variable sized	en-US
 n	and	en-US
@@ -470,6 +482,7 @@ ow	otherwise	en-US
 pa	posteroanterior	en-US
 paco	patchy consolidation	en-US
 paf	posterior annular fissure	en-US
+pah	pulmonary arterial hypertension	en-US
 panc	pancreas	en-US
 pans	pansinusitis	en-US
 paraa	paraaortic	en-US
@@ -542,6 +555,7 @@ pul	pulmonary	en-US
 pula	pulmonary artery	en-US
 pulv	pulmonary vein	en-US
 pv	portal vein	en-US
+pvwm	periventricular white matter	en-US
 quad	quadrant	en-US
 r	are	en-US
 rada	relations and extensions as described above	en-US
@@ -558,6 +572,7 @@ relr	Rest of the lung fields shows normal attenuation and normal in aeration	en-
 rena	renal artery	en-US
 renv	renal vein	en-US
 res	restriction of diffusion on DWI	en-US
+resp	respectively	en-US
 retly	retroperitoneal lymphadenopathy	en-US
 rhd	right hepatic duct	en-US
 rhv	right hepatic vein	en-US
@@ -622,6 +637,7 @@ ssv	short saphenous vein	en-US
 st	STIR	en-US
 std	soft tissue density	en-US
 stn	stenosis	en-US
+str	structure	en-US
 sts	soft tissue strandings	en-US
 subc	subcarinal	en-US
 subcm	subcentimetric	en-US
@@ -629,6 +645,7 @@ subseg	subsegmental	en-US
 sup	superior	en-US
 supp	suppressed	en-US
 suprac	supraclavicular	en-US
+supraclav	supraclavicular	en-US
 supy	superiorly	en-US
 sur	surrounding	en-US
 susp	suspicious	en-US
@@ -685,7 +702,7 @@ usgc	USG correlation	en-US
 vb	vertebral body	en-US
 ven	ventricle	en-US
 ver	vertebra	en-US
-vis	visualised	en-US
+vis	visualized	en-US
 vl	vertebral level	en-US
 vol	volume	en-US
 voll	volume loss	en-US

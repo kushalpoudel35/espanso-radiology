@@ -2159,6 +2159,16 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "mra"
+    replace: "main renal artery"
+    word: true
+    propagate_case: true
+
+  - trigger: "mrv"
+    replace: "main renal vein"
+    word: true
+    propagate_case: true
+
   - trigger: "ms"
     replace: "multiple sclerosis"
     word: true
