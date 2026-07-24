@@ -569,6 +569,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "cgs"
+    replace: "calcified granulomas"
+    word: true
+    propagate_case: true
+
   - trigger: "ch"
     replace: "cerebral hemisphere"
     word: true
@@ -999,6 +1004,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "eca"
+    replace: "external carotid artery"
+    word: true
+    propagate_case: true
+
   - trigger: "edh"
     replace: "extradural hemorrhage"
     word: true
@@ -1059,6 +1069,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "enlm"
+    replace: "enlargement"
+    word: true
+    propagate_case: true
+
   - trigger: "enr"
     replace: "exiting nerve root"
     word: true
@@ -1081,6 +1096,11 @@ matches:
 
   - trigger: "eps"
     replace: "endplates"
+    word: true
+    propagate_case: true
+
+  - trigger: "erp"
+    replace: "extrarenal pelvis"
     word: true
     propagate_case: true
 
@@ -1131,6 +1151,11 @@ matches:
 
   - trigger: "extn"
     replace: "extension"
+    word: true
+    propagate_case: true
+
+  - trigger: "fac"
+    replace: "fibroatelectatic changes"
     word: true
     propagate_case: true
 
@@ -1191,6 +1216,11 @@ matches:
 
   - trigger: "flo"
     replace: "features likely of"
+    word: true
+    propagate_case: true
+
+  - trigger: "fnc"
+    replace: "fibronodular changes"
     word: true
     propagate_case: true
 
@@ -2596,6 +2626,11 @@ matches:
 
   - trigger: "pfc"
     replace: "patchy fibrotic changes"
+    word: true
+    propagate_case: true
+
+  - trigger: "phtn"
+    replace: "portal hypertension"
     word: true
     propagate_case: true
 

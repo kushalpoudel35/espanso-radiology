@@ -113,6 +113,7 @@ cfa,common femoral artery
 cfi,calcific foci
 cfv,common femoral vein
 cg,calcified granuloma
+cgs,calcified granulomas
 ch,cerebral hemisphere
 cha,changes
 chd,common hepatic duct
@@ -199,6 +200,7 @@ dwm,deep white matter
 dz,disease
 eac,external auditory canal
 ec,external capsule
+eca,external carotid artery
 edh,extradural hemorrhage
 eff,effacement
 ehpvo,extrahepatic portal vein obstruction
@@ -211,11 +213,13 @@ enc,encasing
 enh,enhancement
 enhg,enhancing
 enl,enlarged
+enlm,enlargement
 enr,exiting nerve root
 envt,environment
 eo,evidence of 
 ep,endplate
 eps,endplates
+erp,extrarenal pelvis
 esp,especially
 et,endometrial thickness
 eth,ethmoidal
@@ -226,6 +230,7 @@ ext,external
 extd,extending
 extg,extending
 extn,extension
+fac,fibroatelectatic changes
 falo,features are likely of
 fatel,fibroatelectatic
 fbro,fibro bronchiectatic
@@ -238,6 +243,7 @@ fibron,fibronodular
 fja,facet joint arthropathy
 fl,FLAIR
 flo,features likely of
+fnc,fibronodular changes
 fo,features of
 fp,fat plane
 fpt,fronto-parieto-temporal
@@ -519,6 +525,7 @@ pes,partially empty sella
 pess,There is fluid signal intensity noted in the pituitary fossa suggestive of partial empty sella
 pf,patchy fibrosis
 pfc,patchy fibrotic changes
+phtn,portal hypertension
 pinf,posteroinferior
 pit,pituitary
 pj,pancreaticojejunostomy
