@@ -885,7 +885,7 @@ matches:
     propagate_case: true
 
   - trigger: "ddmos"
-    replace: "disc dessication changes  with marginal osteophytes"
+    replace: "Disc dessication changes with marginal osteophytes are noted at multiple vertebral levels"
     word: true
     propagate_case: true
 
@@ -1076,6 +1076,11 @@ matches:
 
   - trigger: "enr"
     replace: "exiting nerve root"
+    word: true
+    propagate_case: true
+
+  - trigger: "enrs"
+    replace: "exiting nerve roots"
     word: true
     propagate_case: true
 
@@ -1839,6 +1844,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "lbp"
+    replace: "lower back pain"
+    word: true
+    propagate_case: true
+
   - trigger: "lbs"
     replace: "lateral basal segment"
     word: true
@@ -2064,6 +2074,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "mc"
+    replace: "Modic changes"
+    word: true
+    propagate_case: true
+
   - trigger: "mca"
     replace: "middle cerebral artery"
     word: true
@@ -2244,6 +2259,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "nasl"
+    replace: "noted at the same level"
+    word: true
+    propagate_case: true
+
   - trigger: "nb"
     replace: "nasal bone"
     word: true
@@ -2326,6 +2346,11 @@ matches:
 
   - trigger: "nr"
     replace: "nerve root"
+    word: true
+    propagate_case: true
+
+  - trigger: "nrs"
+    replace: "nerve roots"
     word: true
     propagate_case: true
 
@@ -3416,6 +3441,11 @@ matches:
 
   - trigger: "tnr"
     replace: "traversing nerve root"
+    word: true
+    propagate_case: true
+
+  - trigger: "tnrs"
+    replace: "traversing nerve roots"
     word: true
     propagate_case: true
 

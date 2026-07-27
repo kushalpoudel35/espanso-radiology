@@ -176,7 +176,7 @@ d9,D9
 d910,D9-D10
 dd,D/D:
 ddc,disc dessication changes 
-ddmos,disc dessication changes  with marginal osteophytes
+ddmos,Disc dessication changes with marginal osteophytes are noted at multiple vertebral levels
 deg,degenerative
 dep,dependent
 des,descending
@@ -215,6 +215,7 @@ enhg,enhancing
 enl,enlarged
 enlm,enlargement
 enr,exiting nerve root
+enrs,exiting nerve roots
 envt,environment
 eo,evidence of 
 ep,endplate
@@ -367,6 +368,7 @@ larma,largest measuring approximately
 lat,lateral
 laty,laterally
 lb,left breast
+lbp,lower back pain
 lbs,lateral basal segment
 lca,left coronary artery
 lcl,lateral collateral ligament
@@ -412,6 +414,7 @@ masi,maxillary sinus
 max,maximum
 maxi,maxillary
 mbs,medial basal segment
+mc,Modic changes
 mca,middle cerebral artery
 mcl,medial collateral ligament
 mea,measuring
@@ -448,6 +451,7 @@ n,and
 na,noted at
 nap,non-calcified atherosclerotic plaques
 nar,narrowing
+nasl,noted at the same level
 nb,nasal bone
 nc,nasal cavity
 ncc,neurocysticercosis
@@ -465,6 +469,7 @@ nonvis,non-visualization
 nor,normal
 nos,"No septations, solid component or calcification noted within"
 nr,nerve root
+nrs,nerve roots
 nsf,non-specific
 nsl,Nasal septum is deviated to left
 nsr,Nasal septum is deviated to right
@@ -683,6 +688,7 @@ tib,tree in bud pattern
 tm,tympanic membrane
 tmas,T2 high signal intensity noted in bilateral maxillary sinus - suggestive of sinusitis
 tnr,traversing nerve root
+tnrs,traversing nerve roots
 tpor,T2 high signal intensity with convex free margin is noted in right maxillary sinus - polyp/ retention cyst
 tpt,tibioperoneal trunk
 tr,there are
