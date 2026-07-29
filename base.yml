@@ -339,6 +339,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "bloom"
+    replace: "No blooming seen on SWI"
+    word: true
+    propagate_case: true
+
   - trigger: "bm"
     replace: "bone marrow"
     word: true
@@ -751,6 +756,11 @@ matches:
 
   - trigger: "csp"
     replace: "cavum septum pellucidum"
+    word: true
+    propagate_case: true
+
+  - trigger: "cspev"
+    replace: "cavum septum pellucidum et vergae"
     word: true
     propagate_case: true
 
@@ -2341,6 +2351,11 @@ matches:
 
   - trigger: "nos"
     replace: "No septations, solid component or calcification noted within"
+    word: true
+    propagate_case: true
+
+  - trigger: "nowss"
+    replace: "Due to unavailability of T2 sagittal whole spine screening image, presence of transitional vertebra couldn't be completely ruled out. The last unfused vertebra is counted as L5"
     word: true
     propagate_case: true
 

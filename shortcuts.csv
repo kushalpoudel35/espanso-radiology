@@ -67,6 +67,7 @@ bl,bilateral
 blf,bilateral lung fields
 blk,bilateral kidneys
 bll,bilateral lower lobes
+bloom,No blooming seen on SWI
 bm,bone marrow
 boo,bladder outlet obstruction
 br,branch
@@ -150,6 +151,7 @@ cs,cervical spine
 csc,central spinal canal
 cso,centrum semi-ovale
 csp,cavum septum pellucidum
+cspev,cavum septum pellucidum et vergae
 cxr,chest x-ray
 d1,D1
 d10,D10
@@ -468,6 +470,7 @@ nonopa,non-opacification
 nonvis,non-visualization
 nor,normal
 nos,"No septations, solid component or calcification noted within"
+nowss,"Due to unavailability of T2 sagittal whole spine screening image, presence of transitional vertebra couldn't be completely ruled out. The last unfused vertebra is counted as L5"
 nr,nerve root
 nrs,nerve roots
 nsf,non-specific
