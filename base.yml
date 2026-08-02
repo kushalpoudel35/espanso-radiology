@@ -1304,6 +1304,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "fxn"
+    replace: "function"
+    word: true
+    propagate_case: true
+
   - trigger: "gb"
     replace: "gall bladder"
     word: true
