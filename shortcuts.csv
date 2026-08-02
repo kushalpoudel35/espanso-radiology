@@ -177,8 +177,8 @@ d89,D8-D9
 d9,D9
 d910,D9-D10
 dd,D/D:
-ddc,disc dessication changes 
-ddmos,Disc dessication changes with marginal osteophytes are noted at multiple vertebral levels
+ddc,disc desiccation changes 
+ddmos,Disc desiccation changes with marginal osteophytes are noted at multiple vertebral levels
 deg,degenerative
 dep,dependent
 des,descending
@@ -563,6 +563,7 @@ psup,posterosuperior
 pt,patient
 pta,posterior tibial artery
 pto,parieto-temporo-occipital
+pts,patients
 ptv,posterior tibial vein
 puj,pelviureteric junction
 pujo,pelviureteric junction obstruction

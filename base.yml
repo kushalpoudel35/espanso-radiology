@@ -890,12 +890,12 @@ matches:
     propagate_case: true
 
   - trigger: "ddc"
-    replace: "disc dessication changes"
+    replace: "disc desiccation changes"
     word: true
     propagate_case: true
 
   - trigger: "ddmos"
-    replace: "Disc dessication changes with marginal osteophytes are noted at multiple vertebral levels"
+    replace: "Disc desiccation changes with marginal osteophytes are noted at multiple vertebral levels"
     word: true
     propagate_case: true
 
@@ -2816,6 +2816,11 @@ matches:
 
   - trigger: "pto"
     replace: "parieto-temporo-occipital"
+    word: true
+    propagate_case: true
+
+  - trigger: "pts"
+    replace: "patients"
     word: true
     propagate_case: true
 
