@@ -109,6 +109,7 @@ cdp,central disc protrusion
 cea,cerebral atrophy
 ceat,"There is volume loss of bilateral cerebral hemispheres with prominent sulci, extraaxial CSF spaces & proportionate dilatation of ventricles"
 ceh,cerebellar hemisphere
+cenr,cauda equina nerve roots
 cf,calcific focus
 cfa,common femoral artery
 cfi,calcific foci
@@ -669,6 +670,8 @@ susp,suspicious
 svc,superior vena cava
 svd,Small vessel disease
 svdf,Small vessel disease (Fazekas grade-I)
+svdff,Small vessel disease (Fazekas grade-II)
+svdfff,Small vessel disease (Fazekas grade-III)
 svds,Discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale
 svdsc,Multiple hypodensities are noted in bilateral periventricular white matter and centrum semi-ovale
 sx,surgery

@@ -549,6 +549,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "cenr"
+    replace: "cauda equina nerve roots"
+    word: true
+    propagate_case: true
+
   - trigger: "cf"
     replace: "calcific focus"
     word: true
@@ -3346,6 +3351,16 @@ matches:
 
   - trigger: "svdf"
     replace: "Small vessel disease (Fazekas grade-I)"
+    word: true
+    propagate_case: true
+
+  - trigger: "svdff"
+    replace: "Small vessel disease (Fazekas grade-II)"
+    word: true
+    propagate_case: true
+
+  - trigger: "svdfff"
+    replace: "Small vessel disease (Fazekas grade-III)"
     word: true
     propagate_case: true
 
