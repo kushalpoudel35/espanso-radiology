@@ -1694,6 +1694,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "invt"
+    replace: "involvement"
+    word: true
+    propagate_case: true
+
   - trigger: "ipc"
     replace: "interpolar calyx"
     word: true
