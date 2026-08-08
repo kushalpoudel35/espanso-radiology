@@ -721,13 +721,15 @@ upco,upper polar cortex
 usg,ultrasound
 usgc,USG correlation
 vb,vertebral body
+vbs,vertebral bodies
 ven,ventricle
 ver,vertebra
 vis,visualized
 vl,vertebral level
 vol,volume
 voll,volume loss
-vrs,"Multiple tiny T2 high signal intensity foci noted in  bilateral frontoparietal lobe which are suppressed on FLAIR , likely Virchow Robin spaces"
+vrs,Virchow Robin spaces
+vrss,"Multiple tiny T2 high signal intensity foci noted in  bilateral frontoparietal lobe which are suppressed on FLAIR , likely Virchow Robin spaces"
 vuj,vesicoureteric junction
 w,with
 wd,well-defined

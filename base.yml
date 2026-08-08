@@ -3609,6 +3609,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "vbs"
+    replace: "vertebral bodies"
+    word: true
+    propagate_case: true
+
   - trigger: "ven"
     replace: "ventricle"
     word: true
@@ -3640,6 +3645,11 @@ matches:
     propagate_case: true
 
   - trigger: "vrs"
+    replace: "Virchow Robin spaces"
+    word: true
+    propagate_case: true
+
+  - trigger: "vrss"
     replace: "Multiple tiny T2 high signal intensity foci noted in  bilateral frontoparietal lobe which are suppressed on FLAIR , likely Virchow Robin spaces"
     word: true
     propagate_case: true
