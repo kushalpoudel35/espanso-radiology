@@ -1694,7 +1694,7 @@ matches:
     word: true
     propagate_case: true
 
-  - trigger: "invt"
+  - trigger: "invo"
     replace: "involvement"
     word: true
     propagate_case: true
