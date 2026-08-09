@@ -3609,6 +3609,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "va"
+    replace: "vertebral artery"
+    word: true
+    propagate_case: true
+
   - trigger: "vb"
     replace: "vertebral body"
     word: true
