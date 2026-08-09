@@ -214,7 +214,7 @@ matches:
     word: true
     propagate_case: true
 
-  - trigger: "ass"
+  - trigger: "asso"
     replace: "associated"
     word: true
     propagate_case: true
