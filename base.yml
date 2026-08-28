@@ -680,7 +680,7 @@ matches:
     propagate_case: true
 
   - trigger: "cnt"
-    replace: "centrilobular nodules with tree in bud pattern"
+    replace: "centrilobular nodules giving tree in bud pattern"
     word: true
     propagate_case: true
 
@@ -740,7 +740,7 @@ matches:
     propagate_case: true
 
   - trigger: "cpe"
-    replace: "Centriacinar and paraseptal emphysematous changes"
+    replace: "Centrilobular and paraseptal emphysematous changes"
     word: true
     propagate_case: true
 
