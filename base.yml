@@ -1069,6 +1069,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "enca"
+    replace: "encasement"
+    word: true
+    propagate_case: true
+
   - trigger: "enh"
     replace: "enhancement"
     word: true
@@ -1084,7 +1089,7 @@ matches:
     word: true
     propagate_case: true
 
-  - trigger: "enlm"
+  - trigger: "enla"
     replace: "enlargement"
     word: true
     propagate_case: true
@@ -1096,6 +1101,11 @@ matches:
 
   - trigger: "enrs"
     replace: "exiting nerve roots"
+    word: true
+    propagate_case: true
+
+  - trigger: "ent"
+    replace: "endometrial thickness"
     word: true
     propagate_case: true
 
@@ -1126,11 +1136,6 @@ matches:
 
   - trigger: "esp"
     replace: "especially"
-    word: true
-    propagate_case: true
-
-  - trigger: "ent"
-    replace: "endometrial thickness"
     word: true
     propagate_case: true
 
