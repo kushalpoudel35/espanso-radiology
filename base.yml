@@ -954,6 +954,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "dishx"
+    replace: "Multilevel flowing anterolateral ossification/bridging osteophytes along the thoracic spine involving multiple contiguous vertebral levels, with relative preservation of the intervertebral disc spaces. Findings are suggestive of diffuse idiopathic skeletal hyperostosis (DISH)"
+    word: true
+    propagate_case: true
+
   - trigger: "disp"
     replace: "displacement"
     word: true
@@ -2675,7 +2680,7 @@ matches:
     propagate_case: true
 
   - trigger: "pess"
-    replace: "There is fluid signal intensity noted in the pituitary fossa suggestive of partial empty sella"
+    replace: "There is fluid signal intensity noted in the pituitary fossa with flattening of the pituitary gland, suggestive of partial empty sella"
     word: true
     propagate_case: true
 
@@ -3375,7 +3380,7 @@ matches:
     propagate_case: true
 
   - trigger: "svds"
-    replace: "Discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale"
+    replace: "Multiple discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale"
     word: true
     propagate_case: true
 
@@ -3401,6 +3406,16 @@ matches:
 
   - trigger: "t2"
     replace: "T2"
+    word: true
+    propagate_case: true
+
+  - trigger: "t2fl"
+    replace: "T2/FLAIR"
+    word: true
+    propagate_case: true
+
+  - trigger: "t2st"
+    replace: "T2/STIR"
     word: true
     propagate_case: true
 
@@ -3665,7 +3680,7 @@ matches:
     propagate_case: true
 
   - trigger: "vrss"
-    replace: "Multiple tiny T2 high signal intensity foci noted in  bilateral frontoparietal lobe which are suppressed on FLAIR , likely Virchow Robin spaces"
+    replace: "Multiple tiny T2 hyperintense FLAIR suppressed foci noted in  bilateral frontoparietal lobes, likely Virchow Robin spaces"
     word: true
     propagate_case: true
 

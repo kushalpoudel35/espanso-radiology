@@ -190,6 +190,7 @@ dia,diameter
 diff,differentiation
 dila,dilatation
 dires,diffusion restriction
+dishx,"Multilevel flowing anterolateral ossification/bridging osteophytes along the thoracic spine involving multiple contiguous vertebral levels, with relative preservation of the intervertebral disc spaces. Findings are suggestive of diffuse idiopathic skeletal hyperostosis (DISH)"
 disp,displacement
 dns,deviated nasal septum
 doc,disc-osteophyte complex
@@ -534,7 +535,7 @@ perip,periportal
 peripa,peripancreatic
 periv,periventricular
 pes,partially empty sella
-pess,There is fluid signal intensity noted in the pituitary fossa suggestive of partial empty sella
+pess,"There is fluid signal intensity noted in the pituitary fossa with flattening of the pituitary gland, suggestive of partial empty sella"
 pf,patchy fibrosis
 pfc,patchy fibrotic changes
 phtn,portal hypertension
@@ -674,12 +675,14 @@ svd,Small vessel disease
 svdf,Small vessel disease (Fazekas grade-I)
 svdff,Small vessel disease (Fazekas grade-II)
 svdfff,Small vessel disease (Fazekas grade-III)
-svds,Discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale
+svds,Multiple discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale
 svdsc,Multiple hypodensities are noted in bilateral periventricular white matter and centrum semi-ovale
 sx,surgery
 sym,symmetrical
 t1,T1
 t2,T2
+t2fl,T2/FLAIR
+t2st,T2/STIR
 ta,there are
 tb,tuberculosis
 tc,tiny calculi (<3mm)
@@ -732,7 +735,7 @@ vl,vertebral level
 vol,volume
 voll,volume loss
 vrs,Virchow Robin spaces
-vrss,"Multiple tiny T2 high signal intensity foci noted in  bilateral frontoparietal lobe which are suppressed on FLAIR , likely Virchow Robin spaces"
+vrss,"Multiple tiny T2 hyperintense FLAIR suppressed foci noted in  bilateral frontoparietal lobes, likely Virchow Robin spaces"
 vuj,vesicoureteric junction
 w,with
 wd,well-defined
