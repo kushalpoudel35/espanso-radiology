@@ -67,7 +67,7 @@ bl,bilateral
 blf,bilateral lung fields
 blk,bilateral kidneys
 bll,bilateral lower lobes
-bloom,No blooming seen on SWI
+bloom,No blooming seen on SWI/GRE
 bm,bone marrow
 boo,bladder outlet obstruction
 br,branch
@@ -735,7 +735,7 @@ vl,vertebral level
 vol,volume
 voll,volume loss
 vrs,Virchow Robin spaces
-vrss,"Multiple tiny T2 hyperintense FLAIR suppressed foci noted in  bilateral frontoparietal lobes, likely Virchow Robin spaces"
+vrss,"Multiple tiny T2 hyperintense FLAIR suppressed foci without gliotic rim noted in  bilateral frontoparietal lobes, likely Virchow Robin spaces"
 vuj,vesicoureteric junction
 w,with
 wd,well-defined

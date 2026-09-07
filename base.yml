@@ -340,7 +340,7 @@ matches:
     propagate_case: true
 
   - trigger: "bloom"
-    replace: "No blooming seen on SWI"
+    replace: "No blooming seen on SWI/GRE"
     word: true
     propagate_case: true
 
@@ -3680,7 +3680,7 @@ matches:
     propagate_case: true
 
   - trigger: "vrss"
-    replace: "Multiple tiny T2 hyperintense FLAIR suppressed foci noted in  bilateral frontoparietal lobes, likely Virchow Robin spaces"
+    replace: "Multiple tiny T2 hyperintense FLAIR suppressed foci without gliotic rim noted in  bilateral frontoparietal lobes, likely Virchow Robin spaces"
     word: true
     propagate_case: true
 
