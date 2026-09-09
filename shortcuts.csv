@@ -123,6 +123,7 @@ chea,common hepatic artery
 chemo,chemotherapy
 cholangioca,cholangiocarcinoma
 chr,chronic
+chrif,Well-defined T2 high FLAIR suppressed signal intensity with surrounding gliotic rim is noted in
 cia,common iliac artery
 cic,cicatrization collapse
 cir,circumscribed
@@ -481,6 +482,8 @@ nrs,nerve roots
 nsf,non-specific
 nsl,Nasal septum is deviated to left
 nsr,Nasal septum is deviated to right
+nswm,Non-specific white matter hyperintensities in bilateral frontoparietal lobes
+nswmh,Multiple discrete T2/FLAIR hyperintensities are noted in subcortical and deep white matter of bilateral frontoparietal lobes. No restriction of diffusion on DWI
 nt,noted
 nu,nucleus
 num,number
@@ -675,7 +678,7 @@ svd,Small vessel disease
 svdf,Small vessel disease (Fazekas grade-I)
 svdff,Small vessel disease (Fazekas grade-II)
 svdfff,Small vessel disease (Fazekas grade-III)
-svds,Multiple discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale
+svds,Multiple discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale. No restriction of diffusion on DWI
 svdsc,Multiple hypodensities are noted in bilateral periventricular white matter and centrum semi-ovale
 sx,surgery
 sym,symmetrical
