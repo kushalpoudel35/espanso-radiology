@@ -339,8 +339,13 @@ matches:
     word: true
     propagate_case: true
 
-  - trigger: "bloom"
-    replace: "No blooming seen on SWI/GRE"
+  - trigger: "bloomg"
+    replace: "No blooming seen on GRE"
+    word: true
+    propagate_case: true
+
+  - trigger: "blooms"
+    replace: "No blooming seen on SWI"
     word: true
     propagate_case: true
 
@@ -2101,6 +2106,11 @@ matches:
 
   - trigger: "masi"
     replace: "maxillary sinus"
+    word: true
+    propagate_case: true
+
+  - trigger: "mast"
+    replace: "T2 high signal intensity noted in bilateral mastoid air cells - suggestive of mastoiditis"
     word: true
     propagate_case: true
 

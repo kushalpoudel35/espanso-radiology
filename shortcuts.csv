@@ -67,7 +67,8 @@ bl,bilateral
 blf,bilateral lung fields
 blk,bilateral kidneys
 bll,bilateral lower lobes
-bloom,No blooming seen on SWI/GRE
+bloomg,No blooming seen on GRE
+blooms,No blooming seen on SWI
 bm,bone marrow
 boo,bladder outlet obstruction
 br,branch
@@ -420,6 +421,7 @@ malig,malignant
 maligp,malignant pathology
 mas,maxillary sinus
 masi,maxillary sinus
+mast,T2 high signal intensity noted in bilateral mastoid air cells - suggestive of mastoiditis
 max,maximum
 maxi,maxillary
 mbs,medial basal segment
