@@ -1355,12 +1355,12 @@ matches:
     propagate_case: true
 
   - trigger: "gb"
-    replace: "gall bladder"
+    replace: "gallbladder"
     word: true
     propagate_case: true
 
   - trigger: "gbl"
-    replace: "gall bladder lumen"
+    replace: "gallbladder lumen"
     word: true
     propagate_case: true
 
