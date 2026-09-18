@@ -138,6 +138,7 @@ cn,centrilobular nodules
 cnap,calcified and non-calcified atherosclerotic plaques
 cnl,contralateral
 cnt,centrilobular nodules giving tree in bud pattern
+coc,corpus callosum
 cocon,collapse consolidation
 col,collection
 coll,collateral
@@ -229,7 +230,9 @@ eo,evidence of
 ep,endplate
 eps,endplates
 erp,extrarenal pelvis
+es,empty sella
 esp,especially
+ess,"There is fluid signal intensity noted in the pituitary fossa with marked flattening of the pituitary gland, suggestive of empty sella"
 eth,ethmoidal
 eths,ethmoid sinus
 ett,endotracheal tube
@@ -540,8 +543,8 @@ perin,perinephric
 perip,periportal
 peripa,peripancreatic
 periv,periventricular
-pes,partially empty sella
-pess,"There is fluid signal intensity noted in the pituitary fossa with flattening of the pituitary gland, suggestive of partial empty sella"
+pes,partial empty sella
+pess,"There is partial fluid signal intensity noted in the pituitary fossa with mild flattening of the pituitary gland, suggestive of partial empty sella"
 pf,patchy fibrosis
 pfc,patchy fibrotic changes
 phtn,portal hypertension

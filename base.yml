@@ -694,6 +694,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "coc"
+    replace: "corpus callosum"
+    word: true
+    propagate_case: true
+
   - trigger: "cocon"
     replace: "collapse consolidation"
     word: true
@@ -1149,8 +1154,18 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "es"
+    replace: "empty sella"
+    word: true
+    propagate_case: true
+
   - trigger: "esp"
     replace: "especially"
+    word: true
+    propagate_case: true
+
+  - trigger: "ess"
+    replace: "There is fluid signal intensity noted in the pituitary fossa with marked flattening of the pituitary gland, suggestive of empty sella"
     word: true
     propagate_case: true
 
@@ -2705,12 +2720,12 @@ matches:
     propagate_case: true
 
   - trigger: "pes"
-    replace: "partially empty sella"
+    replace: "partial empty sella"
     word: true
     propagate_case: true
 
   - trigger: "pess"
-    replace: "There is fluid signal intensity noted in the pituitary fossa with flattening of the pituitary gland, suggestive of partial empty sella"
+    replace: "There is partial fluid signal intensity noted in the pituitary fossa with mild flattening of the pituitary gland, suggestive of partial empty sella"
     word: true
     propagate_case: true
 
