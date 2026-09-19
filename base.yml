@@ -1364,6 +1364,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "gbout"
+    replace: "Gallbladder is not visualized with hyperdense clips in gallbladder fossa - suggestive of post-cholecystectomy status"
+    word: true
+    propagate_case: true
+
   - trigger: "gda"
     replace: "gastroduodenal artery"
     word: true
