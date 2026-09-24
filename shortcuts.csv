@@ -700,6 +700,7 @@ tcc,transitional cell carcinoma
 tcs,tiny calculus (<3mm)
 temb,temporal bone
 teml,temporal lobe
+tg,thyroid gland
 thad,"Geographic arterial phase hyperenhancement is seen in segment ... of the liver without associated mass effect or contour abnormality, becoming isodense on portal venous phase - suggestive of transient hepatic attenuation difference (THAD)"
 thic,thickening
 thr,thrombosis
@@ -726,10 +727,10 @@ tx,treatment
 ub,urinary bladder
 ube,Urinary bladder is empty
 ubef,Urinary bladder is empty with Foley's in situ
-ubm,Urinary bladder is minimally filled
-ubmf,Urinary bladder is minimally filled with Foley's in situ
-ubp,Urinary bladder is partially filled
-ubpf,Urinary bladder is partially filled with Foley's in situ
+ubm,Urinary bladder is minimally distended
+ubmf,Urinary bladder is minimally distended with Foley's in situ
+ubp,Urinary bladder is partially distended
+ubpf,Urinary bladder is partially distended with Foley's in situ
 ud,upstream dilatation
 upc,upper pole calyx
 upco,upper polar cortex

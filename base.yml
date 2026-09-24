@@ -3504,6 +3504,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "tg"
+    replace: "thyroid gland"
+    word: true
+    propagate_case: true
+
   - trigger: "thad"
     replace: "Geographic arterial phase hyperenhancement is seen in segment ... of the liver without associated mass effect or contour abnormality, becoming isodense on portal venous phase - suggestive of transient hepatic attenuation difference (THAD)"
     word: true
@@ -3635,22 +3640,22 @@ matches:
     propagate_case: true
 
   - trigger: "ubm"
-    replace: "Urinary bladder is minimally filled"
+    replace: "Urinary bladder is minimally distended"
     word: true
     propagate_case: true
 
   - trigger: "ubmf"
-    replace: "Urinary bladder is minimally filled with Foley's in situ"
+    replace: "Urinary bladder is minimally distended with Foley's in situ"
     word: true
     propagate_case: true
 
   - trigger: "ubp"
-    replace: "Urinary bladder is partially filled"
+    replace: "Urinary bladder is partially distended"
     word: true
     propagate_case: true
 
   - trigger: "ubpf"
-    replace: "Urinary bladder is partially filled with Foley's in situ"
+    replace: "Urinary bladder is partially distended with Foley's in situ"
     word: true
     propagate_case: true
 
