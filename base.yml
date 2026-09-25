@@ -3675,7 +3675,7 @@ matches:
     propagate_case: true
 
   - trigger: "usg"
-    replace: "ultrasound"
+    replace: "ultrasonography"
     word: true
     propagate_case: true
 
