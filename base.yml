@@ -264,6 +264,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "atlc"
+    replace: "atelectatic"
+    word: true
+    propagate_case: true
+
   - trigger: "ats"
     replace: "anterior thecal sac"
     word: true
@@ -1369,6 +1374,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "gc"
+    replace: "greater curvature"
+    word: true
+    propagate_case: true
+
   - trigger: "gda"
     replace: "gastroduodenal artery"
     word: true
@@ -1921,6 +1931,11 @@ matches:
 
   - trigger: "lbs"
     replace: "lateral basal segment"
+    word: true
+    propagate_case: true
+
+  - trigger: "lc"
+    replace: "lesser curvature"
     word: true
     propagate_case: true
 

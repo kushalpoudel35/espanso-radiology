@@ -52,6 +52,7 @@ ath,atherosclerotic
 atha,Atherosclerotic changes are noted in the aorta and its branches
 athp,atherosclerotic plaque
 atl,atelectasis
+atlc,atelectatic
 ats,anterior thecal sac
 atsl,at the same level
 att,attenuating
@@ -273,6 +274,7 @@ fxn,function
 gb,gallbladder
 gbl,gallbladder lumen
 gbout,Gallbladder is not visualized with hyperdense clips in gallbladder fossa - suggestive of post-cholecystectomy status
+gc,greater curvature
 gda,gastroduodenal artery
 gdb,global disc bulge
 gej,gastro-esophageal junction
@@ -384,6 +386,7 @@ laty,laterally
 lb,left breast
 lbp,lower back pain
 lbs,lateral basal segment
+lc,lesser curvature
 lca,left coronary artery
 lcl,lateral collateral ligament
 lcx,left circumflex artery
