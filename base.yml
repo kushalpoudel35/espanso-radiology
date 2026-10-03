@@ -3525,7 +3525,12 @@ matches:
     propagate_case: true
 
   - trigger: "thad"
-    replace: "Geographic arterial phase hyperenhancement is seen in segment ... of the liver without associated mass effect or contour abnormality, becoming isodense on portal venous phase - suggestive of transient hepatic attenuation difference (THAD)"
+    replace: "transient hepatic attenuation differences (THAD)"
+    word: true
+    propagate_case: true
+
+  - trigger: "thads"
+    replace: "Geographic area of increased arterial phase enhancement is seen in segment ... of the liver without associated mass effect or contour abnormality, becoming isodense on portal venous phase - suggestive of transient hepatic attenuation differences (THAD)"
     word: true
     propagate_case: true
 
