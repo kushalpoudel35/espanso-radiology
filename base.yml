@@ -1059,6 +1059,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "ehng"
+    replace: "enhancing"
+    word: true
+    propagate_case: true
+
   - trigger: "ehpvo"
     replace: "extrahepatic portal vein obstruction"
     word: true
@@ -3306,6 +3311,11 @@ matches:
 
   - trigger: "sot"
     replace: "some of the"
+    word: true
+    propagate_case: true
+
+  - trigger: "sp"
+    replace: "subcutaneous plane"
     word: true
     propagate_case: true
 
