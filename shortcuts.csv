@@ -112,6 +112,7 @@ cdp,central disc protrusion
 cea,cerebral atrophy
 ceat,"There is volume loss of bilateral cerebral hemispheres with prominent sulci, extraaxial CSF spaces & proportionate dilatation of ventricles"
 ceh,cerebellar hemisphere
+cem,centrilobular emphysematous changes
 cenr,cauda equina nerve roots
 cf,calcific focus
 cfa,common femoral artery
@@ -404,8 +405,11 @@ lif,left iliac fossa
 lig,ligament
 lir,(Left > Right)
 lk,left kidney
+llb,lower lobe of bilateral lungs
 lll,left lower lobe
+llol,lower lobe of left lung
 llq,left lower quadrant
+llr,lower lobe of right lung
 lm,lateral meniscus
 ln,lymph node
 lns,lymph nodes
@@ -450,6 +454,7 @@ mets,metastasis
 mfp,maintained fat plane
 mhv,middle hepatic vein
 min,minimal
+mlr,middle lobe of right lung
 mn,micronodule
 mns,micronodules
 mod,moderate
@@ -541,6 +546,7 @@ pdfs,PD FS
 pdp,paracentral disc protrusion
 pe,pulmonary embolism
 peed,perilesional edema
+pem,paraseptal emhysematous changes
 pera,peroneal artery
 peric,pericardial
 perig,perigastric
@@ -678,6 +684,7 @@ str,structure
 sts,soft tissue strandings
 subc,subcarinal
 subcm,subcentimetric
+subcut,subcutaneous
 subseg,subsegmental
 sup,superior
 supp,suppressed
@@ -739,6 +746,9 @@ ubmf,Urinary bladder is minimally distended with Foley's in situ
 ubp,Urinary bladder is partially distended
 ubpf,Urinary bladder is partially distended with Foley's in situ
 ud,upstream dilatation
+ulb,upper lobe of bilateral lungs
+ull,upper lobe of left lung
+ulr,upper lobe of right lung
 upc,upper pole calyx
 upco,upper polar cortex
 usg,ultrasonography

@@ -564,6 +564,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "cem"
+    replace: "centrilobular emphysematous changes"
+    word: true
+    propagate_case: true
+
   - trigger: "cenr"
     replace: "cauda equina nerve roots"
     word: true
@@ -2024,13 +2029,28 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "llb"
+    replace: "lower lobe of bilateral lungs"
+    word: true
+    propagate_case: true
+
   - trigger: "lll"
     replace: "left lower lobe"
     word: true
     propagate_case: true
 
+  - trigger: "llol"
+    replace: "lower lobe of left lung"
+    word: true
+    propagate_case: true
+
   - trigger: "llq"
     replace: "left lower quadrant"
+    word: true
+    propagate_case: true
+
+  - trigger: "llr"
+    replace: "lower lobe of right lung"
     word: true
     propagate_case: true
 
@@ -2251,6 +2271,11 @@ matches:
 
   - trigger: "min"
     replace: "minimal"
+    word: true
+    propagate_case: true
+
+  - trigger: "mlr"
+    replace: "middle lobe of right lung"
     word: true
     propagate_case: true
 
@@ -2706,6 +2731,11 @@ matches:
 
   - trigger: "peed"
     replace: "perilesional edema"
+    word: true
+    propagate_case: true
+
+  - trigger: "pem"
+    replace: "paraseptal emhysematous changes"
     word: true
     propagate_case: true
 
@@ -3394,6 +3424,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "subcut"
+    replace: "subcutaneous"
+    word: true
+    propagate_case: true
+
   - trigger: "subseg"
     replace: "subsegmental"
     word: true
@@ -3696,6 +3731,21 @@ matches:
 
   - trigger: "ud"
     replace: "upstream dilatation"
+    word: true
+    propagate_case: true
+
+  - trigger: "ulb"
+    replace: "upper lobe of bilateral lungs"
+    word: true
+    propagate_case: true
+
+  - trigger: "ull"
+    replace: "upper lobe of left lung"
+    word: true
+    propagate_case: true
+
+  - trigger: "ulr"
+    replace: "upper lobe of right lung"
     word: true
     propagate_case: true
 
