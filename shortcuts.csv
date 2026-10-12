@@ -295,7 +295,7 @@ hcp,hydrocephalus
 hdn,hydronephrosis
 hdun,hydroureteronephrosis
 hee,heterogeneous enhancement
-hemangiomaex,There is a lesion measuring 1.5x1.2 cm which shows peripheral nodular enhancement in arterial phase with progressive centripetal filling and enhancement corresponding to adjacent blood pool in subsequent phase
+hemangiomaex,There is a lesion measuring 1.5x1.2 cm in segment V which shows peripheral nodular enhancement in arterial phase with progressive centripetal filling and enhancement corresponding to adjacent blood pool in subsequent phase
 hemangiomav,A lytic lesion with vertical trabeculations giving 'polka-dot appearance' on axial section is noted in D12 vertebral body - likely hemangioma
 heng,heterogeneously enhancing
 hepa,hepatic artery
@@ -625,6 +625,7 @@ rk,right kidney
 rll,right lower lobe
 rlq,right lower quadrant
 rml,right middle lobe
+rmt,retromolar trigone
 rot,rest of the
 rp,retroperitoneum
 rpl,retroperitoneal

@@ -1480,7 +1480,7 @@ matches:
     propagate_case: true
 
   - trigger: "hemangiomaex"
-    replace: "There is a lesion measuring 1.5x1.2 cm which shows peripheral nodular enhancement in arterial phase with progressive centripetal filling and enhancement corresponding to adjacent blood pool in subsequent phase"
+    replace: "There is a lesion measuring 1.5x1.2 cm in segment V which shows peripheral nodular enhancement in arterial phase with progressive centripetal filling and enhancement corresponding to adjacent blood pool in subsequent phase"
     word: true
     propagate_case: true
 
@@ -3126,6 +3126,11 @@ matches:
 
   - trigger: "rml"
     replace: "right middle lobe"
+    word: true
+    propagate_case: true
+
+  - trigger: "rmt"
+    replace: "retromolar trigone"
     word: true
     propagate_case: true
 
