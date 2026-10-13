@@ -29,6 +29,7 @@ alat	anterolateral	en-US
 allg	anterior longitudinal ligament	en-US
 ambs	antero medial basal segment	en-US
 amed	anteromedial	en-US
+aml	angiomyolipoma	en-US
 amt	amount	en-US
 ant	anterior	en-US
 anty	anteriorly	en-US
@@ -42,16 +43,18 @@ asc	ascending	en-US
 asca	ascending aorta	en-US
 ascc	ascending colon	en-US
 asp	aspect	en-US
-ass	associated	en-US
+asso	associated	en-US
 asup	anterosuperior	en-US
 asym	asymmetric	en-US
 ata	anterior tibial artery	en-US
 atc	(AP x Tra x CC)	en-US
 atel	atelectasis	en-US
+atelc	atelectatic changes	en-US
 ath	atherosclerotic	en-US
 atha	Atherosclerotic changes are noted in the aorta and its branches	en-US
 athp	atherosclerotic plaque	en-US
 atl	atelectasis	en-US
+atlc	atelectatic	en-US
 ats	anterior thecal sac	en-US
 atsl	at the same level	en-US
 att	attenuating	en-US
@@ -67,6 +70,8 @@ bl	bilateral	en-US
 blf	bilateral lung fields	en-US
 blk	bilateral kidneys	en-US
 bll	bilateral lower lobes	en-US
+bloomg	No blooming seen on GRE	en-US
+blooms	No blooming seen on SWI	en-US
 bm	bone marrow	en-US
 boo	bladder outlet obstruction	en-US
 br	branch	en-US
@@ -108,11 +113,14 @@ cdp	central disc protrusion	en-US
 cea	cerebral atrophy	en-US
 ceat	There is volume loss of bilateral cerebral hemispheres with prominent sulci, extraaxial CSF spaces & proportionate dilatation of ventricles	en-US
 ceh	cerebellar hemisphere	en-US
+cem	centrilobular emphysematous changes	en-US
+cenr	cauda equina nerve roots	en-US
 cf	calcific focus	en-US
 cfa	common femoral artery	en-US
 cfi	calcific foci	en-US
 cfv	common femoral vein	en-US
 cg	calcified granuloma	en-US
+cgs	calcified granulomas	en-US
 ch	cerebral hemisphere	en-US
 cha	changes	en-US
 chd	common hepatic duct	en-US
@@ -120,6 +128,7 @@ chea	common hepatic artery	en-US
 chemo	chemotherapy	en-US
 cholangioca	cholangiocarcinoma	en-US
 chr	chronic	en-US
+chrif	Well-defined T2 high FLAIR suppressed signal intensity with surrounding gliotic rim is noted in	en-US
 cia	common iliac artery	en-US
 cic	cicatrization collapse	en-US
 cir	circumscribed	en-US
@@ -132,7 +141,8 @@ cmn	centrilobular micronodules	en-US
 cn	centrilobular nodules	en-US
 cnap	calcified and non-calcified atherosclerotic plaques	en-US
 cnl	contralateral	en-US
-cnt	centrilobular nodules with tree in bud pattern	en-US
+cnt	centrilobular nodules giving tree in bud pattern	en-US
+coc	corpus callosum	en-US
 cocon	collapse consolidation	en-US
 col	collection	en-US
 coll	collateral	en-US
@@ -144,11 +154,12 @@ cor	coronal	en-US
 corr	correlation	en-US
 cp	cerebello-pontine	en-US
 cpa	cerebello-pontine angle	en-US
-cpe	Centriacinar and paraseptal emphysematous changes	en-US
+cpe	Centrilobular and paraseptal emphysematous changes	en-US
 cs	cervical spine	en-US
 csc	central spinal canal	en-US
 cso	centrum semi-ovale	en-US
 csp	cavum septum pellucidum	en-US
+cspev	cavum septum pellucidum et vergae	en-US
 cxr	chest x-ray	en-US
 d1	D1	en-US
 d10	D10	en-US
@@ -174,8 +185,8 @@ d89	D8-D9	en-US
 d9	D9	en-US
 d910	D9-D10	en-US
 dd	D/D:	en-US
-ddc	disc dessication changes	en-US
-ddmos	disc dessication changes  with marginal osteophytes	en-US
+ddc	disc desiccation changes	en-US
+ddmos	Disc desiccation changes with marginal osteophytes are noted at multiple vertebral levels	en-US
 deg	degenerative	en-US
 dep	dependent	en-US
 des	descending	en-US
@@ -186,6 +197,7 @@ dia	diameter	en-US
 diff	differentiation	en-US
 dila	dilatation	en-US
 dires	diffusion restriction	en-US
+dishx	Multilevel flowing anterolateral ossification/bridging osteophytes along the thoracic spine involving multiple contiguous vertebral levels, with relative preservation of the intervertebral disc spaces. Findings are suggestive of diffuse idiopathic skeletal hyperostosis (DISH)	en-US
 disp	displacement	en-US
 dns	deviated nasal septum	en-US
 doc	disc-osteophyte complex	en-US
@@ -199,8 +211,10 @@ dwm	deep white matter	en-US
 dz	disease	en-US
 eac	external auditory canal	en-US
 ec	external capsule	en-US
+eca	external carotid artery	en-US
 edh	extradural hemorrhage	en-US
 eff	effacement	en-US
+ehng	enhancing	en-US
 ehpvo	extrahepatic portal vein obstruction	en-US
 eia	external iliac artery	en-US
 eiv	external iliac vein	en-US
@@ -208,16 +222,22 @@ emh	Soft tissue density is noted in right middle ear cavity involving epitympanu
 emos	early marginal osteophytes	en-US
 empc	emphysematous changes	en-US
 enc	encasing	en-US
+enca	encasement	en-US
 enh	enhancement	en-US
 enhg	enhancing	en-US
 enl	enlarged	en-US
+enla	enlargement	en-US
 enr	exiting nerve root	en-US
+enrs	exiting nerve roots	en-US
+ent	endometrial thickness	en-US
 envt	environment	en-US
 eo	evidence of	en-US
 ep	endplate	en-US
 eps	endplates	en-US
+erp	extrarenal pelvis	en-US
+es	empty sella	en-US
 esp	especially	en-US
-et	endometrial thickness	en-US
+ess	There is fluid signal intensity noted in the pituitary fossa with marked flattening of the pituitary gland, suggestive of empty sella	en-US
 eth	ethmoidal	en-US
 eths	ethmoid sinus	en-US
 ett	endotracheal tube	en-US
@@ -226,6 +246,7 @@ ext	external	en-US
 extd	extending	en-US
 extg	extending	en-US
 extn	extension	en-US
+fac	fibroatelectatic changes	en-US
 falo	features are likely of	en-US
 fatel	fibroatelectatic	en-US
 fbro	fibro bronchiectatic	en-US
@@ -233,11 +254,13 @@ fc	fibrotic changes	en-US
 fcc	fibrocalcific changes	en-US
 fcw	features are consistent with	en-US
 fd	filling defect	en-US
+fdf	facilitated diffusion on DWI	en-US
 ff	free fluid	en-US
 fibron	fibronodular	en-US
 fja	facet joint arthropathy	en-US
 fl	FLAIR	en-US
 flo	features likely of	en-US
+fnc	fibronodular changes	en-US
 fo	features of	en-US
 fp	fat plane	en-US
 fpt	fronto-parieto-temporal	en-US
@@ -251,8 +274,11 @@ fs	fat strandings	en-US
 fso	features suggestive of	en-US
 fva	Findings in visualized abdomen	en-US
 fvc	Findings in visualized chest	en-US
-gb	gall bladder	en-US
-gbl	gall bladder lumen	en-US
+fxn	function	en-US
+gb	gallbladder	en-US
+gbl	gallbladder lumen	en-US
+gbout	Gallbladder is not visualized with hyperdense clips in gallbladder fossa - suggestive of post-cholecystectomy status	en-US
+gc	greater curvature	en-US
 gda	gastroduodenal artery	en-US
 gdb	global disc bulge	en-US
 gej	gastro-esophageal junction	en-US
@@ -270,7 +296,7 @@ hcp	hydrocephalus	en-US
 hdn	hydronephrosis	en-US
 hdun	hydroureteronephrosis	en-US
 hee	heterogeneous enhancement	en-US
-hemangiomaex	There is a lesion measuring 1.5x1.2 cm which shows peripheral nodular enhancement in arterial phase with progressive centripetal filling and enhancement corresponding to adjacent blood pool in subsequent phase	en-US
+hemangiomaex	There is a lesion measuring 1.5x1.2 cm in segment V which shows peripheral nodular enhancement in arterial phase with progressive centripetal filling and enhancement corresponding to adjacent blood pool in subsequent phase	en-US
 hemangiomav	A lytic lesion with vertical trabeculations giving 'polka-dot appearance' on axial section is noted in D12 vertebral body - likely hemangioma	en-US
 heng	heterogeneously enhancing	en-US
 hepa	hepatic artery	en-US
@@ -327,6 +353,7 @@ inp	infective pathology	en-US
 int	intermediate	en-US
 intm	intermediate	en-US
 inv	involving	en-US
+invo	involvement	en-US
 ipc	interpolar calyx	en-US
 ipco	interpolar cortex	en-US
 ips	ipsilateral	en-US
@@ -361,7 +388,9 @@ larma	largest measuring approximately	en-US
 lat	lateral	en-US
 laty	laterally	en-US
 lb	left breast	en-US
+lbp	lower back pain	en-US
 lbs	lateral basal segment	en-US
+lc	lesser curvature	en-US
 lca	left coronary artery	en-US
 lcl	lateral collateral ligament	en-US
 lcx	left circumflex artery	en-US
@@ -377,8 +406,11 @@ lif	left iliac fossa	en-US
 lig	ligament	en-US
 lir	(Left > Right)	en-US
 lk	left kidney	en-US
+llb	lower lobe of bilateral lungs	en-US
 lll	left lower lobe	en-US
+llol	lower lobe of left lung	en-US
 llq	left lower quadrant	en-US
+llr	lower lobe of right lung	en-US
 lm	lateral meniscus	en-US
 ln	lymph node	en-US
 lns	lymph nodes	en-US
@@ -403,9 +435,11 @@ malig	malignant	en-US
 maligp	malignant pathology	en-US
 mas	maxillary sinus	en-US
 masi	maxillary sinus	en-US
+mast	T2 high signal intensity noted in bilateral mastoid air cells - suggestive of mastoiditis	en-US
 max	maximum	en-US
 maxi	maxillary	en-US
 mbs	medial basal segment	en-US
+mc	Modic changes	en-US
 mca	middle cerebral artery	en-US
 mcl	medial collateral ligament	en-US
 mea	measuring	en-US
@@ -421,6 +455,7 @@ mets	metastasis	en-US
 mfp	maintained fat plane	en-US
 mhv	middle hepatic vein	en-US
 min	minimal	en-US
+mlr	middle lobe of right lung	en-US
 mn	micronodule	en-US
 mns	micronodules	en-US
 mod	moderate	en-US
@@ -442,6 +477,7 @@ n	and	en-US
 na	noted at	en-US
 nap	non-calcified atherosclerotic plaques	en-US
 nar	narrowing	en-US
+nasl	noted at the same level	en-US
 nb	nasal bone	en-US
 nc	nasal cavity	en-US
 ncc	neurocysticercosis	en-US
@@ -458,10 +494,14 @@ nonopa	non-opacification	en-US
 nonvis	non-visualization	en-US
 nor	normal	en-US
 nos	No septations, solid component or calcification noted within	en-US
+nowss	Due to unavailability of T2 sagittal whole spine screening image, presence of transitional vertebra couldn't be completely ruled out. The last unfused vertebra is counted as L5	en-US
 nr	nerve root	en-US
+nrs	nerve roots	en-US
 nsf	non-specific	en-US
 nsl	Nasal septum is deviated to left	en-US
 nsr	Nasal septum is deviated to right	en-US
+nswm	Non-specific white matter hyperintensities in bilateral frontoparietal lobes	en-US
+nswmh	Multiple discrete T2/FLAIR hyperintensities are noted in subcortical and deep white matter of bilateral frontoparietal lobes. No restriction of diffusion on DWI	en-US
 nt	noted	en-US
 nu	nucleus	en-US
 num	number	en-US
@@ -507,6 +547,7 @@ pdfs	PD FS	en-US
 pdp	paracentral disc protrusion	en-US
 pe	pulmonary embolism	en-US
 peed	perilesional edema	en-US
+pem	paraseptal emhysematous changes	en-US
 pera	peroneal artery	en-US
 peric	pericardial	en-US
 perig	perigastric	en-US
@@ -515,10 +556,11 @@ perin	perinephric	en-US
 perip	periportal	en-US
 peripa	peripancreatic	en-US
 periv	periventricular	en-US
-pes	partially empty sella	en-US
-pess	There is fluid signal intensity noted in the pituitary fossa suggestive of partial empty sella	en-US
+pes	partial empty sella	en-US
+pess	There is partial fluid signal intensity noted in the pituitary fossa with mild flattening of the pituitary gland, suggestive of partial empty sella	en-US
 pf	patchy fibrosis	en-US
 pfc	patchy fibrotic changes	en-US
+phtn	portal hypertension	en-US
 pinf	posteroinferior	en-US
 pit	pituitary	en-US
 pj	pancreaticojejunostomy	en-US
@@ -548,6 +590,7 @@ psup	posterosuperior	en-US
 pt	patient	en-US
 pta	posterior tibial artery	en-US
 pto	parieto-temporo-occipital	en-US
+pts	patients	en-US
 ptv	posterior tibial vein	en-US
 puj	pelviureteric junction	en-US
 pujo	pelviureteric junction obstruction	en-US
@@ -583,6 +626,7 @@ rk	right kidney	en-US
 rll	right lower lobe	en-US
 rlq	right lower quadrant	en-US
 rml	right middle lobe	en-US
+rmt	retromolar trigone	en-US
 rot	rest of the	en-US
 rp	retroperitoneum	en-US
 rpl	retroperitoneal	en-US
@@ -627,6 +671,7 @@ smv	superior mesenteric vein	en-US
 snp	sinonasal polyposis	en-US
 sol	space occupying lesion	en-US
 sot	some of the	en-US
+sp	subcutaneous plane	en-US
 spc	spinal cord	en-US
 sph	sphenoid	en-US
 sphs	sphenoid sinus	en-US
@@ -641,6 +686,7 @@ str	structure	en-US
 sts	soft tissue strandings	en-US
 subc	subcarinal	en-US
 subcm	subcentimetric	en-US
+subcut	subcutaneous	en-US
 subseg	subsegmental	en-US
 sup	superior	en-US
 supp	suppressed	en-US
@@ -652,12 +698,16 @@ susp	suspicious	en-US
 svc	superior vena cava	en-US
 svd	Small vessel disease	en-US
 svdf	Small vessel disease (Fazekas grade-I)	en-US
-svds	Discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale	en-US
+svdff	Small vessel disease (Fazekas grade-II)	en-US
+svdfff	Small vessel disease (Fazekas grade-III)	en-US
+svds	Multiple discrete and confluent T2/FLAIR high signal intensities are noted in bilateral periventricular white matter and centrum semi-ovale. No restriction of diffusion on DWI	en-US
 svdsc	Multiple hypodensities are noted in bilateral periventricular white matter and centrum semi-ovale	en-US
 sx	surgery	en-US
 sym	symmetrical	en-US
 t1	T1	en-US
 t2	T2	en-US
+t2fl	T2/FLAIR	en-US
+t2st	T2/STIR	en-US
 ta	there are	en-US
 tb	tuberculosis	en-US
 tc	tiny calculi (<3mm)	en-US
@@ -665,7 +715,9 @@ tcc	transitional cell carcinoma	en-US
 tcs	tiny calculus (<3mm)	en-US
 temb	temporal bone	en-US
 teml	temporal lobe	en-US
-thad	Geographic arterial phase hyperenhancement is seen in segment ... of the liver without associated mass effect or contour abnormality, becoming isodense on portal venous phase - suggestive of transient hepatic attenuation difference (THAD)	en-US
+tg	thyroid gland	en-US
+thad	transient hepatic attenuation differences (THAD)	en-US
+thads	Geographic area of increased arterial phase enhancement is seen in segment ... of the liver without associated mass effect or contour abnormality, becoming isodense on portal venous phase - suggestive of transient hepatic attenuation differences (THAD)	en-US
 thic	thickening	en-US
 thr	thrombosis	en-US
 thru	through	en-US
@@ -676,6 +728,7 @@ tib	tree in bud pattern	en-US
 tm	tympanic membrane	en-US
 tmas	T2 high signal intensity noted in bilateral maxillary sinus - suggestive of sinusitis	en-US
 tnr	traversing nerve root	en-US
+tnrs	traversing nerve roots	en-US
 tpor	T2 high signal intensity with convex free margin is noted in right maxillary sinus - polyp/ retention cyst	en-US
 tpt	tibioperoneal trunk	en-US
 tr	there are	en-US
@@ -690,23 +743,29 @@ tx	treatment	en-US
 ub	urinary bladder	en-US
 ube	Urinary bladder is empty	en-US
 ubef	Urinary bladder is empty with Foley's in situ	en-US
-ubm	Urinary bladder is minimally filled	en-US
-ubmf	Urinary bladder is minimally filled with Foley's in situ	en-US
-ubp	Urinary bladder is partially filled	en-US
-ubpf	Urinary bladder is partially filled with Foley's in situ	en-US
+ubm	Urinary bladder is minimally distended	en-US
+ubmf	Urinary bladder is minimally distended with Foley's in situ	en-US
+ubp	Urinary bladder is partially distended	en-US
+ubpf	Urinary bladder is partially distended with Foley's in situ	en-US
 ud	upstream dilatation	en-US
+ulb	upper lobe of bilateral lungs	en-US
+ull	upper lobe of left lung	en-US
+ulr	upper lobe of right lung	en-US
 upc	upper pole calyx	en-US
 upco	upper polar cortex	en-US
-usg	ultrasound	en-US
+usg	ultrasonography	en-US
 usgc	USG correlation	en-US
+va	vertebral artery	en-US
 vb	vertebral body	en-US
+vbs	vertebral bodies	en-US
 ven	ventricle	en-US
 ver	vertebra	en-US
 vis	visualized	en-US
 vl	vertebral level	en-US
 vol	volume	en-US
 voll	volume loss	en-US
-vrs	Multiple tiny T2 high signal intensity foci noted in  bilateral frontoparietal lobe which are suppressed on FLAIR , likely Virchow Robin spaces	en-US
+vrs	Virchow Robin spaces	en-US
+vrss	Multiple tiny T2 hyperintense FLAIR suppressed foci without gliotic rim noted in  bilateral frontoparietal lobes, likely Virchow Robin spaces	en-US
 vuj	vesicoureteric junction	en-US
 w	with	en-US
 wd	well-defined	en-US
