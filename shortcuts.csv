@@ -307,12 +307,14 @@ hge,hemorrhage
 hgic,hemorrhagic
 hj,hepaticojejunostomy
 hl,hepaticolithiasis
+hm,hepatomegaly
 hoe,homogeneous enhancement
 hoeng,homogeneously enhancing
 homly,homogeneously
 homo,homogeneous
 hpec,HPE correlation
 hsi,high signal intensity
+hsm,hepatosplenomegaly
 ht,height
 htn,hypertension
 hwe,however
@@ -666,6 +668,7 @@ sigc,sigmoid colon
 sij,sacro-iliac joint
 sins,Mucosal thickening noted in bilateral maxillary sinus - suggestive of sinusitis
 slo,spanning a length of
+sm,splenomegaly
 sma,superior mesenteric artery
 smv,superior mesenteric vein
 snp,sinonasal polyposis
@@ -680,6 +683,7 @@ ss,sigmoid sinus
 sss,superior sagital sinus
 ssv,short saphenous vein
 st,STIR
+stc,soft tissue component
 std,soft tissue density
 stn,stenosis
 str,structure

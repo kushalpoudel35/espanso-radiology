@@ -1539,6 +1539,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "hm"
+    replace: "hepatomegaly"
+    word: true
+    propagate_case: true
+
   - trigger: "hoe"
     replace: "homogeneous enhancement"
     word: true
@@ -1566,6 +1571,11 @@ matches:
 
   - trigger: "hsi"
     replace: "high signal intensity"
+    word: true
+    propagate_case: true
+
+  - trigger: "hsm"
+    replace: "hepatosplenomegaly"
     word: true
     propagate_case: true
 
@@ -3334,6 +3344,11 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "sm"
+    replace: "splenomegaly"
+    word: true
+    propagate_case: true
+
   - trigger: "sma"
     replace: "superior mesenteric artery"
     word: true
@@ -3401,6 +3416,11 @@ matches:
 
   - trigger: "st"
     replace: "STIR"
+    word: true
+    propagate_case: true
+
+  - trigger: "stc"
+    replace: "soft tissue component"
     word: true
     propagate_case: true
 
