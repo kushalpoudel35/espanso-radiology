@@ -47,7 +47,7 @@ asso,associated
 asup,anterosuperior
 asym,asymmetric
 ata,anterior tibial artery
-atc,(AP x Tra x CC)
+atc,(AP x TR x CC)
 atel,atelectasis
 atelc,atelectatic changes
 ath,atherosclerotic
@@ -784,3 +784,10 @@ mrimra,"Findings in MRA:\n\nBilateral ICA, MCA, ACA and PCA are normal in course
 mriorbit,Findings in orbit:\n\nBilateral orbit including extraconal compartments are normal in signal intensity. No focal lesion seen.\n\nBilateral optic nerve sheath complexes are normal in signal intensity.\n\nBilateral cavernous sinuses show normal signal intensity.
 mrimrs,No abnormal metabolites are seen in MRS. No evidence of elevated Choline peak ( to suggest high mitotic activity) seen
 mrisij,"Findings in SIJ:\n\nThe sacroiliac joints are normal shape with normal development of the sacrum and iliac wings and a normal-appearing lumbosacral junction.\n\nThe joint space is of normal width on both sides. The joint contours are smooth and sharply defined.\n\nThe subchondral bone marrow appears normal. There are no marginal osteophytes.\n\nThe sacrum and iliac wings also contain normal bone marrow and present smooth, intact cortical boundaries. The sacral neural foramina are of normal width. The nerve filaments show normal course and diameter, and the width of the sacral spinal canal is normal.\n\nThe muscles and the imaged organs of the lesser pelvis show no abnormalities."
+ha,headache
+apcctr,(AP x CC x TR)
+trapcc,(TR x AP x CC)
+trccap,(TR x CC x AP)
+ccaptr,(CC x AP x TR)
+cctrap,(CC x TR x AP)
+aptrcc,(AP x TR x CC)

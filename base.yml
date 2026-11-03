@@ -240,7 +240,7 @@ matches:
     propagate_case: true
 
   - trigger: "atc"
-    replace: "(AP x Tra x CC)"
+    replace: "(AP x TR x CC)"
     word: true
     propagate_case: true
 
@@ -3921,6 +3921,41 @@ matches:
 
   - trigger: "mrisij"
     replace: "Findings in SIJ:\n\nThe sacroiliac joints are normal shape with normal development of the sacrum and iliac wings and a normal-appearing lumbosacral junction.\n\nThe joint space is of normal width on both sides. The joint contours are smooth and sharply defined.\n\nThe subchondral bone marrow appears normal. There are no marginal osteophytes.\n\nThe sacrum and iliac wings also contain normal bone marrow and present smooth, intact cortical boundaries. The sacral neural foramina are of normal width. The nerve filaments show normal course and diameter, and the width of the sacral spinal canal is normal.\n\nThe muscles and the imaged organs of the lesser pelvis show no abnormalities."
+    word: true
+    propagate_case: true
+
+  - trigger: "ha"
+    replace: "headache"
+    word: true
+    propagate_case: true
+
+  - trigger: "apcctr"
+    replace: "(AP x CC x TR)"
+    word: true
+    propagate_case: true
+
+  - trigger: "trapcc"
+    replace: "(TR x AP x CC)"
+    word: true
+    propagate_case: true
+
+  - trigger: "trccap"
+    replace: "(TR x CC x AP)"
+    word: true
+    propagate_case: true
+
+  - trigger: "ccaptr"
+    replace: "(CC x AP x TR)"
+    word: true
+    propagate_case: true
+
+  - trigger: "cctrap"
+    replace: "(CC x TR x AP)"
+    word: true
+    propagate_case: true
+
+  - trigger: "aptrcc"
+    replace: "(AP x TR x CC)"
     word: true
     propagate_case: true
 
