@@ -3959,3 +3959,8 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "mricss"
+    replace: "Atlanto-dental interspace is normal.\n\nEffective foramen magnum diameter is normal.\n\nOdontoid process is normal."
+    word: true
+    propagate_case: true
+
