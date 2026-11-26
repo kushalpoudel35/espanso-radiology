@@ -3964,3 +3964,8 @@ matches:
     word: true
     propagate_case: true
 
+  - trigger: "intu"
+    replace: "intussusception"
+    word: true
+    propagate_case: true
+
